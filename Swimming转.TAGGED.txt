@@ -1,0 +1,240 @@
+Germany_NP 's_POS Florian_NP Wellbrock_NP wins_VVZ men_NNS 's_POS marathon_NN swimming_NN at_IN Tokyo_NP Olympics_NPS TOKYO_NP --_: Florian_NP Wellbrock_NP of_IN Germany_NP added_VVD a_DT gold_JJ medal_NN in_IN marathon_NN swimming_NN to_TO his_PP$ bronze_NN at_IN the_DT pool_NN ,_, romping_VVG to_TO a_DT dominant_JJ win_NN in_IN the_DT men_NNS 's_POS 10-kilometer_NN race_NN at_IN Tokyo_NP Bay_NP in_IN the_DT Summer_NPS Olympics_NPS on_IN Thursday_NP ._SENT 
+Wellbrock_NP sprinted_VVD out_RP to_TO an_DT early_JJ lead_NN ,_, was_VBD up_RB front_RB most_JJS of_IN the_DT way_NN and_CC won_VVD by_IN the_DT biggest_JJS margin_NN in_IN Olympic_JJ marathon_NN swimming_NN history_NN on_IN another_DT sweltering_JJ morning_NN in_IN Japan_NP 's_POS capital_NN ._SENT 
+"_'' Florian_NP was_VBD unbeatable_JJ today_NN ,_, "_'' said_VVD Kristof_NP Rasovszky_NP of_IN Hungary_NP ,_, who_WP finished_VVD more_JJR than_IN 25_CD seconds_NNS behind_IN for_IN the_DT silver_NN ._SENT 
+"_'' I_PP tried_VVD to_TO be_VB the_DT best_JJS of_IN the_DT rest_NN ._SENT 
+"_'' Even_RB with_IN the_DT race_NN starting_VVG at_IN 6:30_CD a._NP m._NP ,_, the_DT temperature_NN was_VBD already_RB 81_CD degrees_NNS with_IN 80_CD %_NN humidity_NN ,_, making_VVG it_PP feel_VVP like_IN close_NN to_TO 90_CD degrees_NNS ._SENT 
+Unlike_IN the_DT women_NNS 's_POS race_NN the_DT previous_JJ day_NN ,_, there_EX were_VBD no_DT clouds_NNS to_TO mitigate_VV the_DT heat_NN ._SENT 
+It_PP sure_RB did_VVD n't_RB bother_VV the_DT reigning_VVG world_NN champion_NN ._SENT 
+"_'' A_DT little_JJ bit_NN unreal_JJ ,_, "_'' the_DT 23-year-old_NP Wellbrock_NP said_VVD ._SENT 
+"_`` The_DT first_JJ seven_CD [_SYM kilometers_NNS ]_SYM of_IN this_DT race_NN felt_VVD really_RB easy_JJ ._SENT 
+My_PP$ competitors_NNS had_VHD to_TO work_VV really_RB hard_JJ behind_IN me_PP ._SENT 
+"_'' The_DT stifling_VVG conditions_NNS got_VVD to_TO David_NP Aubry_NP of_IN France_NP ,_, who_WP dropped_VVD out_RP with_IN about_RB 3_CD kilometers_NNS remaining_VVG and_CC was_VBD carried_VVN off_RP the_DT deck_NN on_IN a_DT stretcher_NN ._SENT 
+French_JJ officials_NNS said_VVD a_DT shoulder_NN injury_NN hampered_VVD his_PP$ training_NN leading_VVG up_RP to_TO the_DT race_NN ,_, so_RB his_PP$ fitness_NN was_VBD n't_RB good_JJ enough_RB to_TO handle_VV the_DT heat_NN and_CC Wellbrock_NP 's_POS pace_NN ._SENT 
+Aubry_NP was_VBD feeling_VVG better_RBR after_IN receiving_VVG treatment_NN in_IN the_DT medical_JJ facility_NN ._SENT 
+"_`` It_PP was_VBD really_RB hot_JJ ,_, "_'' Rasovszky_NP said_VVD ._SENT 
+"_`` I_PP tried_VVD to_TO drink_VV my_PP$ refresher_NN every_DT lap_NN and_CC I_PP managed_VVD to_TO do_VV it_PP ._SENT 
+"_'' Hector_NP Pardoe_NP of_IN Britain_NP also_RB failed_VVD to_TO finish_VV after_IN being_VBG elbowed_VVN in_IN the_DT right_JJ eye_NN ._SENT 
+His_PP$ goggles_NNS were_VBD knocked_VVN off_RP ,_, and_CC he_PP emerged_VVD from_IN the_DT water_NN with_IN a_DT nasty_JJ gash_NN and_CC a_DT swollen_JJ eye_NN ._SENT 
+"_`` My_PP$ goggles_NNS were_VBD completely_RB snapped_VVN off_RP and_CC I_PP could_MD n't_RB see_VV a_DT thing_NN ,_, "_'' Pardoe_NP said_VVD ._SENT 
+"_`` I_PP did_VVD n't_RB realize_VV how_WRB bad_JJ it_PP was_VBD ._SENT 
+It_PP was_VBD all_RB blurry_JJ in_IN my_PP$ eye_NN ._SENT 
+"_'' Wellbrock_NP pulled_VVD away_RB on_IN the_DT final_JJ lap_NN to_TO win_VV by_IN 25.3_CD seconds_NNS ,_, finishing_VVG in_IN 1_CD hour_NN ,_, 48_CD minutes_NNS ,_, 33.7_CD seconds_NNS ._SENT 
+It_PP was_VBD by_IN far_RB the_DT largest_JJS margin_NN of_IN victory_NN in_IN the_DT history_NN of_IN Olympic_JJ marathon_NN swimming_NN ,_, which_WDT was_VBD added_VVN to_TO the_DT program_NN at_IN the_DT 2008_CD Beijing_NP Games_NPS ._SENT 
+Wellbrock_NP also_RB won_VVD a_DT bronze_NN in_IN the_DT 1,500-meter_NN freestyle_NN on_IN the_DT last_JJ day_NN of_IN swimming_NN at_IN the_DT pool_NN ._SENT 
+Rasovsky_NP finished_VVD in_IN 1:48.59.0_CD ,_, while_IN Gregorio_NP Paltrinieri_NP of_IN Italy_NP picked_VVD up_RP the_DT bronze_NN in_IN 1:49.01.1_CD ._SENT 
+Paltrinieri_NP was_VBD silver_JJ medalist_NN in_IN the_DT 800_CD freestyle_NN at_IN the_DT pool_NN ,_, completing_VVG a_DT remarkable_JJ comeback_NN from_IN a_DT bout_NN with_IN mononucleosis_NN shortly_RB before_IN the_DT games_NNS ._SENT 
+Wellbrock_NP and_CC Paltrinieri_NP became_VVD the_DT second_JJ and_CC third_JJ swimmers_NNS to_TO win_VV both_DT pool_NN and_CC open_JJ water_NN medals_NNS at_IN the_DT Olympics_NPS ,_, following_VVG Ous_JJ Mellouli_NNS of_IN Tunisia_NP ._SENT 
+Defending_VVG Olympic_JJ marathon_NN champion_NN Ferry_NP Weertman_NP of_IN the_DT Netherlands_NPS finished_VVD seventh_JJ ,_, while_IN American_NP Jordan_NP Wilimovsky_NP was_VBD 10th_JJ ._SENT 
+Wellbrock_NP stunned_VVD the_DT field_NN by_IN opening_VVG up_RP more_JJR than_IN a_DT 10-second_JJ lead_NN in_IN the_DT first_JJ kilometer_NN ._SENT 
+Everyone_NN else_RB had_VHD to_TO work_VV hard_RB just_RB to_TO keep_VV up_RP ,_, which_WDT paid_VVD off_RP at_IN the_DT end_NN when_WRB no_DT one_CD had_VHD enough_JJ energy_NN to_TO mount_VV a_DT comeback_NN ._SENT 
+"_`` It_PP was_VBD surprising_JJ ,_, "_'' Paltrinieri_NP said_VVD ._SENT 
+"_`` I_PP did_VVD n't_RB even_RB notice_VV (_( Wellbrock_NP 's_POS big_JJ lead_NN )_) until_IN my_PP$ coach_NN told_VVD me_PP I_PP was_VBD about_RB 30_CD seconds_NNS behind_IN this_DT guy_NN ._SENT 
+I_PP started_VVD to_TO close_VV the_DT gap_NN a_DT little_JJ bit_NN ,_, but_CC it_PP was_VBD really_RB hard_JJ ._SENT 
+"_'' Florian_NP was_VBD on_IN another_DT planet_NN today_NN ._SENT 
+"_'' After_IN Wellbrock_NP made_VVD the_DT final_JJ turn_NN around_IN a_DT red_NN buoy_VV at_IN the_DT far_JJ end_NN of_IN the_DT course_NN ,_, his_PP$ coaches_NNS were_VBD already_RB cheering_VVG and_CC celebrating_VVG on_IN the_DT deck_NN ._SENT 
+They_PP knew_VVD it_PP was_VBD over_RP ._SENT 
+Wellbrock_NP slapped_VVD the_DT timing_NN pad_NN ,_, climbed_VVD from_IN the_DT water_NN and_CC sprawled_VVD out_RP on_IN the_DT deck_NN ,_, pouring_VVG water_NN on_IN his_PP$ chest_NN under_IN the_DT blazing_VVG sun_NN ._SENT 
+He_PP skipped_VVD a_DT trip_NN through_IN the_DT media_NNS mixed_JJ zone_NN ,_, heading_VVG straight_RB to_TO the_DT recovery_NN area_NN ,_, but_CC was_VBD feeling_VVG just_RB fine_JJ when_WRB he_PP returned_VVD to_TO receive_VV his_PP$ gold_NN medal_NN ._SENT 
+It_PP was_VBD a_DT far_JJ cry_NN from_IN the_DT 2016_CD race_NN at_IN Rio_NP de_NP Janeiro_NP ,_, where_WRB Weertman_NP beat_VVD Spyridon_NP Gianniotis_NP of_IN Greece_NP by_IN just_RB 0.7_CD seconds_NNS in_IN a_DT photo_NN finish_NN ._SENT 
+The_DT top_JJ 19_CD in_IN that_DT event_NN all_RB finished_VVD closer_RBR to_TO the_DT lead_NN than_IN Rasovsky_NP 's_POS margin_NN behind_IN Wellbrock_NP ._SENT 
+In_IN three_CD previous_JJ men_NNS 's_POS marathon_NN races_NNS ,_, the_DT largest_JJS margin_NN of_IN victory_NN was_VBD 3.4_CD seconds_NNS by_IN Mellouli_NNS at_IN the_DT 2012_CD London_NP Games_NPS ._SENT 
+Mellouli_NP ,_, competing_VVG in_IN his_PP$ sixth_JJ Olympics_NNS at_IN age_NN 37_CD ,_, finished_VVD 20th_JJ out_IN of_IN 24_CD swimmers_NNS who_WP completed_VVD the_DT race_NN ._SENT 
+He_PP was_VBD nearly_RB 8_CD minutes_NNS behind_IN Wellbrock_NP ._SENT 
+After_IN pulling_VVG double_JJ duty_NN ,_, Caeleb_NP Dressel_NP ,_, Katie_NP Ledecky_NP cruise_NN in_IN Olympic_JJ swimming_NN preliminaries_NN TOKYO_NP --_: A_DT few_JJ hours_NNS after_IN winning_VVG the_DT first_JJ individual_JJ gold_NN medal_NN of_IN his_PP$ career_NN ,_, Caeleb_NP Dressel_NP returned_VVD to_TO the_DT pool_NN Thursday_NP night_NN to_TO tie_VV an_DT Olympic_JJ record_NN in_IN preliminaries_NNS of_IN the_DT 100-meter_NN butterfly_NN ._SENT 
+Dressel_NP touched_VVD first_JJ in_IN the_DT last_JJ of_IN eight_CD heats_VVZ with_IN a_DT time_NN of_IN 50.39_CD seconds_NNS ,_, equaling_VVG the_DT mark_NN set_VVN by_IN Singapore_NP 's_POS Joseph_NP Schooling_NP when_WRB he_PP won_VVD gold_NN at_IN the_DT 2016_CD Rio_NP Olympics_NPS ._SENT 
+Katie_NP Ledecky_NP also_RB did_VVD double_JJ duty_NN ,_, advancing_VVG to_TO the_DT final_JJ of_IN her_PP$ last_JJ Olympic_JJ event_NN with_IN the_DT top_JJ preliminary_JJ time_NN in_IN the_DT 800_CD freestyle_NN ._SENT 
+After_IN anchoring_VVG the_DT United_NP States_NPS to_TO a_DT silver_JJ medal_NN in_IN the_DT 4x200_JJ free_JJ relay_NN ,_, Ledecky_NP was_VBD back_RB at_IN the_DT Tokyo_NP Aquatics_NN Centre_NP to_TO post_VV the_DT top_JJ qualifying_VVG time_NN of_IN 8_CD minutes_NNS ,_, 15.67_CD seconds_NNS ._SENT 
+Another_DT American_NP ,_, Katie_NP Grimes_NP ,_, was_VBD the_DT second-fastest_NN qualifier_NN at_IN 8:17.05_CD ._SENT 
+Australia_NP 's_POS double_JJ gold_NN medalist_NN ,_, Ariarne_NP Titmus_NP ,_, also_RB advanced_VVD to_TO Saturday_NP morning_NN 's_VBZ final_JJ to_TO set_VV up_RP one_CD more_JJR showdown_NN with_IN Ledecky_NP ._SENT 
+Ledecky_NP will_MD be_VB going_VVG for_IN her_PP$ second_JJ gold_NN medal_NN of_IN these_DT Games_NPS and_CC sixth_JJ individual_JJ gold_NN overall_NN ,_, which_WDT would_MD be_VB the_DT most_JJS of_IN any_DT female_JJ swimmer_NN ._SENT 
+She_PP 's_VBZ currently_RB tied_VVN with_IN Hungarian_JJ great_JJ Krisztina_NP Egerszegi_NP ._SENT 
+Dressel_NP ,_, who_WP earlier_RBR Thursday_NP won_VVD the_DT 100_CD freestyle_NN ,_, holds_VVZ the_DT world_NN record_NN in_IN the_DT 100_CD fly_NN ,_, setting_VVG the_DT mark_NN of_IN 49.50_CD two_CD years_NNS ago_RB at_IN the_DT world_NN championships_NNS in_IN Gwangju_NP ._SENT 
+He_PP moved_VVD on_IN to_TO Friday_NP 's_POS semifinals_NNS along_IN with_IN Hungary_NP 's_POS Kristof_NP Milak_NP ,_, who_WP was_VBD second-fastest_NN at_IN 50.62_CD and_CC looking_VVG to_TO add_VV to_TO the_DT gold_NN he_PP captured_VVD in_IN the_DT 200_CD fly_NN ._SENT 
+A_DT couple_NN of_IN big_JJ names_NNS failed_VVD to_TO make_VV the_DT top_JJ 16_CD ,_, which_WDT was_VBD needed_VVN to_TO advance_VV ._SENT 
+South_NP African_NP gold_NN medalist_NN Chad_NP le_FW Clos_NP was_VBD 18th_JJ ,_, while_IN Schooling_NP was_VBD far_RB back_RB with_IN the_DT 44th-fastest_JJ time_NN ._SENT 
+Only_RB 11_CD swimmers_NNS went_VVD slower_JJR than_IN the_DT defending_VVG Olympic_JJ champion_NN ,_, who_WP has_VHZ struggled_VVN mightily_RB since_IN his_PP$ memorable_JJ upset_NN of_IN Michael_NP Phelps_NP five_CD years_NNS ago_RB ._SENT 
+Australia_NP 's_POS Kaylee_NP McKeown_NP continued_VVD her_PP$ pursuit_NN of_IN a_DT backstroke_NN sweep_NN ._SENT 
+Having_VHG already_RB won_VVN the_DT 100_CD back_RB ,_, she_PP was_VBD top_JJ qualifier_NN in_IN the_DT 200_CD at_IN 1:02.84_CD seconds_NNS ._SENT 
+McKeown_NP was_VBD followed_VVN by_IN American_NP Rhyan_NP White_NP (_( 1:02.73_CD )_) ,_, Canada_NP 's_POS Kylie_NP Masse_NP (_( 1:02.59_CD )_) and_CC a_DT second_JJ American_NP ,_, 18-year-old_JJ Phoebe_NP Bacon_NP (_( 1:02.71_CD )_) ._SENT 
+Hungarian_JJ star_NN Katinka_NP Hosszu_NP turned_VVD in_IN another_DT disappointing_JJ performance_NN ,_, failing_VVG to_TO advance_VV with_IN only_RB the_DT 20th-fastest_JJ time_NN ._SENT 
+She_PP was_VBD silver_JJ medalist_NN in_IN this_DT event_NN at_IN the_DT 2016_CD Rio_NP Olympics_NPS ,_, where_WRB she_PP also_RB captured_VVD three_CD gold_NN medals_NNS ._SENT 
+The_DT world-record_JJ holder_NN ,_, Regan_NP Smith_NP ,_, stunningly_RB failed_VVD to_TO make_VV the_DT U._NP S._NP team_NN in_IN the_DT 200_CD back_RB ._SENT 
+She_PP was_VBD upset_VVN at_IN last_JJ month_NN 's_POS trials_NNS by_IN White_NP and_CC Bacon_NP ._SENT 
+The_DT mixed_JJ 4x100_JJ medley_NN relay_NN made_VVD its_PP$ Olympic_JJ debut_NN with_IN a_DT pair_NN of_IN heats_VVZ ._SENT 
+The_DT event_NN ,_, which_WDT features_VVZ two_CD male_NN and_CC two_CD female_JJ swimmers_NNS ,_, was_VBD led_VVN by_IN Britain_NP 's_POS Kathleen_NP Dawson_NP ,_, Adam_NP Peaty_JJ ,_, James_NP Guy_NP and_CC Freya_NP Anderson_NP in_IN 3:38.75_CD ._SENT 
+The_DT American_JJ quartet_NN of_IN Regan_NP Smith_NP ,_, Andrew_NP Wilson_NP ,_, Tom_NP Shields_NP and_CC Abbey_NP Weitzeil_NP was_VBD next_JJ at_IN 3:41.02_CD ._SENT 
+Gators_NNS mine_VVP gold_NN for_IN USA_NP in_IN Olympic_NP swimming_NN YOKOHAMA_NP ,_, Japan_NP -_: Current_NP Florida_NP swimmer_NN Bobby_NP Finke_NP and_CC former_JJ Gator_NP standout_NN Caeleb_NP Dressel_NP captured_VVD gold_NN medals_NNS Wednesday_NP as_IN Olympic_NP compdetition_NP continued_VVD in_IN men_NNS 's_POS and_CC women_NNS 's_POS swimming_NN and_CC diving_NN ._SENT 
+Finke_NP won_VVD the_DT first-ever_JJ 800_CD Free_NP Olympic_NP Gold_NP medal_NN ,_, setting_VVG a_DT new_JJ American_NP Record_NP in_IN the_DT process_NN ._SENT 
+Finke_NP went_VVD a_DT blistering_VVG 7:41.47_CD to_TO increase_VV the_DT Gator_NP medal_NN count_NN in_IN Tokyo_NP to_TO eight_CD ._SENT 
+Finke_NP swam_VVD an_DT incredible_JJ last_JJ 100_CD meters_NNS in_IN 54.98_CD ._SENT 
+In_IN the_DT 100_CD Free_NP ,_, Dressel_NP set_VVD a_DT new_JJ Olympic_NP Record_NP in_IN the_DT 100_CD Free_NP final_JJ to_TO win_VV gold_NN ._SENT 
+Dressel_NP went_VVD 47.02_CD leading_VVG from_IN start_NN to_TO finish_VV to_TO earn_VV his_PP$ first_JJ individual_JJ Olympic_JJ gold_NN medal_NN to_TO go_VV along_RP with_IN two_CD golds_NNS that_IN he_PP earned_VVD as_IN a_DT member_NN of_IN USA_NP relay_NN teams_NNS in_IN 2016._CD Finke_NP is_VBZ an_DT eight-time_JJ All-American_JJ and_CC 2021_CD All-SEC_NP First_NP Team_NP selection_NN who_WP was_VBD NCAA_NP champion_VVP this_DT past_JJ season_NN in_IN the_DT 400_CD IM_NP and_CC 1650-meter_NP Free_NP as_IN a_DT junior_NN at_IN Florida_NP ._SENT 
+Dressel_NP ,_, who_WP swam_VVD at_IN Florida_NP from_IN 2015-18_CD ,_, is_VBZ a_DT seven-time_JJ World_NP Champion_NP and_CC 10-time_NP NCAA_NP Champion_NP who_WP won_VVD a_DT pair_NN of_IN gold_JJ medals_NNS as_IN a_DT member_NN of_IN Team_NP USA_NP 's_POS 4x100_NP Free_NP Relay_NN and_CC 4x100_JJ Medley_NP Relay_NN teams_NNS at_IN the_DT 2016_CD Rio_NP Summer_NPS Olympics_NPS ._SENT 
+Dressel_NP also_RB is_VBZ looking_VVG to_TO garner_VV more_JJR gold_NN in_IN these_DT Olympic_NP Games_NPS ._SENT 
+Dressel_NP won_VVD the_DT final_JJ preliminary_JJ heat_NN of_IN the_DT 100_CD Fly_NP later_JJR on_IN Wednesday_NP and_CC finished_VVD first_RB overall_JJ to_TO earn_VV a_DT spot_NN in_IN the_DT semifinals_NNS of_IN that_DT event_NN on_IN Thursday_NP night_NN at_IN 9:30p_NP ._SENT 
+m._NP ET_NP ._SENT 
+Dressel_NP touched_VVD at_IN 50.39_CD to_TO equal_VV an_DT Olympic_JJ record_NN ._SENT 
+Katie_NP Ledecky_NP ,_, Caeleb_NP Dressel_NP and_CC the_DT other_JJ storylines_NNS to_TO watch_VV as_IN Olympic_JJ swimming_NN begins_VVZ Arguably_RB the_DT greatest_JJS women_NNS 's_POS swimmers_NNS of_IN all_DT time_NN ,_, Katie_NP Ledecky_NP will_MD look_VV to_TO build_VV on_IN her_PP$ legacy_NN as_IN she_PP takes_VVZ aim_NN at_IN four_CD individual_JJ golds_NNS in_IN Tokyo_NP ._SENT 
+Caeleb_NP Dressel_NP will_MD attempt_VV to_TO live_VV up_RP to_TO the_DT hype_NN as_IN the_DT "_`` new_JJ Michael_NP Phelps_NP ._SENT 
+"_'' And_CC Ryan_NP Murphy_NP will_MD try_VV to_TO create_VV history_NN as_IN the_DT first_JJ American_NP to_TO win_VV two_CD back-to-back_JJ gold_NN medals_NNS in_IN the_DT 200-meter_NN backstroke_NN ._SENT 
+In_IN short_JJ ,_, the_DT U._NP S._NP team_NN has_VHZ a_DT storyline_NN for_IN every_DT occasion_NN as_IN the_DT swimming_NN competition_NN begins_VVZ on_IN Saturday_NP at_IN the_DT Summer_NPS Olympics_NPS ._SENT 
+Here_RB are_VBP five_CD to_TO follow_VV in_IN Tokyo_NP ._SENT 
+Phelps_NP explained_VVD it_PP best_JJS at_IN the_DT U._NP S._NP Olympic_NP swim_VVP trials_NNS in_IN Omaha_NP ,_, Nebraska_NP --_: there_EX is_VBZ no_DT other_JJ swimmer_NN who_WP has_VHZ been_VBN able_JJ to_TO pick_VV a_DT style_NN and_CC successfully_RB swim_VVP the_DT entire_JJ spectrum_NN of_IN it_PP ._SENT 
+"_`` She_PP is_VBZ recreating_VVG what_WP is_VBZ possible_JJ ,_, "_'' Phelps_NP said_VVD ._SENT 
+"_`` That_DT is_VBZ awesome_JJ to_TO watch_VV ._SENT 
+"_'' In_IN Tokyo_NP ,_, five-time_JJ gold_NN medalist_NN Ledecky_JJ will_NN race_NN in_IN the_DT 200-_CD ,_, 400-_CD ,_, 800-_CD and_CC ,_, for_IN the_DT first_JJ time_NN in_IN Olympic_JJ history_NN ,_, the_DT 1,500-meter_NN freestyle_NN races_NNS ._SENT 
+And_CC guess_VVP what_WP ?_SENT 
+She_PP is_VBZ favored_VVN to_TO medal_NN in_IN all_DT of_IN the_DT events_NNS ,_, including_VVG gold_NN in_IN the_DT 800-_CD and_CC 1,500-meters_NNS ._SENT 
+At_IN the_DT Olympic_JJ trials_NNS ,_, Ledecky_NP ,_, 24_CD ,_, won_VVD all_DT four_CD events_NNS ,_, finishing_VVG so_RB far_RB ahead_RB of_IN the_DT field_NN in_IN the_DT 800_CD and_CC 1,500_CD meters_NNS that_IN no_DT one_CD else_RB was_VBD visible_JJ on_IN the_DT screen_NN ,_, qualifying_VVG for_IN her_PP$ third_JJ Olympics_NPS ._SENT 
+In_IN 2016_CD ,_, before_IN the_DT 1,500-meter_NN freestyle_NN was_VBD a_DT part_NN of_IN the_DT Olympics_NPS ,_, Ledecky_NP won_VVD gold_NN in_IN the_DT other_JJ freestyle_NN competitions_NNS ._SENT 
+Will_MD she_PP be_VB able_JJ to_TO pull_VV off_RP a_DT repeat_NN performance_NN plus_CC a_DT gold_NN in_IN the_DT 1,500_CD meters_NNS ?_SENT 
+If_IN she_PP does_VVZ ,_, she_PP will_MD become_VV the_DT first_JJ Olympian_NN to_TO win_VV gold_NN in_IN all_DT four_CD events_NNS ._SENT 
+Simone_NP Manuel_NP ,_, 24_CD ,_, became_VVD the_DT first_JJ Black_NP woman_NN to_TO win_VV an_DT individual_JJ medal_NN in_IN swimming_NN in_IN 2016_CD ,_, when_WRB she_PP won_VVD the_DT 100-meter_NN freestyle_NN at_IN the_DT Rio_NP Olympics_NPS ._SENT 
+In_IN Tokyo_NP ,_, however_RB ,_, she_PP wo_MD n't_RB be_VB swimming_VVG in_IN her_PP$ marquee_NN event_NN ._SENT 
+At_IN the_DT Olympic_JJ trials_NNS ,_, Manuel_NP finished_VVD ninth_JJ in_IN the_DT semifinals_NNS of_IN the_DT 100-meter_NN freestyle_NN ,_, missing_VVG the_DT final_JJ cut_NN by_IN 0.02_CD seconds_NNS ._SENT 
+At_IN a_DT news_NN conference_NN later_RBR ,_, she_PP revealed_VVD that_IN she_PP had_VHD been_VBN diagnosed_VVN with_IN overtraining_VVG syndrome_NN (_( OTS_NP )_) about_IN two_CD months_NNS before_RB ,_, suffered_VVN from_IN depression_NN and_CC had_VHD to_TO take_VV a_DT three-week_NN break_NN from_IN swimming_NN ._SENT 
+Two_CD days_NNS later_RBR ,_, on_IN the_DT last_JJ day_NN of_IN trials_NNS ,_, she_PP surprised_VVD again_RB by_IN winning_VVG the_DT 50_CD meters_NNS ,_, securing_VVG a_DT spot_NN in_IN Tokyo_NP ._SENT 
+At_IN training_NN camp_NN earlier_RBR this_DT month_NN ,_, when_WRB asked_VVD how_WRB she_PP is_VBZ preparing_VVG for_IN the_DT Olympics_NPS with_IN her_PP$ OTS_NP diagnosis_NN ,_, Manuel_NP said_VVD that_IN she_PP was_VBD taking_VVG care_NN of_IN herself_PP and_CC taking_VVG breaks_NNS as_IN much_RB as_RB needed_VVN ._SENT 
+Dressel_NP could_MD win_VV seven_CD gold_JJ medals_NNS at_IN the_DT Tokyo_NP Olympics_NPS ._SENT 
+Allow_VV that_DT sentence_NN to_TO sink_VV in_IN ._SENT 
+If_IN not_RB for_IN Phelps_NP '_POS record_NN of_IN eight_CD Olympic_JJ golds_NNS in_IN Beijing_NP ,_, that_DT projection_NN might_MD be_VB completely_RB off_JJ base_NN ._SENT 
+But_CC the_DT forecast_NN could_MD have_VH merit_NN since_IN Dressel_NP won_VVD every_DT single_JJ heat_NN he_PP competed_VVD in_IN at_IN the_DT Olympic_JJ trials_NNS :_: 50-meter_NN freestyle_NN ,_, 100-meter_NN freestyle_NN and_CC 100-meter_NN butterfly_NN ._SENT 
+Every_DT single_JJ one_CD of_IN them_PP ._SENT 
+Based_VVN on_IN his_PP$ career_NN trajectory_NN since_IN his_PP$ record-breaking_JJ performance_NN at_IN the_DT world_NN championships_NNS in_IN 2019_CD ,_, when_WRB he_PP won_VVD eight_CD medals_NNS ,_, including_VVG six_CD golds_NNS ,_, it_PP 's_VBZ safe_JJ to_TO say_VV that_IN Dressel_NP could_MD evoke_VV the_DT same_JJ superstar_NN feelings_NNS in_IN fans_NNS as_IN Phelps_NP did_VVD in_IN Beijing_NP ._SENT 
+Maybe_RB Dressel_NP ca_MD n't_RB equal_VV Phelps_NP '_POS record_NN ,_, but_CC he_PP could_MD come_VV darn_JJ close_NN ._SENT 
+If_IN there_EX was_VBD one_CD clear_JJ rookie_NN standout_NN at_IN the_DT Olympic_JJ trials_NNS ,_, it_PP was_VBD 15-year-old_JJ Katie_NP Grimes_NP ,_, who_WP in_IN the_DT 800-meter_NN freestyle_NN ,_, finished_VVD five_CD seconds_NNS behind_IN Ledecky_NP to_TO earn_VV an_DT Olympic_JJ berth_NN ._SENT 
+In_IN the_DT process_NN ,_, Grimes_NP also_RB achieved_VVD her_PP$ personal_JJ best_JJS time_NN (_( 8:20.36_CD ,_, shaving_NN off_IN 12_CD seconds_NNS from_IN her_PP$ previous_JJ best_JJS )_) and_CC edged_VVD out_RP veteran_JJ distance_NN swimmer_NN Haley_NP Anderson_NP ._SENT 
+What_WP 's_VBZ more_JJR :_: Ledecky_NP was_VBD in_IN the_DT exact_JJ same_JJ spot_NN as_IN Grimes_NP in_IN 2011_CD at_IN her_PP$ first_JJ Olympic_JJ trials_NNS ,_, also_RB at_IN age_NN 15._CD She_PP finished_VVD second_JJ in_IN the_DT 800-meter_NN freestyle_NN ,_, to_TO make_VV her_PP$ first_JJ Olympics_NPS ._SENT 
+Recently_RB ,_, Ledecky_NP introduced_VVD Grimes_NP to_TO a_DT news_NN conference_NN as_IN the_DT "_`` future_NN of_IN the_DT sport_NN ,_, "_'' while_IN Grimes_NP looked_VVD around_RP ,_, dazed_VVN and_CC happy_JJ ._SENT 
+With_IN all_PDT the_DT major_JJ storylines_NNS swimming_VVG around_RP ahead_RB of_IN Tokyo_NP ,_, you_PP might_MD have_VH missed_VVN this_DT one_CD :_: Americans_NPS have_VHP won_VVN gold_NN in_IN both_CC the_DT 100-_CD and_CC 200-meter_NN backstroke_NN in_IN every_DT Olympics_NPS since_IN 1992_CD --_: before_IN Murphy_NP was_VBD born_VVN ._SENT 
+At_IN the_DT 2016_CD Olympics_NPS ,_, which_WDT was_VBD Murphy_NP 's_POS first_JJ ,_, he_PP followed_VVD tradition_NN and_CC won_VVD both_DT events_NNS ,_, stamping_VVG Team_NP USA_NP 's_POS dominance_NN ._SENT 
+Will_MD he_PP be_VB able_JJ to_TO achieve_VV a_DT repeat_NN performance_NN to_TO keep_VV the_DT record_NN alive_JJ ?_SENT 
+Only_RB two_CD Americans_NPS have_VHP ever_RB won_VVN the_DT 100-meter_NN backstroke_NN at_IN back-to-back_JJ Olympics_NNS (_( Aaron_NP Peirsol_NP in_IN 2004_CD and_CC 2008_CD and_CC Warren_NP Kealoha_NP in_IN 1920_CD and_CC 1924_CD )_) ._SENT 
+If_IN Murphy_NP ,_, 26_CD ,_, wins_VVZ a_DT gold_NN in_IN the_DT 200-meter_NN backstroke_NN ,_, he_PP will_MD become_VV the_DT first_RB American_JJ to_TO win_VV that_DT race_NN at_IN back-to-back_JJ Olympics_NNS ._SENT 
+Olympic_NP swimming_NN champion_NN Gregorio_NP Paltrinieri_NP has_VHZ mononucleosis_NN ROME_NP --_: Italian_JJ swimmer_NN Gregorio_NP Paltrinieri_NP has_VHZ contracted_VVN mononucleosis_NN ,_, raising_VVG questions_NNS over_IN whether_IN he_PP 'll_MD be_VB able_JJ to_TO defend_VV his_PP$ gold_JJ medal_NN in_IN the_DT 1,500-meter_NN freestyle_NN at_IN the_DT Tokyo_NP Olympics_NPS due_JJ to_TO the_DT energy-sapping_VVG virus_NN ._SENT 
+"_`` We_PP 're_VBP obviously_RB upset_VVN because_IN his_PP$ Olympic_JJ preparations_NNS were_VBD proceeding_VVG perfectly_RB ,_, "_`` Italian_JJ Swimming_NN Federation_NP president_NN Paolo_NP Barelli_NP said_VVD Wednesday_NP ,_, adding_VVG that_IN Paltrinieri_NP has_VHZ "_`` minor_JJ "_'' symptoms_NNS ._SENT 
+"_'' But_CC Paltrinieri_NP is_VBZ a_DT phenomenal_JJ champion_NN and_CC will_MD battle_VV down_RB to_TO the_DT last_JJ meter_NN to_TO win_VV the_DT medals_NNS he_PP 's_VBZ dreaming_VVG about_RB for_IN Tokyo_NP ,_, "_'' Barelli_NP said_VVD ._SENT 
+Besides_IN the_DT 1,500_CD ,_, Paltrinieri_NP is_VBZ also_RB planning_VVG to_TO enter_VV the_DT 800_CD free_JJ and_CC 10-kilometer_NN marathon_NN races_NNS at_IN the_DT Tokyo_NP Games_NPS ._SENT 
+Paltrinieri_NP won_VVD three_CD golds_NNS and_CC two_CD silvers_VVZ when_WRB he_PP competed_VVD in_IN both_CC the_DT pool_NN and_CC open_JJ water_NN at_IN the_DT European_JJ Championships_NNS in_IN Budapest_NP in_IN May_NP ._SENT 
+He_PP 's_VBZ also_RB a_DT three-time_JJ world_NN champion_NN ._SENT 
+Heats_VVZ for_IN the_DT 800_CD free_JJ ,_, Paltrinieri_NP 's_POS first_JJ event_NN in_IN Tokyo_NP ,_, are_VBP scheduled_VVN for_IN July_NP 27._CD "_`` He_PP 's_VBZ never_RB given_VVN up_RP on_IN anything_NN and_CC with_IN his_PP$ determination_NN he_PP 's_VHZ won_VVN everything_NN ,_, "_'' Barelli_NP said_VVD ._SENT 
+"_`` I_PP 'm_VBP confident_JJ that_IN he_PP 'll_MD pull_VV through_IN this_DT time_NN too_RB ._SENT 
+He_PP 's_VBZ facing_VVG one_CD of_IN the_DT toughest_JJS challenges_NNS of_IN his_PP$ career_NN ._SENT 
+"_'' Paltrinieri_NP will_MD sit_VV out_RP this_DT weekend_NN 's_POS Seven_NP Hills_NP meet_VV in_IN Rome_NP ,_, with_IN the_DT federation_NN adding_VVG that_IN he_PP hopes_VVZ to_TO resume_VV full_JJ training_NN "_'' as_IN soon_RB as_RB possible_JJ ._SENT 
+"_'' If_IN Paltrinieri_NP ca_MD n't_RB compete_VV ,_, it_PP would_MD leave_VV a_DT wide-open_JJ field_NN in_IN the_DT 1,500_CD with_IN Sun_NP Yang_NP of_IN China_NP having_VHG received_VVN a_DT doping_VVG ban_NN on_IN Tuesday_NP ._SENT 
+Sun_NP won_VVD the_DT 1,500_CD at_IN the_DT 2012_CD London_NP Olympics_NPS then_RB Paltrinieri_NP won_VVD the_DT event_NN at_IN the_DT 2016_CD Rio_NP de_NP Janeiro_NP Olympics_NPS ._SENT 
+Katie_NP Ledecky_NP ,_, Caeleb_NP Dressel_NP continue_VVP to_TO dominate_VV competition_NN at_IN U._NP S._NP Olympic_NP swimming_NN trials_NNS OMAHA_NP ,_, Neb._NP --_: The_DT stars_NNS shined_VVD brightly_RB on_IN the_DT next-to-last_NN night_NN of_IN the_DT U._NP S._NP Olympic_NP swimming_NN trials_NNS ._SENT 
+Caeleb_NP Dressel_NP added_VVD another_DT event_NN to_TO his_PP$ Tokyo_NP program_NN ,_, powering_VVG to_TO a_DT dominating_JJ victory_NN in_IN the_DT 100-meter_NN butterfly_NN Saturday_NP ._SENT 
+Katie_NP Ledecky_NP blew_VVD away_RP the_DT field_NN in_IN the_DT 800_CD freestyle_NN ,_, winning_VVG by_IN more_JJR than_IN 5_CD seconds_NNS in_IN a_DT race_NN where_WRB the_DT runner-up_NN spot_NN provided_VVD the_DT only_JJ drama_NN ._SENT 
+Ledecky_NP locked_VVD up_RP her_PP$ fourth_JJ individual_JJ race_NN at_IN the_DT Olympics_NPS with_IN a_DT time_NN of_IN 8_CD minutes_NNS ,_, 14.62_CD ,_, adding_VVG to_TO her_PP$ victories_NNS in_IN the_DT 200_CD ,_, 400_CD and_CC 1,500_CD free_JJ ._SENT 
+Fifteen-year-old_NP Katie_NP Grimes_NP outraced_VVD veteran_JJ Haley_NP Anderson_NP for_IN the_DT expected_VVN second_JJ spot_NN at_IN the_DT Olympics_NPS ,_, knocking_VVG more_JJR than_IN 11_CD seconds_NNS off_IN her_PP$ personal_JJ best_JJS to_TO touch_VV second_JJ in_IN 8:20.36_CD ._SENT 
+During_IN the_DT post-race_NN press_NN conference_NN ,_, Ledecky_NP said_VVD she_PP told_VVD Grimes_NP that_IN she_PP "_`` is_VBZ the_DT future_NN ,_, "_'' and_CC she_PP is_VBZ "_`` the_DT now_RB "_'' of_IN the_DT sport_NN ._SENT 
+Incidentally_RB ,_, in_IN 2012_CD ,_, Ledecky_NP qualified_VVD for_IN her_PP$ first_JJ Olympic_NP Games_NPS after_IN dropping_VVG six_CD seconds_NNS in_IN the_DT 800-meter_NN freestyle_NN race_NN at_IN the_DT Olympic_JJ trials_NNS ._SENT 
+Nine_CD years_NNS later_RBR ,_, another_DT Katie_NP ,_, this_DT time_NN Grimes_NP ,_, achieved_VVD the_DT same_JJ feat_NN by_IN dropping_VVG 11_CD seconds_NNS ._SENT 
+It_PP felt_VVD like_IN a_DT déjà_JJ vu_NN moment_NN ,_, but_CC on_IN the_DT other_JJ side_NN ,_, Ledecky_NP said_VVD ._SENT 
+Grimes_NP ,_, who_WP said_VVD she_PP was_VBD shocked_JJ and_CC speechless_JJ ,_, repeated_VVD "_`` This_DT is_VBZ just_RB crazy_JJ "_'' several_JJ times_NNS during_IN the_DT press_NN conference_NN ._SENT 
+"_`` Maybe_RB I_PP can_MD be_VB like_IN Katie_NP someday_RB ,_, "_'' Grimes_NP said_VVD ,_, pointing_VVG to_TO Ledecky_NP ._SENT 
+After_IN the_DT race_NN ,_, Grimes_NP ran_VVD over_RP to_TO her_PP$ parents_NNS ,_, tearing_VVG up_RP ._SENT 
+"_`` I_PP 'm_VBP so_RB proud_JJ of_IN you_PP ,_, "_`` her_PP$ mom_NN said_VVD through_IN tears_NNS of_IN her_PP$ own_JJ ._SENT 
+Tokyo_NP will_MD be_VB Grimes_NP '_POS first_JJ trip_NN abroad_RB ._SENT 
+Anderson_NP ,_, who_WP already_RB made_VVD the_DT team_NN in_IN marathon_NN swimming_NN ,_, just_RB missed_VVD out_RP on_IN a_DT race_NN at_IN the_DT Olympic_JJ pool_NN ._SENT 
+She_PP finished_VVD third_JJ ,_, 15-hundredths_NNS of_IN a_DT second_NN behind_IN the_DT youngster_NN ._SENT 
+No_DT one_CD was_VBD even_RB close_JJ to_TO Dressel_NP as_IN he_PP finished_VVD the_DT fly_NN in_IN 49.87_CD ,_, just_RB off_IN his_PP$ world_NN record_NN of_IN 49.50_CD set_NN two_CD years_NNS ago_RB at_IN the_DT world_NN championships_NNS in_IN Gwangju_NP ,_, South_NP Korea_NP ._SENT 
+Tom_NP Shields_NP claimed_VVD the_DT expected_VVN second_JJ spot_NN on_IN the_DT U._NP S._NP team_NN by_IN touching_VVG next_JJ in_IN 51.19_CD ._SENT 
+Shields_NP was_VBD an_DT Olympian_NN in_IN 2016_CD ,_, taking_VVG gold_NN as_IN part_NN of_IN the_DT 4x100_JJ medley_JJ relay_NN ._SENT 
+Dressel_NP ,_, who_WP already_RB made_VVD the_DT Olympic_JJ team_NN with_IN a_DT victory_NN in_IN the_DT 100_CD freestyle_NN ,_, made_VVD it_PP 2-for-2_JJ on_IN the_DT night_NN when_WRB he_PP returned_VVD a_DT short_JJ time_NN later_RBR to_TO win_VV his_PP$ heat_NN in_IN the_DT semifinals_NNS of_IN the_DT 50_CD free_JJ ._SENT 
+Dressel_NP is_VBZ hoping_VVG to_TO swim_VV three_CD individuals_NNS events_NNS in_IN Tokyo_NP and_CC perhaps_RB all_DT four_CD relays_NNS ,_, giving_VVG him_PP a_DT chance_NN to_TO join_VV Michael_NP Phelps_NP ,_, Mark_NP Spitz_NP and_CC Matt_NP Biondi_NP as_IN the_DT only_JJ swimmers_NNS to_TO win_VV seven_CD swimming_NN medals_NNS at_IN the_DT Olympics_NPS ._SENT 
+At_IN the_DT last_JJ world_NN championships_NNS ,_, Dressel_NP became_VVD only_RB the_DT second_JJ swimmer_NN after_IN Phelps_NP to_TO win_VV eight_CD medals_NNS at_IN a_DT major_JJ international_JJ competition_NN ._SENT 
+The_DT 24-year-old_NP Floridian_NP captured_VVD six_CD gold_NN medals_NNS and_CC two_CD silvers_VVZ ,_, though_RB two_CD of_IN those_DT were_VBD in_IN non-Olympic_JJ events_NNS ._SENT 
+With_IN Phelps_NP now_RB retired_VVD ,_, Dressel_NP is_VBZ expected_VVN to_TO join_VV Ledecky_JJ as_IN the_DT biggest_JJS American_JJ swimming_NN stars_NNS at_IN the_DT Olympics_NPS ._SENT 
+There_EX was_VBD a_DT surprise_NN in_IN the_DT women_NNS 's_POS 200_CD backstroke_NN ._SENT 
+Favorite_NP Regan_NP Smith_NP ,_, who_WP has_VHZ already_RB won_VVN the_DT 100_CD back_NN ,_, faded_VVN to_TO third_JJ in_IN the_DT longer_JJR race_NN to_TO miss_VV out_RP on_IN a_DT second_JJ individual_JJ event_NN in_IN Tokyo_NP ._SENT 
+Rhyan_NP White_NP took_VVD the_DT victory_NN in_IN 2:05.73_CD ,_, with_IN Phoebe_NP Bacon_NP claiming_VVG the_DT likely_JJ second_JJ spot_NN in_IN 2:06.46_CD ._SENT 
+Smith_NP finished_VVD third_JJ in_IN 2:06.79_CD ,_, more_JJR than_IN 3_CD seconds_NNS off_IN her_PP$ personal_JJ best_JJS ._SENT 
+Katie_NP Ledecky_NP dominates_VVZ 200_CD free_JJ ,_, 1,500_CD free_JJ at_IN U._NP S._NP Olympic_NP swimming_NN trials_NNS OMAHA_NP ,_, Neb._NP --_: The_DT long_JJ and_CC short_JJ of_IN it_PP was_VBD not_RB an_DT issue_NN for_IN Katie_NP Ledecky_NP ._SENT 
+On_IN another_DT memorable_JJ night_NN for_IN the_DT American_JJ swimming_NN star_NN ,_, Ledecky_NP won_VVD the_DT 200-meter_NN freestyle_NN and_CC the_DT historic_JJ 1,500_CD free_JJ about_IN 70_CD minutes_NNS apart_RB at_IN the_DT U._NP S._NP Olympic_NP trials_NNS Wednesday_NP ,_, locking_VVG up_RP two_CD more_JJR individual_JJ events_NNS for_IN the_DT Tokyo_NP Games_NPS ._SENT 
+This_DT was_VBD about_RB as_RB tough_JJ as_IN it_PP gets_VVZ ._SENT 
+First_RB ,_, a_DT relative_JJ sprint_NN over_IN four_CD laps_NNS --_: the_DT shortest_JJS event_NN in_IN Ledecky_NP 's_POS program_NN ._SENT 
+Then_RB ,_, a_DT grueling_JJ metric_JJ mile_NN comprising_VVG 30_CD laps_NNS --_: the_DT longest_JJS race_NN in_IN pool_NN swimming_NN and_CC one_CD that_WDT will_MD be_VB making_VVG its_PP$ Olympic_JJ debut_NN for_IN the_DT women_NNS in_IN Tokyo_NP ._SENT 
+Her_PP$ short_JJ time_NN between_IN races_NNS was_VBD chaotically_RB choreographed_VVN to_TO keep_VV Ledecky_JJ as_IN fresh_JJ as_IN possible_JJ for_IN the_DT 1,500_CD ._SENT 
+"_`` The_DT goal_NN was_VBD to_TO get_VV in_IN the_DT warm-down_JJ pool_NN as_RB quickly_RB as_IN I_PP could_MD ,_, "_'' she_PP said_VVD ._SENT 
+"_`` I_PP tried_VVD to_TO keep_VV moving_VVG ,_, hydrated_VVD and_CC swam_VVD for_IN 15-20_CD minutes_NNS before_IN they_PP pulled_VVD me_PP to_TO go_VV back_RB to_TO the_DT awards_NNS [_SYM ceremony_NN ]_SYM ._SENT 
+I_PP ate_VVD a_DT banana_NN ,_, drank_VVD chocolate_NN milk_NN and_CC water_NN ,_, put_VVD a_DT jacket_NN on_IN as_IN I_PP was_VBD walking_VVG ._SENT 
+"_'' It_PP worked_VVD out_RP just_RB fine_JJ ._SENT 
+The_DT 24-year-old_JJ from_IN the_DT nation_NN 's_POS capital_NN touched_VVD the_DT wall_NN far_RB ahead_RB of_IN everyone_NN else_RB with_IN a_DT winning_JJ time_NN of_IN 15_CD minutes_NNS ,_, 40.50_CD seconds_NNS --_: well_RB off_IN her_PP$ 2018_CD world_NN record_NN (_( 15:20.48_CD )_) but_CC fastest_JJS in_IN the_DT world_NN this_DT year_NN ._SENT 
+Ledecky_NP has_VHZ already_RB pondered_VVN the_DT significance_NN of_IN the_DT inaugural_JJ women_NNS 's_POS 1,500_CD free_JJ at_IN the_DT Olympics_NPS ._SENT 
+About_IN time_NN ,_, she_PP said_VVD ._SENT 
+"_`` The_DT men_NNS have_VHP had_VHN the_DT mile_NN in_IN the_DT Olympics_NPS since_IN 1908_CD ,_, "_'' Ledecky_NP pointed_VVD out_RP ._SENT 
+"_`` It_PP 's_VBZ 2021_CD ,_, and_CC we_PP finally_RB got_VVD one_PP ._SENT 
+"_'' Erica_NP Sullivan_NP was_VBD nearly_RB a_DT half-lap_NN behind_RB ,_, but_CC she_PP knocked_VVD more_JJR than_IN four_CD seconds_NNS off_IN her_PP$ personal_JJ best_JJS to_TO take_VV the_DT expected_VVN second_JJ Olympic_JJ berth_NN in_IN 15:51.18_CD ._SENT 
+The_DT 200_CD free_JJ was_VBD one_CD of_IN four_CD gold_NN medals_VVZ that_IN Ledecky_NP won_VVD at_IN the_DT Rio_NP Games_NPS ._SENT 
+She_PP 'll_MD get_VV a_DT chance_NN to_TO defend_VV that_DT title_NN after_IN winning_VVG in_IN 1:55.11_CD ,_, a_DT full_JJ body_NN length_NN ahead_RB of_IN the_DT field_NN ._SENT 
+Allison_NP Schmitt_NP ,_, who_WP won_VVD the_DT event_NN at_IN the_DT 2012_CD London_NP Games_NPS ,_, is_VBZ headed_VVN to_TO her_PP$ fourth_JJ Olympics_NNS at_IN age_NN 31_CD after_IN holding_VVG off_RP Paige_NP Madden_NP by_IN one-hundredth_NP of_IN a_DT second_NN for_IN the_DT runner-up_NN spot_NN behind_IN Ledecky_NP ._SENT 
+Schmitt_NP 's_POS time_NN was_VBD 1:56.79_CD ,_, which_WDT gives_VVZ her_PP a_DT likely_JJ individual_JJ event_NN in_IN Tokyo_NP as_RB well_RB as_IN a_DT spot_NN on_IN the_DT 4x200_JJ free_JJ relay_NN ._SENT 
+Madden_NP and_CC Katie_NP McLaughlin_NP ,_, who_WP was_VBD fourth_JJ in_IN 1:57.16_CD ,_, will_MD also_RB be_VB going_VVG to_TO the_DT Olympics_NPS as_IN relay_NN swimmers_NNS ._SENT 
+As_IN Schmitt_NP crossed_VVD the_DT deck_NN ,_, her_PP$ longtime_JJ teammate_NN and_CC good_JJ friend_NN Michael_NP Phelps_NP raced_VVD down_RP from_IN the_DT stands_NNS to_TO give_VV her_PP a_DT long_RB embrace_VV ._SENT 
+Both_DT swimmers_NNS have_VHP disclosed_VVN their_PP$ struggles_NNS with_IN depression_NN even_RB while_IN performing_VVG brilliantly_RB in_IN the_DT pool_NN ._SENT 
+"_`` I_PP do_VVP n't_RB even_RB know_VV how_WRB to_TO put_VV it_PP into_IN words_NNS ,_, "_'' Schmitt_NP said_VVD ._SENT 
+"_`` He_PP 's_VHZ been_VBN a_DT brother_NN inside_IN the_DT pool_NN and_CC outside_IN the_DT pool_NN ._SENT 
+It_PP helped_VVD me_PP so_RB much_RB ._SENT 
+Even_RB now_RB ,_, when_WRB he_PP 's_VBZ not_RB swimming_VVG ,_, he_PP 's_VBZ a_DT huge_JJ part_NN of_IN it_PP ._SENT 
+"_'' Ledecky_NP already_RB won_VVD the_DT 400_CD free_JJ ,_, though_IN she_PP was_VBD n't_RB as_RB fast_RB as_RB expected_VVN ._SENT 
+She_PP 's_VBZ also_RB heavily_RB favored_VVN in_IN the_DT 800_CD free_JJ ,_, another_DT race_NN she_PP won_VVD at_IN Rio_NP ,_, which_WDT means_VVZ she_PP could_MD swim_VVP as_RB many_JJ as_IN four_CD individual_JJ events_NNS and_CC perhaps_RB a_DT couple_NN of_IN relays_NNS at_IN the_DT Tokyo_NP Games_NPS ._SENT 
+Ledecky_NP did_VVD confirm_VV that_IN she_PP has_VHZ scratched_VVN the_DT 100_CD free_JJ ._SENT 
+She_PP has_VHZ already_RB got_VVN enough_RB on_IN her_PP$ Olympic_JJ plate_NN ._SENT 
+"_'' Katie_NP is_VBZ amazing_JJ ,_, "_'' Schmitt_NP said_VVD ._SENT 
+In_IN other_JJ races_NNS on_IN the_DT fourth_JJ night_NN of_IN the_DT trials_NNS ,_, Zach_NP Harting_NP earned_VVD his_PP$ first_JJ trip_NN to_TO the_DT Olympics_NPS with_IN a_DT victory_NN in_IN the_DT men_NNS 's_POS 200_CD butterfly_NN ,_, while_IN Alex_NP Walsh_NP won_VVD a_DT thrilling_JJ race_NN in_IN the_DT women_NNS 's_POS 200_CD individual_JJ medley_NN --_: the_DT top_JJ three_CD were_VBD separated_VVN by_IN just_JJ four-hundredths_NNS of_IN a_DT second_NN ._SENT 
+Harting_NP ,_, a_DT 23-year-old_JJ from_IN Huntsville_NP ,_, Alabama_NP ,_, won_VVD with_IN a_DT time_NN of_IN 1:55.06_CD after_IN a_DT restless_JJ night_NN ._SENT 
+"_`` I_PP could_MD n't_RB sleep_VV last_JJ night_NN ,_, woke_VVD up_RP before_IN my_PP$ alarm_NN ,_, heart_RB pounding_VVG out_RP of_IN my_PP$ chest_NN ,_, crazy_JJ adrenaline_NN ,_, "_'' he_PP said_VVD ._SENT 
+"_`` I_PP wanted_VVD to_TO puke_VV all_RB through_IN warm-up_NN ,_, still_RB kind_RB of_IN want_VV to_TO do_VV that_DT ._SENT 
+I_PP do_VVP n't_RB think_VV I_PP really_RB handled_VVD it_PP well_RB ,_, but_CC I_PP knew_VVD I_PP was_VBD going_VVG to_TO win_VV so_IN that_DT kind_NN of_IN gave_VVD me_PP a_DT little_JJ bit_NN of_IN peace_NN ._SENT 
+"_'' Harting_NP is_VBZ already_RB making_VVG plans_NNS to_TO get_VV the_DT customary_JJ Olympic_NP rings_NNS tattoo_VVP ._SENT 
+"_'' Coming_VVG in_IN here_RB and_CC not_RB making_VVG the_DT team_NN was_VBD not_RB an_DT option_NN ,_, "_'' he_PP said_VVD ._SENT 
+"_`` I_PP do_VVP n't_RB know_VV if_IN I_PP could_MD have_VH handled_VVN it_PP ,_, so_RB the_DT easiest_JJS thing_NN to_TO do_VV was_VBD make_VV the_DT team_NN and_CC that_DT 's_VBZ what_WP I_PP did_VVD ._SENT 
+"_`` Gunnar_NP Bentz_NP ,_, who_WP was_VBD among_IN the_DT swimmers_NNS involved_VVN in_IN Ryan_NP Lochte_NP 's_POS infamous_JJ night_NN in_IN Rio_NP five_CD years_NNS ago_RB ,_, touched_VVN after_IN Harting_NP in_IN 1:55.34_CD and_CC will_MD get_VV the_DT expected_VVN second_JJ spot_NN in_IN the_DT event_NN ._SENT 
+Walsh_NP won_VVD in_IN 2:09.30_CD ,_, followed_VVN by_IN Kate_NP Douglass_NP at_IN 2:09.32_CD and_CC Madisyn_NP Cox_NP in_IN 2:09.34_CD ._SENT 
+Douglass_NP will_MD get_VV the_DT expected_VVN second_JJ spot_NN on_IN the_DT Olympic_JJ team_NN ,_, while_IN Cox_NP endured_VVD another_DT heartbreak_NN after_IN finishing_VVG fourth_JJ in_IN two_CD events_NNS at_IN the_DT 2016_CD trials_NNS ._SENT 
+Walsh_NP and_CC Douglass_NP give_VVP the_DT American_JJ team_NN two_CD more_JJR first-time_JJ Olympians_NNS ._SENT 
+"_`` I_PP 'm_VBP in_IN shock_NN ,_, "_'' Walsh_NP said_VVD ._SENT 
+Eighteen-year-old_NP Torri_NP Huske_NP ,_, who_WP already_RB made_VVD the_DT team_NN in_IN the_DT 100_CD butterfly_NN ,_, got_VVD off_RP to_TO a_DT blistering_VVG start_NN in_IN her_PP$ signature_NN stroke_NN but_CC could_MD n't_RB hold_VV on_RP ._SENT 
+She_PP faded_VVD to_TO fourth_JJ ._SENT 
+Ledecky_NP is_VBZ one_CD of_IN at_IN least_JJS two_CD swimmers_NNS the_DT Americans_NPS are_VBP counting_VVG on_IN to_TO be_VB big_JJ stars_NNS at_IN these_DT Olympics_NPS ,_, the_DT first_JJ since_IN 1996_CD that_WDT wo_MD n't_RB include_VV Phelps_NP ._SENT 
+He_PP retired_VVD after_IN Rio_NP with_IN a_DT record_NN 23_CD gold_NN medals_NNS and_CC 28_CD medals_NNS overall_JJ ._SENT 
+The_DT other_JJ is_VBZ Caeleb_NP Dressel_NP ,_, who_WP was_VBD top_JJ qualifier_NN in_IN the_DT semifinals_NNS of_IN the_DT 100_CD free_JJ with_IN a_DT time_NN of_IN 47.77_CD ._SENT 
+Nathan_NP Adrian_NP ,_, an_DT eight-time_JJ Olympic_NP medalist_NN who_WP won_VVD the_DT 100_CD free_JJ at_IN the_DT 2012_CD Olympics_NPS and_CC captured_VVD a_DT bronze_NN in_IN Rio_NP ,_, failed_VVD to_TO even_RB qualify_VV for_IN the_DT final_JJ after_IN finishing_VVG sixth_JJ in_IN his_PP$ heat_NN and_CC 13th_JJ overall_NN at_IN 48.92_CD ._SENT 
+Adrian_NP ,_, who_WP overcame_VVD testicular_JJ cancer_NN and_CC is_VBZ now_RB married_VVN with_IN a_DT daughter_NN ,_, conceded_VVD that_IN it_PP was_VBD hard_JJ to_TO maintain_VV the_DT sort_NN of_IN focus_NN he_PP needed_VVD at_IN age_NN 32._CD "_'' When_WRB I_PP had_VHD a_DT bad_JJ practice_NN before_RB ,_, it_PP was_VBD a_DT little_JJ bit_NN of_IN a_DT dagger_NN in_IN the_DT heart_NN ._SENT 
+I_PP would_MD be_VB very_RB ,_, very_RB affected_VVN by_IN that_DT ,_, "_'' he_PP said_VVD ._SENT 
+"_`` Now_RB ,_, I_PP just_RB want_VVP to_TO go_VV home_NN and_CC immediately_RB give_VV my_PP$ wife_NN and_CC baby_NN a_DT hug_NN and_CC a_DT kiss_NN ._SENT 
+"_'' In_IN so_RB many_JJ indescribable_JJ ways_NNS ,_, this_DT is_VBZ such_PDT an_DT all-in_JJ sport_NN ._SENT 
+Unfortunately_RB ,_, I_PP was_VBD n't_RB able_JJ to_TO stick_VV two_CD good_JJ swims_NNS out_IN there_RB ._SENT 
+"_'' Olympic_NP champion_NN Ryan_NP Lochte_NP fails_VVZ to_TO advance_VV in_IN 200_CD free_JJ prelims_NNS at_IN U._NP S._NP Olympic_NP swimming_NN trials_NNS OMAHA_NP ,_, Neb._NP --_: Olympic_NP champion_NN Ryan_NP Lochte_NP failed_VVD to_TO advance_VV from_IN the_DT preliminaries_NN of_IN the_DT 200-meter_NN freestyle_NN on_IN Monday_NP ,_, his_PP$ first_JJ event_NN of_IN the_DT U._NP S._NP Olympic_NP swimming_NN trials_NNS ._SENT 
+Lochte_NP ,_, 36_CD ,_, attempting_VVG to_TO make_VV his_PP$ fifth_JJ Olympic_JJ team_NN ,_, posted_VVD a_DT time_NN of_IN 1_CD minute_NN ,_, 49.23_CD seconds_NNS --_: only_RB good_JJ enough_RB for_IN 25th_JJ place_NN overall_JJ ._SENT 
+The_DT top_JJ 16_CD advanced_VVD to_TO the_DT evening_NN semifinals_NNS ,_, led_VVN by_IN Kieran_NP Smith_NP at_IN 1:46.54_CD ._SENT 
+Caeleb_NP Dressel_NP was_VBD second_JJ in_IN 1:46.63_CD ._SENT 
+Smith_NP won_VVD the_DT 400_CD free_JJ on_IN Sunday_NP to_TO earn_VV his_PP$ first_JJ trip_NN to_TO the_DT Olympics_NPS ._SENT 
+Lochte_NP was_VBD also_RB entered_VVN Monday_NP in_IN the_DT 100_CD backstroke_NN ,_, but_CC he_PP scratched_VVN from_IN that_DT event_NN ._SENT 
+Defending_VVG Olympic_JJ champion_NN Ryan_NP Murphy_NP easily_RB advanced_VVD from_IN the_DT preliminaries_NN ,_, as_RB did_VVD 36-year-old_JJ Matt_NP Grevers_NP ,_, the_DT 2012_CD gold_NN medalist_NN ._SENT 
+Even_RB though_IN Lochte_NP initially_RB entered_VVD six_CD events_NNS at_IN the_DT trials_NNS ,_, it_PP appears_VVZ the_DT 200_CD individual_JJ medley_NN is_VBZ the_DT only_JJ race_NN in_IN which_WDT he_PP has_VHZ a_DT realistic_JJ shot_NN of_IN earning_VVG a_DT trip_NN to_TO Tokyo_NP ._SENT 
+He_PP scratched_VVN from_IN the_DT 400_CD IM_NP on_IN Sunday_NP ._SENT 
+Lochte_NP has_VHZ won_VVN 12_CD Olympic_JJ medals_NNS ,_, including_VVG six_CD golds_NNS ._SENT 
+Now_RB married_VVN with_IN two_CD children_NNS ,_, he_PP hopes_VVZ to_TO make_VV it_PP to_TO one_CD more_JJR Olympics_NNS to_TO erase_VV the_DT stigma_NN of_IN an_DT incident_NN at_IN the_DT 2016_CD Rio_NP de_NP Janeiro_NP Games_NPS ,_, where_WRB he_PP lied_VVD about_RB being_VBG robbed_VVN at_IN gunpoint_NN ._SENT 
+Singer_NP Cody_NP Simpson_NP sets_VVZ personal_JJ best_JJS ,_, but_CC falls_VVZ short_JJ at_IN Australia_NP 's_POS Olympic_JJ swimming_NN trials_NNS ADELAIDE_NP ,_, Australia_NP --_: Olympic_NP champion_NN Kyle_NP Chalmers_NP and_CC singer_NN Cody_NP Simpson_NP were_VBD listed_VVN side_NN by_IN side_NN in_IN the_DT billing_NN for_IN a_DT documentary_JJ series_NN being_VBG promoted_VVN ahead_RB of_IN Australia_NP 's_POS Olympic_JJ swimming_NN trials_NNS ._SENT 
+On_IN the_DT result_NN lists_VVZ for_IN the_DT 100-meter_NN freestyle_NN Tuesday_NP ,_, the_DT names_NNS were_VBD a_DT long_JJ way_NN apart_RB ._SENT 
+Chalmers_NP led_VVD the_DT morning_NN preliminaries_NN and_CC comfortably_RB won_VVD the_DT night_NN final_JJ in_IN 47.59_CD seconds_NNS to_TO ensure_VV he_PP 'll_MD get_VV the_DT right_NN to_TO defend_VV the_DT gold_JJ medal_NN he_PP won_VVD at_IN the_DT 2016_CD Olympics_NPS ._SENT 
+Chalmers_NP ,_, who_WP had_VHD surgery_NN on_IN his_PP$ left_JJ shoulder_NN last_JJ November_NP ,_, also_RB won_VVD the_DT 200_CD free_JJ on_IN the_DT weekend_NN ._SENT 
+Simpson_NP ,_, who_WP has_VHZ put_VVN his_PP$ music_NN career_NN on_IN hold_NN while_IN concentrating_VVG on_IN swimming_NN at_IN his_PP$ first_JJ Olympic_JJ trials_NNS ,_, finished_VVD 23rd_JJ in_IN the_DT rankings_NNS among_IN the_DT 92_CD swimmers_NNS who_WP competed_VVD in_IN the_DT preliminaries_NN ._SENT 
+Still_RB ,_, his_PP$ time_NN of_IN 50.22_CD was_VBD a_DT personal_JJ best_JJS ._SENT 
+And_CC his_PP$ preferred_JJ event_NN --_: the_DT 100_CD butterfly_NN --_: is_VBZ in_IN two_CD days._NP "_'' I_PP wanted_VVD to_TO just_RB get_VV up_RP and_CC do_VV something_NN before_IN the_DT 100_CD fly_VVP otherwise_RB I_PP would_MD be_VB waiting_VVG around_RP all_DT week_NN ,_, "_'' Simpson_NP said_VVD after_IN his_PP$ first_JJ taste_NN of_IN competition_NN at_IN the_DT trials_NNS ._SENT 
+"_'' Just_RB being_VBG around_IN all_PDT these_DT athletes_NNS ..._: I_PP love_VVP this_DT ,_, I_PP really_RB want_VVP to_TO do_VV this_DT for_IN a_DT while_NN ._SENT 
+"_`` My_PP$ goal_NN this_DT meet_VVP would_MD be_VB to_TO try_VV to_TO make_VV that_IN final_JJ in_IN the_DT 100_CD fly_NN ,_, that_WDT would_MD be_VB nice_JJ ._SENT 
+As_RB long_RB as_IN I_PP 'm_VBP improving_VVG ,_, that_WDT 's_VBZ all_DT I_PP can_MD really_RB ask_VV for_IN ._SENT 
+"_'' Simpson_NP was_VBD featured_VVN in_IN the_DT Amazon_NP series_NN "_`` Head_NP Above_IN Water_NP "_'' with_IN Chalmers_NP ,_, Bronte_NP Campbell_NP and_CC Ian_NP Thorpe_NP ,_, Australia_NP 's_POS most_RBS decorated_VVN swimmer_NN and_CC his_PP$ mentor_NN ._SENT 
+He_PP cut_VVD short_RB a_DT promising_JJ junior_JJ swimming_NN career_NN when_WRB he_PP moved_VVD to_TO the_DT U._NP S._NP in_IN 2010_CD to_TO pursue_VV his_PP$ music_NN career_NN ._SENT 
+Simpson_NP concedes_VVZ he_PP probably_RB is_VBZ a_DT better_JJR prospect_NN for_IN the_DT 2024_CD Paris_NP Olympics_NPS ._SENT 
+In_IN the_DT 200-meter_NN breaststroke_NN ,_, Zac_NP Stubblety-Cook_NP set_VVD a_DT commonwealth_NN record_NN of_IN 2_CD minutes_NNS ,_, 06.28_CD seconds_NNS to_TO secure_VV his_PP$ spot_NN at_IN the_DT Tokyo_NP Games_NPS ._SENT 
+Brianna_NP Throssell_NP won_VVD the_DT 200-meter_NN butterfly_NN in_IN 2:07.63_CD ,_, edging_VVG 17-year-old_JJ Elizabeth_NP Dekkers_NNS ._SENT 
+Maddie_NP Groves_NP ,_, who_WP won_VVD silver_NN in_IN the_DT event_NN at_IN the_DT Rio_NP Olympics_NPS ,_, sparked_VVD controversy_NN last_JJ week_NN when_WRB she_PP withdrew_VVD from_IN the_DT trials_NNS after_IN social_JJ media_NNS posts_NNS condemning_VVG "_`` misogynistic_JJ perverts_NNS "_'' in_IN the_DT sport_NN ._SENT 
+She_PP posted_VVD later_RBR Friday_NP on_IN Instagram_NP to_TO say_VV her_PP$ decision_NN to_TO withdraw_VV from_IN Olympic_JJ selection_NN was_VBD not_RB based_VVN on_IN a_DT "_`` singular_JJ incident_NN "_'' and_CC was_VBD partly_RB because_IN of_IN the_DT COVID-19_JJ pandemic_NN ,_, which_WDT has_VHZ already_RB delayed_VVN the_DT Tokyo_NP Games_NPS by_IN 12_CD months_NNS ._SENT 
+"_'' If_IN starting_VVG this_DT conversation_NN will_MD save_VV just_RB one_CD young_JJ girl_NN from_IN something_NN like_IN being_VBG told_VVN to_TO lose_VV weight_NN or_CC diet_NN ,_, not_RB going_VVG to_TO the_DT Olympics_NPS will_MD have_VH been_VBN worth_JJ it_PP ,_, "_'' Groves_NP said_VVD ._SENT 
+Swimming_VVG Australia_NP said_VVD it_PP had_VHD tried_VVN to_TO open_VV dialogue_NN with_IN Groves_NP since_IN December_NP but_CC "_`` unfortunately_RB at_IN this_DT point_NN we_PP have_VHP not_RB been_VBN able_JJ to_TO have_VH a_DT direct_JJ conversation_NN with_IN Maddie_NP to_TO understand_VV exactly_RB what_WP her_PP$ concerns_NNS are_VBP ,_, who_WP the_DT people_NNS involved_VVN are_VBP ,_, so_RB that_IN we_PP can_MD investigate_VV it_PP and_CC deal_VV with_IN it_PP ._SENT 
+"_'' The_DT national_JJ governing_NN body_NN said_VVD it_PP would_MD establish_VV an_DT independent_JJ ,_, female-led_JJ panel_NN to_TO investigate_VV issues_NNS relating_VVG to_TO the_DT experiences_NNS of_IN women_NNS and_CC girls_NNS in_IN swimming_NN ._SENT 

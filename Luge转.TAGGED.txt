@@ -1,0 +1,155 @@
+Germany_NP wins_VVZ Olympic_JJ relay_NN ,_, sweeps_VVZ luge_NN gold_NN medals_VVZ BEIJING_NP --_: Germany_NP 4_CD ,_, Rest_NN of_IN World_NP 0._CD The_DT Beijing_NP Olympics_NPS were_VBD a_DT luge_NN runaway_JJ for_IN the_DT world_NN 's_POS sliding_VVG superpower_NN ,_, which_WDT won_VVD gold_NN in_IN men_NNS 's_POS ,_, women_NNS 's_POS and_CC doubles_VVZ events_NNS -_: then_RB put_VV those_DT champions_NNS in_IN Thursday_NP 's_POS team_NN relay_NN and_CC watched_VVD them_PP end_VV the_DT season_NN with_IN one_CD more_JJR victory_NN ._SENT 
+Natalie_NP Geisenberger_NP ,_, Johannes_NP Ludwig_NP and_CC the_DT doubles_VVZ team_NN of_IN Tobias_NP Wendl_NP and_CC Tobias_NP Arlt_NP finished_VVD in_IN 3_CD minutes_NNS ,_, 3.406_CD seconds_NNS at_IN the_DT Yanqing_NP Sliding_VVG Center_NP ,_, 0.080_CD seconds_NNS ahead_RB of_IN silver-medalist_NP Austria_NP and_CC 0.948_CD seconds_NNS ahead_RB of_IN bronze-medalist_NP Latvia_NP ._SENT 
+The_DT medal_NN standings_NNS were_VBD a_DT runaway_JJ ._SENT 
+The_DT relay_NN was_VBD not_RB ._SENT 
+Wendl_NP and_CC Arlt_NP had_VHD to_TO make_VV up_RP a_DT one-tenth_NN of_IN a_DT second_JJ deficit_NN in_IN the_DT final_JJ heat_NN of_IN the_DT competition_NN ,_, then_RB skidded_VVD a_DT bit_NN just_RB before_IN the_DT finish_NN line_NN -_: but_CC had_VHD just_RB enough_RB speed_VV to_TO prevail_VV ._SENT 
+"_`` That_DT 's_VBZ a_DT great_JJ performance_NN ,_, "_`` German_JJ coach_NN Norbert_NP Loch_NP said_VVD ._SENT 
+"_`` And_CC now_RB ,_, beer_NN ._SENT 
+We_PP earned_VVD it_PP ._SENT 
+"_'' Geisenberger_NP is_VBZ now_RB a_DT six-time_JJ gold_NN medalist_NN -_: three_CD in_IN a_DT row_NN in_IN the_DT women_NNS 's_POS race_NN ,_, three_CD in_IN a_DT row_NN in_IN relays_NNS ._SENT 
+Same_JJ for_IN Wendl_NP and_CC Arlt_NP ,_, who_WP have_VHP pulled_VVN off_RP the_DT doubles-then-relay_NN sweep_NN in_IN each_DT of_IN the_DT last_JJ three_CD Olympics_NNS ._SENT 
+Ludwig_NP is_VBZ merely_RB a_DT three-time_JJ gold_NN medalist_NN ,_, after_IN being_VBG part_NN of_IN the_DT relay_NN triumph_NN in_IN 2018_CD and_CC then_RB climbing_VVG atop_IN the_DT podium_NN twice_RB this_DT week_NN ._SENT 
+Those_DT four_CD sliders_NNS ,_, combined_VVD :_: 15_CD Olympic_JJ gold_NN medals_NNS ._SENT 
+Every_DT non-German_JJ luge_NN nation_NN ,_, combined_VVD :_: 14_CD Olympic_JJ gold_NN medals_NNS ._SENT 
+The_DT United_NP States_NPS was_VBD seventh_JJ ,_, with_IN one_CD Olympic_JJ career_NN ending_VVG and_CC three_CD others_NNS just_RB starting_VVG ._SENT 
+Chris_NP Mazdzer_NP -_: the_DT four-time_JJ Olympian_NN and_CC 2018_CD men_NNS 's_POS silver_NN medalist_NN -_: is_VBZ done_VVN on_IN this_DT stage_NN ,_, confirming_VVG that_IN he_PP 's_VBZ going_VVG to_TO retire_VV after_IN one_CD final_JJ farewell_NN World_NP Cup_NP race_NN ._SENT 
+Mazdzer_NP teamed_VVD up_RP with_IN Ashley_NP Farquharson_NP and_CC the_DT doubles_VVZ team_NN of_IN Zack_NP DiGregorio_NP and_CC Sean_NP Hollander_NP for_IN the_DT relay_NN ,_, with_IN a_DT finishing_JJ time_NN of_IN 3:05.741_CD ._SENT 
+And_CC afterward_RB ,_, Mazdzer_NP said_VVD the_DT future_NN of_IN the_DT team_NN is_VBZ bright_JJ ._SENT 
+"_`` I_PP think_VVP we_PP have_VHP absolutely_RB amazing_JJ athletes_NNS ,_, "_'' Mazdzer_NP said_VVD ._SENT 
+"_`` I_PP know_VVP every_DT athlete_NN at_IN USA_NP Luge_NN pushes_VVZ so_RB hard_JJ to_TO become_VV the_DT best_JJS ._SENT 
+"_'' For_IN Farquharson_NP ,_, DiGregorio_NP and_CC Hollander_NP ,_, Beijing_NP represented_VVD an_DT Olympic_JJ debut_NN ._SENT 
+Mazdzer_NP brought_VVD the_DT team_NN in_IN for_IN a_DT group_NN hug_NN when_WRB the_DT run_NN was_VBD over_RP ,_, and_CC they_PP were_VBD all_DT smiles_NNS afterward_RB ._SENT 
+"_`` I_PP think_VVP this_DT being_NN our_PP$ first_JJ Olympics_NPS and_CC how_WRB we_PP performed_VVD this_DT last_JJ week_NN is_VBZ amazing_JJ ,_, "_'' Farquharson_NP said_VVD ._SENT 
+"_`` We_PP can_MD only_RB go_VV up_RP from_IN here_RB ._SENT 
+"_'' Tobias_NP Wendl_NP ,_, Tobias_NP Arlt_NP lead_NN Germany_NP to_TO 1-2_CD finish_NN in_IN doubles_VVZ luge_NN at_IN Beijing_NP Olympics_NPS BEIJING_NP --_: Another_DT day_NN ,_, another_DT German_JJ Olympic_JJ luge_NN threepeat_NNS ._SENT 
+The_DT best_JJS sliding_VVG nation_NN in_IN the_DT world_NN is_VBZ leaving_VVG absolutely_RB no_DT doubt_NN at_IN the_DT Beijing_NP Games_NPS ._SENT 
+Tobias_NP Wendl_NP and_CC Tobias_NP Arlt_NP won_VVD the_DT doubles_VVZ title_NN at_IN the_DT Olympics_NPS on_IN Wednesday_NP ,_, their_PP$ third_JJ consecutive_JJ gold_NN medal_NN in_IN the_DT event_NN ._SENT 
+They_PP finished_VVD two_CD runs_NNS in_IN 1_CD minute_NN ,_, 56.653_CD seconds_NNS ,_, holding_VVG off_RP German_JJ teammates_NNS Toni_NP Eggert_NP and_CC Sascha_NP Benecken_NP by_IN 0.099_CD seconds_NNS ._SENT 
+"_`` Indescribable_JJ ,_, "_'' Wendl_NP said_VVD after_IN he_PP and_CC Arlt_NP won_VVD their_PP$ fifth_JJ Olympic_JJ gold_NN overall_NN ,_, when_WRB the_DT three_CD doubles_VVZ titles_NNS are_VBP added_VVN to_TO two_CD relay_NN wins_NNS --_: with_IN a_DT chance_NN at_IN another_DT on_IN Thursday_NP ._SENT 
+"_`` This_DT one_CD was_VBD the_DT toughest_JJS ._SENT 
+"_'' Thomas_NP Steu_NP and_CC Lorenz_NP Koller_NP of_IN Austria_NP survived_VVD a_DT wobble_NN just_RB before_IN the_DT finish_NN line_NN to_TO get_VV the_DT bronze_NN ,_, 0.511_CD seconds_NNS off_IN the_DT winning_JJ time_NN ._SENT 
+BEIJING_NP --_: Another_DT day_NN ,_, another_DT German_JJ Olympic_JJ luge_NN threepeat_NNS ._SENT 
+The_DT best_JJS sliding_VVG nation_NN in_IN the_DT world_NN is_VBZ leaving_VVG absolutely_RB no_DT doubt_NN at_IN the_DT Beijing_NP Games_NPS ._SENT 
+Tobias_NP Wendl_NP and_CC Tobias_NP Arlt_NP won_VVD the_DT doubles_VVZ title_NN at_IN the_DT Olympics_NPS on_IN Wednesday_NP ,_, their_PP$ third_JJ consecutive_JJ gold_NN medal_NN in_IN the_DT event_NN ._SENT 
+They_PP finished_VVD two_CD runs_NNS in_IN 1_CD minute_NN ,_, 56.653_CD seconds_NNS ,_, holding_VVG off_RP German_JJ teammates_NNS Toni_NP Eggert_NP and_CC Sascha_NP Benecken_NP by_IN 0.099_CD seconds_NNS ._SENT 
+"_`` Indescribable_JJ ,_, "_'' Wendl_NP said_VVD after_IN he_PP and_CC Arlt_NP won_VVD their_PP$ fifth_JJ Olympic_JJ gold_NN overall_NN ,_, when_WRB the_DT three_CD doubles_VVZ titles_NNS are_VBP added_VVN to_TO two_CD relay_NN wins_NNS --_: with_IN a_DT chance_NN at_IN another_DT on_IN Thursday_NP ._SENT 
+"_`` This_DT one_CD was_VBD the_DT toughest_JJS ._SENT 
+"_'' Thomas_NP Steu_NP and_CC Lorenz_NP Koller_NP of_IN Austria_NP survived_VVD a_DT wobble_NN just_RB before_IN the_DT finish_NN line_NN to_TO get_VV the_DT bronze_NN ,_, 0.511_CD seconds_NNS off_IN the_DT winning_JJ time_NN ._SENT 
+And_CC really_RB ,_, none_NN of_IN this_DT should_MD be_VB a_DT surprise_NN :_: There_EX have_VHP now_RB been_VBN 50_CD Olympic_JJ luge_NN races_NNS ,_, and_CC a_DT German_JJ sled_NN has_VHZ won_VVN gold_NN in_IN 37_CD of_IN them_PP ._SENT 
+Here_RB in_IN China_NP ,_, they_PP 're_VBP even_RB raising_VVG the_DT bar_NN ._SENT 
+Back-to-back-to-back_NP Olympic_NP luge_NN championships_NNS were_VBD a_DT rarity_NN -_: that_WDT is_VBZ ,_, until_IN the_DT last_JJ two_CD days._NP Germany_NP 's_POS Georg_NP Hackl_NP had_VHD been_VBN the_DT only_JJ person_NN to_TO pull_VV off_RP that_DT feat_NN ,_, winning_VVG the_DT gold_NN in_IN men_NNS 's_POS luge_NN in_IN 1992_CD ,_, 1994_CD and_CC 1998._CD Now_RB ,_, three_CD other_JJ sliders_NNS are_VBP in_IN the_DT Olympic_NP luge_NN threepeat_NN club_NN :_: Geisenberger_NP won_VVD her_PP$ third_JJ straight_JJ women_NNS 's_POS gold_NN on_IN Tuesday_NP ,_, and_CC Wendl_NP and_CC Arlt_NP joined_VVD them_PP on_IN Wednesday_NP ._SENT 
+"_`` You_PP can_MD count_VV on_IN us_PP every_DT four_CD years_NNS ,_, "_'' Wendl_NP said_VVD ._SENT 
+Said_VVN Eggert_NP :_: "_`` They_PP deserved_VVD to_TO win_VV ._SENT 
+"_`` There_EX were_VBD only_RB 17_CD sleds_NNS in_IN the_DT field_NN after_IN Austria_NP 's_POS team_NN of_IN Yannick_NP Mueller_NP and_CC Armin_NP Frauscher_NP had_VHD to_TO withdraw_VV ._SENT 
+Mueller_NP broke_VVD his_PP$ left_JJ forearm_NN in_IN a_DT training_NN crash_NN earlier_RBR this_DT week_NN ._SENT 
+Natalie_NP Geisenberger_NP wins_VVZ women_NNS 's_POS luge_NN 's_VBZ gold_JJ medal_NN for_IN third_JJ time_NN at_IN Beijing_NP Winter_NP Olympics_NPS BEIJING_NP --_: The_DT greatest_JJS of_IN all_DT time_NN ._SENT 
+In_IN most_JJS sports_NNS ,_, such_PDT a_DT title_NN is_VBZ the_DT source_NN of_IN great_JJ debate_NN ._SENT 
+Not_RB women_NNS 's_POS luge_NN ._SENT 
+Definitely_RB not_RB after_IN Tuesday_NP night_NN ,_, when_WRB Natalie_NP Geisenberger_NP of_IN Germany_NP became_VVD the_DT first_JJ to_TO win_VV the_DT Olympic_JJ women_NNS 's_POS competition_NN three_CD times_NNS to_TO cement_VV her_PP$ place_NN in_IN history_NN as_IN the_DT sport_NN 's_POS best_JJS ._SENT 
+Her_PP$ four-run_JJ time_NN at_IN the_DT Yanqing_NP Sliding_VVG Center_NP was_VBD 3_CD minutes_NNS ,_, 53.454_CD seconds_NNS --_: 0.493_CD seconds_NNS ahead_RB of_IN silver_NN medalist_NN Anna_NP Berreiter_NP of_IN Germany_NP and_CC 1.053_CD seconds_NNS ahead_RB of_IN bronze_NN medalist_NN Tatiana_NP Ivanova_NP of_IN the_DT Russian_JJ team_NN ._SENT 
+"_`` It_PP 's_VBZ hard_JJ to_TO compare_VV Olympic_JJ medals_NNS because_IN every_DT one_CD has_VHZ its_PP$ own_JJ history_NN ,_, "_'' Geisenberger_NP said_VVD ._SENT 
+"_`` My_PP$ first_NN was_VBD very_RB ,_, very_RB special_JJ because_IN it_PP was_VBD the_DT first_JJ ._SENT 
+Now_RB I_PP 'm_VBP a_DT third-time_JJ Olympic_JJ champion_NN ,_, but_CC the_DT first_JJ time_NN as_IN a_DT mother_NN ._SENT 
+It_PP 's_VBZ just_RB great_JJ ._SENT 
+"_'' Berreiter_NP crossed_VVD the_DT finish_NN line_NN in_IN tears_NNS when_WRB she_PP realized_VVD a_DT medal_NN would_MD soon_RB be_VB dangling_VVG from_IN her_PP$ neck_NN ._SENT 
+Ivanova_NP was_VBD swarmed_VVN by_IN happy_JJ teammates_NNS ,_, some_DT pulling_VVG out_RP their_PP$ phones_NNS to_TO record_VV her_PP$ medal_NN moment_NN ._SENT 
+They_PP were_VBD no_DT match_NN for_IN the_DT greatest_JJS ._SENT 
+As_RB has_VHZ become_VVN her_PP$ Olympic_JJ custom_NN ,_, Geisenberger_NP wrapped_VVD herself_PP in_IN the_DT German_JJ flag_NN after_IN hopping_VVG off_RP her_PP$ sled_NN ,_, unable_JJ to_TO fight_VV back_JJ tears_NNS of_IN joy_NN ._SENT 
+"_`` She_PP 's_VBZ the_DT greatest_JJS ,_, "_`` German_JJ coach_NN Norbert_NP Loch_NP said_VVD ._SENT 
+"_`` I_PP think_VVP she_PP 's_VBZ the_DT queen_NN of_IN luge_NN ._SENT 
+"_'' Geisenberger_NP 's_POS résumé_NN is_VBZ beyond_RB compare_VV in_IN luge_NN history_NN ._SENT 
+No_DT woman_NN has_VHZ more_RBR Olympic_JJ gold_NN medals_NNS ,_, no_DT woman_NN has_VHZ more_JJR world_NN championship_NN gold_NN medals_NNS ,_, no_DT woman_NN has_VHZ more_JJR World_NP Cup_NP race_NN wins_NNS ._SENT 
+Consider_VV this_DT as_RB proof_JJ of_IN her_PP$ dominance_NN :_: she_PP has_VHZ 52_CD World_NP Cup_NP victories_NNS ,_, which_WDT is_VBZ exactly_RB the_DT number_NN that_IN the_DT rest_NN of_IN the_DT women_NNS in_IN this_DT Olympic_NP field_NN have_VHP combined_VVN ._SENT 
+She_PP joins_VVZ German_JJ great_JJ Georg_NP Hackl_NP --_: the_DT men_NNS 's_POS champion_NN in_IN 1992_CD ,_, 1994_CD and_CC 1998_CD --_: as_IN the_DT only_JJ luge_NN athlete_NN to_TO win_VV three_CD consecutive_JJ gold_NN medals_NNS in_IN the_DT same_JJ event_NN ._SENT 
+Add_VV a_DT pair_NN of_IN team_NN relay_NN victories_NNS in_IN there_RB and_CC Geisenberger_NP is_VBZ up_RB to_TO five_CD Olympic_JJ golds_NNS in_IN her_PP$ collection_NN ,_, with_IN a_DT sixth_JJ possibly_RB coming_VVG soon_RB since_IN Germany_NP will_MD be_VB the_DT heavy_JJ favorite_NN to_TO prevail_VV when_WRB that_DT event_NN is_VBZ held_VVN Thursday_NP ._SENT 
+Ashley_NP Farquharson_NP was_VBD the_DT top_JJ American_JJ finisher_NN in_IN her_PP$ Olympic_JJ debut_NN ,_, placing_VVG 12th_JJ and_CC moving_VVG up_RP five_CD spots_NNS after_IN a_DT brilliant_JJ fourth_JJ run_NN that_WDT could_MD give_VV her_PP some_DT momentum_NN heading_VVG into_IN the_DT relay_NN ._SENT 
+"_`` I_PP just_RB wanted_VVD to_TO slide_VV my_PP$ little_JJ heart_NN out_RP ,_, "_'' Farquharson_NP said_VVD ._SENT 
+"_`` And_CC I_PP think_VVP that_DT 's_VBZ what_WP I_PP did_VVD ._SENT 
+"_`` Also_RB for_IN the_DT U._NP S._NP ,_, three-time_JJ Olympian_NN Summer_NP Britcher_NP was_VBD 23rd_JJ and_CC two-time_VV Olympian_JJ Emily_NP Sweeney_NP was_VBD 26th_JJ ,_, both_CC of_IN their_PP$ chances_NNS ruined_VVN by_IN crashes_NNS during_IN Monday_NP 's_POS opening_NN night_NN of_IN the_DT competition_NN ._SENT 
+Geisenberger_NP 's_POS lead_NN over_IN Berreiter_NN entering_VVG the_DT final_JJ heat_NN was_VBD 0.330_CD seconds_NNS ._SENT 
+That_DT meant_VVD all_RB she_PP had_VHD to_TO do_VV was_VBD put_VVN together_RB a_DT clean_JJ run_NN --_: and_CC it_PP was_VBD perfect_JJ ._SENT 
+It_PP was_VBD golden_JJ ._SENT 
+Geisenberger_NP was_VBD willing_JJ to_TO sit_VV these_DT Olympics_NPS out_RB ._SENT 
+Her_PP$ experience_NN competing_VVG in_IN China_NP three_CD months_NNS ago_RB left_VVD her_PP$ so_RB frustrated_VVN ,_, so_RB angry_JJ ,_, so_RB disappointed_JJ --_: everything_NN from_IN testing_NN and_CC quarantine_NN rules_NNS to_TO even_VV the_DT food_NN ,_, in_IN her_PP$ mind_NN ,_, was_VBD substandard_JJ --_: that_IN she_PP seriously_RB considered_VVD skipping_VVG the_DT Beijing_NP Games_NPS in_IN a_DT bit_NN of_IN protest_NN ._SENT 
+It_PP took_VVD a_DT number_NN of_IN meetings_NNS with_IN German_JJ officials_NNS ,_, International_NP Luge_NN Federation_NP officials_NNS ,_, even_RB International_NP Olympic_NP Committee_NP representatives_NNS before_IN she_PP was_VBD convinced_VVN that_IN the_DT Games_NPS would_MD be_VB safe_JJ for_IN athletes_NNS ._SENT 
+"_'' They_PP told_VVD me_PP something_NN would_MD change_VV ,_, "_'' Geisenberger_NP said_VVD ._SENT 
+"_`` And_CC I_PP asked_VVD ,_, 'No_NP ,_, I_PP do_VVP n't_RB want_VV to_TO hear_VV something_NN will_MD change_VV ._SENT 
+I_PP want_VVP to_TO hear_VV what_WP will_MD change_VV ._SENT 
+'_'' It_PP took_VVD me_PP a_DT lot_NN of_IN time_NN the_DT last_JJ weeks_NNS ,_, and_CC I_PP had_VHD a_DT better_JJR feeling_NN ._SENT 
+"_'' Geisenberger_NP became_VVD a_DT mom_NN midway_NN through_IN this_DT Olympic_JJ cycle_NN ,_, taking_VVG a_DT year_NN off_RP from_IN sliding_VVG to_TO have_VH her_PP$ son_NN Leo_NP --_: timing_VVG it_PP all_RB with_IN hopes_NNS of_IN getting_VVG back_RB to_TO top_JJ form_NN for_IN the_DT Beijing_NP Games_NPS ._SENT 
+"_`` It_PP was_VBD pretty_RB hard_JJ ,_, "_'' Geisenberger_NP said_VVD ._SENT 
+"_`` My_PP$ son_NN is_VBZ my_PP$ No._NN 1._CD I_PP will_MD train_VV as_RB hard_JJ as_IN I_PP can_MD when_WRB I_PP have_VHP time_NN when_WRB Leo_NP sleeps_VVZ ._SENT 
+I_PP think_VVP we_PP did_VVD a_DT pretty_RB good_JJ job_NN as_IN a_DT family_NN ._SENT 
+"_'' Germany_NP 's_POS Johannes_NP Ludwig_NP becomes_VVZ oldest_JJS luge_NN gold_NN medalist_NN with_IN Beijing_NP win_VVP BEIJING_NP --_: Johannes_NP Ludwig_NP let_VVD all_PDT his_PP$ rivals_NNS know_VVP in_IN November_NP that_IN he_PP would_MD be_VB the_DT one_CD to_TO beat_VV at_IN the_DT Beijing_NP Olympics_NPS ._SENT 
+He_PP was_VBD right_JJ ._SENT 
+Ludwig_NP is_VBZ the_DT Olympic_JJ men_NNS 's_POS champion_NN for_IN the_DT first_JJ time_NN ,_, making_VVG him_PP the_DT oldest_JJS --_: he_PP 's_VBZ eight_CD days_NNS shy_JJ of_IN turning_VVG 36_CD --_: to_TO win_VV that_DT race_NN 's_POS gold_NN medal_NN ._SENT 
+Ludwig_NP finished_VVD four_CD runs_NNS at_IN the_DT Yanqing_NP Sliding_VVG Center_NP in_IN 3_CD minutes_NNS ,_, 48.735_CD seconds_NNS ,_, 0.160_CD seconds_NNS ahead_RB of_IN Wolfgang_NP Kindl_NP of_IN Austria_NP and_CC 0.951_CD seconds_NNS ahead_RB of_IN bronze_NN medalist_NN Dominik_NP Fischnaller_NP of_IN Italy_NP ._SENT 
+"_`` I_PP had_VHD a_DT lot_NN of_IN not-so-successful_JJ years_NNS ,_, "_'' Ludwig_NP said_VVD ._SENT 
+"_`` In_IN 2014_CD ,_, I_PP did_VVD n't_RB qualify_VV for_IN the_DT Olympics_NPS ._SENT 
+I_PP had_VHD a_DT lot_NN of_IN fourth_JJ places_NNS at_IN world_NN championships_NNS ;_: I_PP think_VVP maybe_RB five_CD ._SENT 
+The_DT fun_NN of_IN this_DT sport_NN is_VBZ to_TO always_RB continue_VV pushing_VVG ,_, and_CC I_PP think_VVP this_DT medal_NN is_VBZ a_DT sign_NN that_IN I_PP did_VVD the_DT right_JJ thing_NN ._SENT 
+"_`` It_PP 's_VBZ no_DT surprise_NN that_IN a_DT German_JJ won_NN and_CC should_MD n't_RB be_VB a_DT surprise_NN that_IN this_DT was_VBD Ludwig_NP 's_POS turn_NN ._SENT 
+There_EX have_VHP been_VBN 16_CD Olympic_NP men_NNS 's_POS luge_NN races_NNS ,_, and_CC a_DT German_JJ man_NN has_VHZ won_VVN 11_CD of_IN them_PP ._SENT 
+Ludwig_NP was_VBD the_DT bronze_NN medalist_NN at_IN the_DT Pyeongchang_NP Games_NPS four_CD years_NNS ago_RB then_RB made_VVN it_PP clear_JJ that_IN he_PP would_MD be_VB the_DT one_CD to_TO catch_VV at_IN the_DT Beijing_NP Games_NPS when_WRB he_PP arrived_VVD in_IN China_NP for_IN the_DT season-opening_NP World_NP Cup_NP race_NN and_CC simply_RB routed_VVN the_DT field_NN ._SENT 
+"_`` I_PP know_VVP this_DT moment_NN ,_, and_CC Johannes_NP ,_, he_PP 's_VHZ worked_VVN a_DT long_JJ time_NN for_IN this_DT medal_NN ,_, "_'' said_VVD Felix_NP Loch_NP ,_, a_DT two-time_VVP Olympic_JJ champion_NN from_IN Germany_NP who_WP was_VBD fourth_JJ and_CC embraced_VVD Ludwig_NP warmly_RB when_WRB the_DT race_NN was_VBD over_RP ._SENT 
+"_'' And_CC now_RB he_PP 's_VHZ got_VVN the_DT medal_NN ._SENT 
+It_PP 's_VBZ great_JJ for_IN him_PP ,_, and_CC we_PP will_MD celebrate_VV with_IN him_PP ._SENT 
+"_'' Ludwig_NP was_VBD nearly_RB a_DT second_JJ better_JJR than_IN anyone_NN else_RB in_IN that_DT World_NP Cup_NP ,_, which_WDT is_VBZ just_RB two_CD heats_NNS ,_, not_RB the_DT Olympic_NP four_CD ._SENT 
+That_DT was_VBD the_DT biggest_JJS winning_JJ margin_NN luge_NN had_VHD seen_VVN in_IN nearly_RB eight_CD years_NNS ,_, a_DT simply_RB dominant_JJ showing_NN ._SENT 
+Kindl_NP closed_VVD the_DT gap_NN between_IN Ludwig_NP and_CC the_DT rest_NN of_IN the_DT world_NN at_IN the_DT Beijing_NP Games_NPS ._SENT 
+Just_RB not_RB by_IN enough_RB ._SENT 
+And_CC with_IN that_DT ,_, the_DT dream_NN season_NN for_IN Ludwig_NP is_VBZ complete_JJ --_: World_NP Cup_NP overall_JJ champion_NN and_CC the_DT Olympic_JJ crown_NN ._SENT 
+He_PP already_RB knew_VVD what_WP Olympic_NP gold_NN felt_VVD like_VV after_IN being_VBG part_NN of_IN the_DT team_NN that_WDT won_VVD the_DT relay_NN for_IN Germany_NP in_IN Pyeongchang_NP ._SENT 
+This_DT time_NN ,_, though_RB ,_, the_DT top_NN of_IN the_DT podium_NN was_VBD his_PP$ and_CC his_PP$ alone_RB ._SENT 
+Kindl_NP grabbed_VVD an_DT Austrian_JJ flag_NN when_WRB his_PP$ race_NN was_VBD done_VVN ,_, perfectly_RB content_JJ with_IN Olympic_JJ silver_NN ._SENT 
+Fischnaller_NP could_MD n't_RB contain_VV his_PP$ celebration_NN when_WRB he_PP clinched_VVD his_PP$ medal_NN ,_, hugging_VVG longtime_JJ partner_NN Emily_NP Sweeney_NP of_IN the_DT United_NP States_NPS --_: she_PP competes_VVZ in_IN the_DT women_NNS 's_POS race_NN that_WDT starts_VVZ Monday_NP --_: and_CC screaming_VVG into_IN the_DT frosty_JJ air_NN ._SENT 
+"_`` I_PP hope_VVP it_PP 's_VBZ a_DT very_RB good_JJ omen_NN ,_, and_CC maybe_RB she_PP has_VHZ something_NN around_IN her_PP$ neck_NN in_IN two_CD days_NNS ,_, "_'' Fischnaller_NP said_VVD ._SENT 
+Ludwig_NP was_VBD the_DT bronze_NN medalist_NN at_IN the_DT Pyeongchang_NP Games_NPS ,_, denying_VVG Fischnaller_NP a_DT medal_NN there_RB by_IN 0.002_CD seconds_NNS --_: nowhere_RB near_IN enough_JJ time_NN to_TO even_RB blink_VV ._SENT 
+Fischnaller_NP carried_VVD that_DT disappointment_NN for_IN four_CD years_NNS ._SENT 
+"_'' Finally_RB ,_, I_PP have_VHP it_PP now_RB ,_, and_CC I_PP 'm_VBP very_RB excited_JJ ,_, happy_JJ ,_, relieved_JJ ,_, "_'' Fischnaller_NP said_VVD ._SENT 
+Defending_VVG Olympic_JJ gold_NN medalist_NN David_NP Gleirscher_NP of_IN Austria_NP had_VHD trouble_NN in_IN both_DT runs_NNS Sunday_NP and_CC finished_VVD 14th_JJ ._SENT 
+The_DT field_NN was_VBD cut_VVN from_IN 34_CD sliders_NNS to_TO 20_CD for_IN the_DT fourth_JJ and_CC final_JJ run_NN ,_, and_CC all_DT three_CD American_JJ men_NNS advanced_VVD to_TO the_DT fourth_JJ heat_NN ._SENT 
+Chris_NP Mazdzer_NP ,_, the_DT silver_JJ medalist_NN from_IN the_DT Pyeongchang_NP Games_NPS ,_, was_VBD eighth_JJ ._SENT 
+Tucker_NP West_NP was_VBD 13th_JJ for_IN his_PP$ best_JJS finish_NN in_IN three_CD Olympic_JJ appearances_NNS ,_, and_CC Jonny_NP Gustafson_NP was_VBD 19th_JJ in_IN his_PP$ Olympic_JJ debut_NN ._SENT 
+"_`` I_PP 'll_MD definitely_RB take_VV eighth_JJ ,_, "_'' said_VVD Mazdzer_NP ,_, who_WP will_MD compete_VV in_IN the_DT team_NN relay_NN later_RBR this_DT week_NN for_IN what_WP will_MD almost_RB certainly_RB be_VB his_PP$ final_JJ Olympic_JJ event_NN ._SENT 
+"_`` My_PP$ best_JJS finish_VV this_DT year_NN ._SENT 
+It_PP feels_VVZ good_JJ ._SENT 
+It_PP does_VVZ ._SENT 
+"_'' By_IN the_DT time_NN the_DT fourth_JJ and_CC final_JJ run_NN came_VVD around_RP ,_, it_PP was_VBD clearly_RB a_DT two-man_NP race_NN ._SENT 
+Barring_VVG disaster_NN ,_, either_CC Ludwig_NP or_CC Kindl_NP would_MD be_VB the_DT winner_NN ;_: Ludwig_NP 's_POS margin_NN over_IN Kindl_NP was_VBD 0.112_CD seconds_NNS after_IN three_CD runs_NNS ,_, 0.722_CD seconds_NNS --_: a_DT big_JJ margin_NN in_IN luge_NN --_: over_IN the_DT third-place_NN Fischnaller_NN ._SENT 
+Ludwig_NP ,_, the_DT final_JJ sled_NN on_IN the_DT track_NN ,_, was_VBD flawless_JJ ._SENT 
+He_PP would_MD not_RB let_VV gold_JJ slip_NN away_RB ,_, grabbing_VVG at_IN his_PP$ helmet_NN in_IN disbelief_NN before_IN jumping_VVG into_IN a_DT mob_NN of_IN happy_JJ German_JJ athletes_NNS and_CC coaches_NNS to_TO begin_VV the_DT celebration_NN ._SENT 
+Among_IN other_JJ notables_NNS ,_, Fan_NP Duoyao_NP --_: China_NP 's_POS first_JJ men_NNS 's_POS luge_NN Olympian_NN --_: was_VBD 24th_JJ ._SENT 
+Mateusz_NP Sochowicz_NP of_IN Poland_NP ,_, the_DT slider_NN who_WP broke_VVD his_PP$ left_JJ kneecap_NN and_CC cut_VV his_PP$ right_JJ leg_NN to_TO the_DT bone_NN in_IN a_DT training_NN accident_NN at_IN the_DT Yanqing_NP track_NN in_IN November_NP ,_, was_VBD 25th_JJ ._SENT 
+And_CC Saba_NP Kumaritashvili_NP ,_, the_DT cousin_NN of_IN Nodar_NP Kumartashvili_NP --_: the_DT slider_NN from_IN the_DT former_JJ Soviet_JJ republic_NN of_IN Georgia_NP who_WP died_VVD in_IN a_DT training_NN accident_NN hours_NNS before_IN the_DT 2010_CD Vancouver_NP Games_NPS officially_RB opened_VVN --_: was_VBD 31st_JJ ._SENT 
+He_PP crossed_VVD the_DT finish_NN line_NN ,_, smiled_VVD broadly_RB and_CC pumped_VVD his_PP$ fists_NNS in_IN celebration_NN ._SENT 
+"_`` I_PP 'm_VBP very_RB happy_JJ ,_, "_'' Kumaritashvili_NP said_VVD ._SENT 
+"_`` I_PP 've_VHP done_VVN what_WP I_PP needed_VVD ._SENT 
+"_`` He_PP left_VVD feeling_VVG like_IN a_DT winner_NN ._SENT 
+So_RB did_VVD many_JJ others_NNS ._SENT 
+Ludwig_NP just_RB topped_VVD them_PP all_DT ._SENT 
+USA_NP Luge_NN says_VVZ Chris_NP Mazdzer_NP is_VBZ heading_VVG to_TO Beijing_NP Games_NPS Chris_NP Mazdzer_NP was_VBD wrong_JJ ._SENT 
+He_PP 's_VBZ headed_VVN to_TO the_DT Olympics_NPS ._SENT 
+The_DT 2018_CD silver_NN medalist_NN ,_, who_WP originally_RB thought_VVD a_DT 25th-place_NN finish_NN in_IN a_DT World_NP Cup_NP luge_NN race_NN this_DT past_JJ weekend_NN had_VHD doomed_VVN his_PP$ chances_NNS of_IN making_VVG the_DT Beijing_NP Games_NPS ,_, was_VBD nominated_VVN by_IN USA_NP Luge_NN on_IN Monday_NP for_IN what_WP will_MD be_VB his_PP$ fourth_JJ Olympic_JJ team_NN ._SENT 
+The_DT decision_NN on_IN whether_IN he_PP was_VBD going_VVG or_CC not_RB hinged_VVN on_IN whether_IN USA_NP Luge_NN was_VBD told_VVN it_PP had_VHD qualified_VVN three_CD spots_NNS for_IN the_DT men_NNS 's_POS singles_NNS Olympic_JJ field_NN ._SENT 
+Tucker_NP West_NP and_CC Jonny_NP Gustafson_NP knew_VVD they_PP had_VHD spots_NNS ,_, and_CC Mazdzer_NP spent_VVD the_DT weekend_NN waiting_VVG and_CC wondering_VVG ._SENT 
+Finally_RB ,_, Monday_NP ,_, the_DT call_NN came_VVD ._SENT 
+"_`` Man_UH ,_, honestly_RB ,_, relief_NN ,_, '_'' '_'' Mazdzer_NP told_VVD The_DT Associated_NP Press_NP shortly_RB after_IN being_VBG informed_VVN by_IN USA_NP Luge_NN ._SENT 
+"_`` Incredibly_RB excited_JJ ._SENT 
+It_PP 's_VBZ a_DT mixed_JJ bag_NN this_DT time_NN around_RB ._SENT 
+I_PP had_VHD no_DT idea_NN it_PP was_VBD going_VVG to_TO be_VB this_DT emotionally_RB draining_VVG and_CC stressful_JJ ._SENT 
+It_PP 's_VBZ relief_NN ,_, honor_NN and_CC excitement_NN ._SENT 
+"_'' Mazdzer_NP is_VBZ the_DT only_JJ USA_NP Luge_NN men_NNS 's_POS singles_NNS slider_NN to_TO medal_NN in_IN the_DT Olympics_NPS ,_, after_IN earning_VVG a_DT silver_NN in_IN the_DT Pyeongchang_NP Games_NPS four_CD years_NNS ago_RB ._SENT 
+The_DT only_JJ other_JJ singles_NNS medal_NN for_IN the_DT Americans_NPS in_IN Olympic_NP competition_NN came_VVD in_IN 2014_CD ,_, when_WRB Erin_NP Hamlin_NP won_VVD bronze_NN at_IN the_DT Sochi_NP Games_NPS ._SENT 
+USA_NP Luge_NN has_VHZ medaled_VVN four_CD times_NNS in_IN doubles_VVZ ,_, taking_VVG silver_NN and_CC bronze_NN at_IN both_CC the_DT 1998_CD Nagano_NP Games_NPS and_CC the_DT 2002_CD Salt_NP Lake_NP City_NP Games_NPS ._SENT 
+Mazdzer_NP was_VBD hoping_VVG to_TO race_NN in_IN both_DT singles_NNS and_CC doubles_VVZ at_IN the_DT Beijing_NP Games_NPS ._SENT 
+He_PP and_CC doubles_VVZ teammate_NN Jayson_NP Terdiman_NP were_VBD eliminated_VVN from_IN Olympic_JJ contention_NN last_JJ week_NN ._SENT 
+"_`` I_PP 'm_VBP definitely_RB very_RB excited_VVN to_TO be_VB going_VVG to_TO the_DT Olympics_NPS ,_, "_'' Mazdzer_NP said_VVD ._SENT 
+"_`` I_PP just_RB wish_VVP it_PP was_VBD with_IN Jayson_NP as_IN well_RB ._SENT 
+"_'' The_DT rest_NN of_IN the_DT team_NN that_IN USA_NP Luge_NN was_VBD nominating_VVG for_IN U._NP S._NP Olympic_NP and_CC Paralympic_JJ Committee_NP approval_NN ,_, typically_RB just_RB a_DT formality_NN ,_, on_IN Monday_NP was_VBD already_RB determined_VVN ._SENT 
+Summer_NP Britcher_NP ,_, Emily_NP Sweeney_NP and_CC Ashley_NP Farquharson_NP will_NN race_NN in_IN women_NNS 's_POS singles_NNS ,_, Zack_NP Di_NP Gregorio_NP and_CC Sean_NP Hollander_NP will_MD make_VV their_PP$ Olympic_JJ debuts_NNS in_IN doubles_VVZ ,_, and_CC they_PP 'll_MD be_VB joined_VVN by_IN the_DT men_NNS 's_POS trio_NN ._SENT 
+"_`` This_DT is_VBZ my_PP$ third_JJ time_NN going_VVG through_IN an_DT Olympic_NP trials_NNS process_NN and_CC I_PP was_VBD blown_VVN away_RB by_IN just_RB the_DT support_NN and_CC character_NN that_IN everyone_NN showed_VVD across_IN the_DT board_NN on_IN this_DT team_NN --_: whether_IN they_PP made_VVD the_DT team_NN or_CC not_RB ,_, "_'' Britcher_NP said_VVD ._SENT 
+"_`` It_PP was_VBD such_JJ incredible_JJ sportsmanship_NN ._SENT 
+And_CC I_PP 'm_VBP heartbroken_JJ for_IN those_DT of_IN my_PP$ teammates_NNS that_WDT did_VVD n't_RB make_VV the_DT team_NN but_CC I_PP 'm_VBP just_RB really_RB excited_VVN to_TO see_VV how_WRB that_DT sportsmanship_NN and_CC teamwork_NN builds_VVZ into_IN the_DT next_JJ several_JJ years_NNS ._SENT 
+"_'' Terdiman_NP plans_VVZ to_TO retire_VV ;_: Mazdzer_NP is_VBZ leaning_VVG toward_IN retirement_NN after_IN this_DT season_NN ,_, though_RB has_VHZ not_RB made_VVN a_DT final_JJ decision_NN and_CC could_MD return_VV for_IN a_DT potential_JJ farewell_NN if_IN there_EX is_VBZ at_IN least_JJS one_CD race_NN in_IN North_NP America_NP in_IN the_DT coming_VVG seasons_NNS ._SENT 
+"_`` It_PP would_MD be_VB nice_JJ to_TO do_VV at_IN least_JJS one_CD race_NN back_RB in_IN North_NP America_NP ,_, "_'' Mazdzer_NP said_VVD ._SENT 

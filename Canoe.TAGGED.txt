@@ -1,0 +1,163 @@
+Germany_NP 's_POS Ronald_NP Rauhe_NP first_JJ man_NN to_TO medal_NN in_IN canoe_NN sprint_NN in_IN five_CD Olympic_NP Games_NPS TOKYO_NP --_: Ronald_NP Rauhe_NP of_IN Germany_NP set_VVD an_DT Olympic_JJ canoe_NN sprint_NN milestone_NN Saturday_NP ,_, and_CC Lisa_NP Carrington_NP of_IN New_NP Zealand_NP just_RB missed_VVD another_DT in_IN her_PP$ otherwise_RB splendid_JJ Tokyo_NP Games_NPS ._SENT 
+And_CC Serghei_NP Tarnovschi_NP of_IN Moldova_NP ,_, who_WP was_VBD stripped_VVN of_IN his_PP$ bronze_NN medal_NN in_IN 2016_CD because_IN of_IN a_DT positive_JJ doping_VVG test_NN ,_, benefitted_VVN from_IN the_DT year-long_JJ delay_NN caused_VVN by_IN the_DT coronavirus_NN pandemic_NN to_TO return_VV to_TO the_DT Olympics_NPS and_CC win_VV another_DT medal_NN ._SENT 
+His_PP$ four-year_JJ suspension_NN ended_VVN in_IN time_NN for_IN him_PP to_TO qualify_VV in_IN May_NP ._SENT 
+Rauhe_NP became_VVD the_DT first_JJ man_NN to_TO win_VV a_DT medal_NN in_IN the_DT sport_NN in_IN five_CD Olympics_NNS when_WRB Germany_NP won_VVD the_DT men_NNS 's_POS kayak_NN 500_CD meters_NNS ,_, the_DT final_JJ sprint_NN race_NN at_IN the_DT Sea_NP Forest_NP Waterway_NN ._SENT 
+Germany_NP edged_VVD Spain_NP by_IN 0.226_CD seconds_NNS ._SENT 
+And_CC at_IN age_NN 39_CD ,_, Rauhe_NP is_VBZ the_DT second-oldest_JJ man_NN to_TO win_VV a_DT canoe_NN sprint_NN gold_NN medal_NN ._SENT 
+Only_RB Gert_NP Fredriksson_NP of_IN Sweden_NP was_VBD older_JJR at_IN 40_CD in_IN 1960._CD Rauhe_NN had_VHD originally_RB planned_VVN to_TO retire_VV in_IN 2017_CD but_CC returned_VVD when_WRB the_DT Olympics_NPS dropped_VVD the_DT men_NNS 's_POS four_CD 1,000_CD and_CC replaced_VVD it_PP with_IN the_DT 500._CD Carrington_NP had_VHD already_RB blazed_VVN through_IN the_DT Tokyo_NP Games_NPS with_IN three_CD gold_JJ medals_NNS in_IN the_DT women_NNS 's_POS kayak_NN single_JJ 200_CD and_CC 500_CD ,_, and_CC the_DT double_JJ 500_CD ,_, to_TO raise_VV her_PP$ career_NN tally_NN to_TO five_CD ,_, with_IN six_CD medals_NNS overall_JJ ._SENT 
+But_CC her_PP$ quest_NN to_TO become_VV the_DT first_JJ paddler_NN to_TO win_VV four_CD canoe_NN sprint_NN gold_NN medals_VVZ in_IN one_CD Games_NPS ended_VVN in_IN the_DT kayak_NN four_CD 500_CD when_WRB the_DT Kiwis_NNS faded_VVN from_IN medal_NN position_NN over_IN the_DT second_JJ half_NN of_IN the_DT race_NN to_TO finish_VV fourth_JJ behind_IN Hungary_NP ,_, Belarus_NP and_CC Poland_NP ._SENT 
+Isaquias_NP Queiroz_NP dos_NP Santos_NP of_IN Brazil_NP won_VVD the_DT men_NNS 's_POS 1,000-meter_NN canoe_NN sprint_NN ahead_RB of_IN silver_NN medalist_NN Liu_NP Hao_NP of_IN China_NP ,_, the_DT 2019_CD world_NN champion_NN ._SENT 
+But_CC all_DT eyes_NNS were_VBD on_IN Tarnovschi_NP and_CC his_PP$ late_JJ burst_NN to_TO pass_VV Adrian_NP Bart_NP of_IN France_NP for_IN the_DT medal_NN ._SENT 
+Tarnovschi_NP returned_VVD to_TO the_DT medal_NN podium_NN five_CD years_NNS after_IN his_PP$ similar_JJ result_NN in_IN Rio_NP de_NP Janeiro_NP was_VBD stripped_VVN because_IN of_IN the_DT performance-enhancing_VVG drug_NN violation_NN ._SENT 
+He_PP had_VHD acknowledged_VVN earlier_RBR in_IN the_DT week_NN that_IN the_DT pandemic_JJ delay_NN worked_VVN in_IN his_PP$ favor_NN ._SENT 
+Mengya_NP Sun_NP and_CC Shixiao_NP Xu_NP of_IN China_NP won_VVD the_DT country_NN 's_POS first_JJ medal_NN in_IN women_NNS 's_POS canoe_NN sprint_NN by_IN winning_VVG the_DT gold_NN in_IN the_DT canoe_NN double_RB 500._CD The_DT 2019_CD world_NN champions_NNS finished_VVD 2_CD seconds_NNS clear_JJ of_IN Anastasiia_NNS Chetverikova_NP and_CC Liudmyla_NP Luzan_NP of_IN Ukraine_NP ._SENT 
+It_PP was_VBD the_DT second_JJ medal_NN for_IN Luzan_NP ,_, who_WP took_VVD bronze_NN in_IN the_DT single_JJ 200._CD Laurence_NP Vincent_NP Lapointe_NP and_CC Katie_NP Vincent_NP of_IN Canada_NP took_VVD the_DT bronze_NN medal_NN in_IN third_JJ ._SENT 
+Vincent_NP Lapointe_NP ,_, who_WP had_VHD a_DT 2019_CD provisional_JJ doping_VVG suspension_NN overturned_VVN on_IN appeal_NN in_IN 2020_CD ,_, also_RB won_VVD the_DT silver_JJ medal_NN in_IN the_DT 200._CD Nevin_NP Harrison_NP makes_VVZ history_NN with_IN women_NNS 's_POS canoe_NN 200_CD triumph_NN at_IN Summer_NP Olympics_NPS TOKYO_NP --_: Nevin_NP Harrison_NP saved_VVD her_PP$ tears_NNS for_IN the_DT finish_NN line_NN ,_, where_WRB they_PP came_VVD pouring_VVG out_RP over_IN a_DT golden_JJ smile_NN ._SENT 
+The_DT American_NP teenager_NN made_VVD women_NNS 's_POS Olympic_JJ history_NN on_IN Thursday_NP when_WRB she_PP surged_VVD over_IN the_DT back_JJ half_NN of_IN the_DT first_JJ canoe_NN 200_CD sprint_NN final_JJ to_TO overtake_VV Laurence_NP Vincent_NP Lapointe_NP of_IN Canada_NP for_IN the_DT gold_JJ medal_NN ._SENT 
+The_DT Olympics_NPS added_VVD the_DT event_NN at_IN the_DT Tokyo_NP Games_NPS as_IN part_NN of_IN a_DT push_NN for_IN gender_NN equity_NN ._SENT 
+"_`` It_PP 's_VBZ exciting_JJ to_TO be_VB part_NN of_IN history_NN ,_, to_TO see_VV how_WRB awesome_JJ we_PP all_DT were_VBD ,_, "_'' Harrison_NP said_VVD ._SENT 
+"_`` I_PP knew_VVD it_PP was_VBD going_VVG to_TO be_VB the_DT hardest_JJS race_NN of_IN my_PP$ life_NN ._SENT 
+It_PP 's_VBZ the_DT Olympics_NPS ,_, and_CC that_DT 's_VBZ what_WP it_PP 's_VBZ all_RB about_RB ._SENT 
+"_'' The_DT 19-year-old_JJ from_IN Seattle_NP ,_, who_WP will_MD soon_RB start_VV college_NN at_IN San_NP Diego_NP State_NP ,_, is_VBZ the_DT first_JJ American_JJ woman_NN to_TO win_VV a_DT canoe_NN sprint_NN gold_NN medal_NN and_CC the_DT first_JJ to_TO win_VV any_DT kind_NN of_IN canoe_NN medal_NN since_IN 1964._CD Harrison_NP burst_NN into_IN tears_NNS after_IN the_DT finish_NN and_CC held_VVD her_PP$ hand_NN to_TO her_PP$ mouth_NN before_IN paddling_VVG to_TO the_DT dock_NN ._SENT 
+She_PP fought_VVD back_RB tears_NNS again_RB during_IN the_DT medal_NN ceremony_NN ,_, then_RB cradled_VVD the_DT gold_NN next_JJ to_TO her_PP$ cheek_NN ._SENT 
+She_PP had_VHD been_VBN known_VVN to_TO cry_VV before_IN races_NNS earlier_RBR in_IN her_PP$ career_NN as_IN part_NN of_IN a_DT pressure_NN release_NN method_NN ._SENT 
+That_DT did_VVD n't_RB happen_VV this_DT time_NN ,_, and_CC she_PP had_VHD all_PDT the_DT energy_NN and_CC composure_NN needed_VVN to_TO rally_VV from_IN Vincent_NP Lapointe_NP 's_POS early_JJ lead_NN ._SENT 
+Harrison_NP not_RB only_RB won_VVN ,_, she_PP beat_VVP one_PP of_IN greatest_JJS canoe_NN paddlers_NNS in_IN history_NN ._SENT 
+Vincent_NP Lapointe_NP had_VHD been_VBN the_DT standard-bearer_NN in_IN the_DT event_NN with_IN six_CD world_NN championships_NNS since_IN 2010_CD ,_, and_CC she_PP had_VHD lobbied_VVN hard_RB to_TO get_VV the_DT race_NN into_IN the_DT Olympics_NPS ._SENT 
+The_DT Tokyo_NP Games_NPS was_VBD the_DT first_JJ time_NN the_DT two_CD best_JJS paddlers_NNS in_IN the_DT world_NN had_VHD met_VVN on_IN the_DT water_NN ._SENT 
+They_PP raced_VVD practically_RB side-by-side_NN ._SENT 
+Vincent_NP Lapointe_NP was_VBD in_IN Lane_NP 2_CD and_CC Harrison_NP in_IN Lane_NP 4._CD Harrison_NP paddles_NNS on_IN the_DT right_JJ side_NN of_IN her_PP$ canoe_NN ._SENT 
+Vincent_NP Lapointe_NP favors_VVZ the_DT left_NN ._SENT 
+And_CC quickly_RB in_IN front_NN ,_, they_PP could_MD see_VV each_DT other_JJ the_DT entire_JJ race_NN ._SENT 
+"_'' I_PP grew_VVD up_RP watching_VVG her_PP and_CC hoping_VVG to_TO one_CD day_NN be_VB at_IN that_DT level_NN ,_, "_'' Harrison_NP said_VVD ._SENT 
+"_`` They_PP say_VVP your_PP$ idols_NNS eventually_RB become_VVP your_PP$ rivals_NNS ._SENT 
+"_'' Harrison_NP won_VVD the_DT 2019_CD world_NN championship_NN at_IN age_NN 17_CD when_WRB Vincent_NP Lapointe_NP was_VBD serving_VVG a_DT provisional_JJ doping_VVG suspension_NN that_WDT was_VBD later_RBR overturned_VVN ._SENT 
+After_IN the_DT layoff_NN from_IN international_JJ competition_NN ,_, Vincent_NP Lapointe_NP surprisingly_RB did_VVD n't_RB qualify_VV for_IN the_DT canoe_NN 200_CD at_IN the_DT Olympic_JJ trials_NNS ._SENT 
+Canada_NP put_VVD her_PP on_IN the_DT team_NN anyway_RB and_CC entered_VVD her_PP in_IN a_DT kayak_NN event_NN she_PP does_VVZ n't_RB race_NN ._SENT 
+She_PP then_RB switched_VVD to_TO her_PP$ specialty_NN race_NN ._SENT 
+The_DT Canadian_NP 's_POS quick_JJ start_NN suggested_VVD a_DT strategy_NN to_TO break_VV the_DT young_JJ American_JJ early_JJ ._SENT 
+Harrison_NP stayed_VVD patient_NN ,_, and_CC her_PP$ sheer_JJ power_NN and_CC steady_JJ but_CC furious_JJ stroke_NN rallied_VVD her_PP to_TO the_DT lead_NN by_IN the_DT halfway_JJ point_NN ._SENT 
+Harrison_NP was_VBD too_RB strong_JJ to_TO catch_VV and_CC won_VVD by_IN half_PDT a_DT canoe_NN length_NN ._SENT 
+Liudmyla_NP Luzan_NP of_IN Ukraine_NP finished_VVD third_JJ for_IN bronze_NN ._SENT 
+"_`` I_PP 'm_VBP so_RB relieved_VVN ._SENT 
+It_PP hit_VVD me_PP on_IN the_DT podium_NN that_IN I_PP 've_VHP done_VVN it_PP ,_, "_'' Vincent_NP Lapointe_NP said_VVD ._SENT 
+"_`` I_PP might_MD not_RB have_VH won_VVN a_DT gold_NN ,_, but_CC this_DT silver_NN tastes_VVZ amazing_JJ ._SENT 
+"_'' Vincent_NP Lapointe_NP could_MD still_RB win_VV a_DT gold_JJ medal_NN ._SENT 
+She_PP is_VBZ scheduled_VVN to_TO race_NN the_DT canoe_NN double_RB 500_CD ,_, where_WRB she_PP and_CC teammate_NN Katie_NP Vincent_NP are_VBP favorites_NNS to_TO win_VV ._SENT 
+Lisa_NP Carrington_NP of_IN New_NP Zealand_NP took_VVD her_PP$ third_JJ gold_NN medal_NN in_IN three_CD days_NNS ,_, winning_VVG the_DT women_NNS 's_POS kayak_NN 500_CD with_IN another_DT dominant_JJ start-to-finish_JJ victory_NN ._SENT 
+Carrington_NP won_VVD the_DT 200_CD and_CC double_JJ 500_CD earlier_RBR this_DT week_NN and_CC is_VBZ still_RB scheduled_VVN to_TO race_NN the_DT 500_CD fours_NNS ._SENT 
+"_`` When_WRB you_PP set_VVD out_RP to_TO do_VV something_NN ,_, it_PP is_VBZ such_PDT a_DT huge_JJ task_NN ._SENT 
+It_PP is_VBZ super_JJ scary_JJ to_TO think_VV it_PP is_VBZ possible_JJ ,_, "_'' Carrington_NP said_VVD ._SENT 
+"_`` It_PP is_VBZ just_RB amazing_JJ to_TO be_VB able_JJ to_TO pull_VV it_PP off_RP ._SENT 
+"_'' Sandor_NP Totka_NP of_IN Hungary_NP won_VVD the_DT gold_JJ medal_NN in_IN the_DT final_JJ men_NNS 's_POS Olympic_JJ kayak_NN 200_CD ,_, becoming_VVG the_DT first_JJ non-British_JJ paddler_NN to_TO win_VV the_DT event_NN since_IN it_PP started_VVD in_IN 2012._CD Manfredi_NP Rizza_NP of_IN Italy_NP took_VVD silver_NN ,_, and_CC defending_VVG Olympic_JJ champion_NN Liam_NP Heath_NP of_IN Britain_NP won_VVD bronze_NN ._SENT 
+Only_RB 0.045_CD seconds_NNS separated_JJ gold_NN from_IN silver_NN ._SENT 
+The_DT men_NNS 's_POS kayak_NN 200_CD will_MD not_RB be_VB included_VVN in_IN the_DT Paris_NP Games_NPS in_IN 2024._CD "_`` It_PP will_MD be_VB missed_VVN ,_, but_CC it_PP has_VHZ been_VBN incredible_JJ to_TO be_VB part_NN of_IN its_PP$ journey_NN ,_, "_'' Heath_NP said_VVD ._SENT 
+Thomas_NP Green_NP and_CC Jean_NP van_NP der_NP Westhuyzen_NP of_IN Australia_NP won_VVD the_DT men_NNS 's_POS kayak_NN double_RB 1,000_CD meters_NNS at_IN the_DT Sea_NP Forest_NP Waterway_NN with_IN a_DT finishing_JJ kick_NN over_IN the_DT final_JJ 200._CD Mox_NP Hoff_NP and_CC Jacob_NP Schopf_NP of_IN Germany_NP were_VBD 0.304_CD seconds_NNS behind_RB to_TO take_VV silver_NN ._SENT 
+Rodek_NP Slouf_NP and_CC Josef_NP Dostal_NP of_IN the_DT Czech_NP Republic_NP won_VVD bronze_NN ._SENT 
+New_NP Zealand_NP 's_POS Lisa_NP Carrington_NP wins_VVZ Olympic_JJ gold_NN in_IN women_NNS 's_POS kayak_NN double_JJ 500_CD and_CC single_JJ kayak_NN 200_CD TOKYO_NP --_: Lisa_NP Carrington_NP stood_VVD on_IN a_DT windy_JJ podium_NN to_TO accept_VV her_PP$ latest_JJS Olympic_JJ gold_NN medal_NN for_IN a_DT kayak_NN sprint_NN race_NN she_PP has_VHZ dominated_VVN for_IN more_JJR than_IN a_DT decade_NN ._SENT 
+But_CC any_DT celebrations_NNS would_MD have_VH to_TO wait_VV ._SENT 
+The_DT New_NP Zealander_NN still_RB had_VHD another_DT one_CD to_TO win_VV about_IN an_DT hour_NN later_RBR ._SENT 
+Carrington_NP opened_VVD her_PP$ medal_NN march_NN at_IN the_DT Tokyo_NP Games_NPS with_IN a_DT pair_NN of_IN victories_NNS Tuesday_NP ,_, first_JJ in_IN the_DT single_JJ 200_CD and_CC then_RB the_DT double_JJ 500_CD with_IN teammate_NN Caitlin_NP Regal_NP ,_, on_IN the_DT opening_NN day_NN of_IN kayak_NN and_CC canoe_NN sprint_NN medal_NN events_NNS ._SENT 
+Carrington_NP came_VVD to_TO Tokyo_NP as_IN a_DT medal_NN favorite_NN in_IN four_CD events_NNS ,_, and_CC the_DT 32-year-old_JJ Kiwi_NN made_VVD the_DT first_JJ two_CD look_VVP even_RB easier_JJR than_IN expected_VVN ._SENT 
+She_PP got_VVD to_TO open_VV with_IN the_DT 200_CD ,_, an_DT event_NN she_PP has_VHZ owned_VVN at_IN the_DT Olympics_NPS and_CC the_DT world_NN championships_NNS since_IN 2012_CD ,_, and_CC made_VVD a_DT breeze_NN of_IN what_WP could_MD have_VH been_VBN a_DT physically_RB and_CC mentally_RB punishing_VVG day_NN in_IN the_DT heat_NN ,_, wind_NN and_CC choppy_JJ waves_NNS ._SENT 
+Carrington_NP had_VHD to_TO race_NN four_CD times_NNS Tuesday_NP in_IN the_DT semifinals_NNS and_CC finals_NNS of_IN both_DT events_NNS ._SENT 
+"_`` It_PP was_VBD about_RB the_DT psychology_NN ,_, the_DT mental_JJ approach_NN ._SENT 
+To_TO do_VV those_DT four_CD races_NNS today_NN ,_, it_PP was_VBD a_DT big_JJ ask_VV ,_, '_'' '_'' Carrington_NP said_VVD ._SENT 
+Her_PP$ third_JJ consecutive_JJ Olympic_JJ gold_NN medal_NN in_IN the_DT 200_CD began_VVD with_IN a_DT bolt_NN out_RP of_IN the_DT start_NN ._SENT 
+She_PP built_VVD a_DT lead_NN of_IN half_PDT a_DT boat_NN length_NN barely_RB 50_CD meters_NNS into_IN the_DT race_NN and_CC cruised_VVD from_IN there_EX to_TO beat_VV Teresa_NP Portela_NP of_IN Spain_NP by_IN 0.76_CD seconds_NNS ._SENT 
+Portela_NP 's_POS silver_JJ medal_NN at_IN the_DT age_NN of_IN 39_CD was_VBD her_PP$ first_JJ medal_NN in_IN six_CD Olympics_NNS ._SENT 
+"_`` She_PP is_VBZ one_CD of_IN the_DT greatest_JJS ._SENT 
+She_PP showed_VVD us_PP this_DT today_NN ,_, '_'' '_'' bronze_NN medalist_NN of_IN Emma_NP Aastrand_NP Jorgensen_NP said_VVD of_IN Carrington_NP ._SENT 
+"_`` I_PP hope_VVP she_PP will_MD retire_VV soon_RB so_RB we_PP can_MD be_VB there_RB as_RB well_RB ,_, but_CC I_PP will_MD keep_VV fighting_VVG ._SENT 
+'_'' '_'' Carrington_NP and_CC Regal_NP were_VBD just_RB as_RB dominant_JJ in_IN the_DT 500_CD ,_, the_DT last_JJ race_NN of_IN the_DT day_NN ,_, and_CC beat_VV the_DT silver-medal_JJ boat_NN of_IN Poland_NP by_IN nearly_RB a_DT full_JJ second_NN ._SENT 
+Carrington_NP is_VBZ scheduled_VVN race_NN the_DT 500_CD single_JJ and_CC fours_NNS later_RBR this_DT week_NN ._SENT 
+New_NP Zealand_NP has_VHZ been_VBN a_DT power_NN on_IN the_DT waters_NNS of_IN the_DT Sea_NP Forest_NP Waterway_NN since_IN the_DT Olympics_NPS began_VVD ._SENT 
+The_DT Kiwis_NNS won_VVD five_CD rowing_NN medals_NNS --_: three_CD gold_NN --_: last_JJ week_NN ._SENT 
+"_`` It_PP really_RB made_VVD us_PP excited_JJ to_TO come_VV here_RB and_CC do_VV this_DT water_NN justice_NN as_IN well_RB ,_, '_'' '_'' Regal_NP said_VVD ._SENT 
+"_`` It_PP 's_VBZ pretty_RB special_JJ ._SENT 
+"_'' Cuba_NP 's_POS win_NN in_IN the_DT men_NNS 's_POS canoe_NN double_JJ 1,000_CD was_VBD the_DT upset_NN of_IN the_DT day_NN ._SENT 
+Germany_NP had_VHD won_VVN the_DT event_NN at_IN five_CD of_IN the_DT previous_JJ seven_CD Olympics_NNS ,_, and_CC Sebastian_NP Brendel_NP had_VHD been_VBN in_IN the_DT German_JJ boat_NN for_IN gold_JJ medals_NNS in_IN 2012_CD and_CC 2016._CD The_DT race_NN developed_VVN into_IN a_DT battle_NN between_IN Cuba_NP and_CC China_NP over_IN the_DT final_JJ 500_CD meters_NNS ._SENT 
+Cuban_JJ teammates_NNS Serguey_NP Torres_NP Madrigal_NP and_CC Fernando_NP Dayan_NP Jorge_NP Enriquez_NP edged_VVD across_IN the_DT line_NN to_TO win_VV by_IN 0.2_CD seconds_NNS ._SENT 
+"_'' This_DT moment_NN ,_, time_NN stopped_VVD ,_, time_NN went_VVD so_RB slow_VV ,_, "_'' Torres_NP Madrigal_NP said_VVD ._SENT 
+"_`` The_DT pain_NN is_VBZ in_IN the_DT body_NN ,_, but_CC I_PP tried_VVD to_TO keep_VV my_PP$ mind_NN clear_JJ to_TO the_DT finish_NN ._SENT 
+'_'' '_'' The_DT Cuban_JJ duo_NN had_VHD won_VVN silver_NN at_IN the_DT world_NN championships_NNS in_IN 2019_CD ,_, but_CC the_DT country_NN had_VHD n't_RB earned_VVN a_DT medal_NN in_IN this_DT event_NN at_IN the_DT Olympics_NPS since_IN 2000._CD Germany_NP won_VVD bronze_NN to_TO earn_VV a_DT medal_NN in_IN the_DT event_NN for_IN the_DT eighth_JJ consecutive_JJ Olympics_NNS ._SENT 
+"_'' Conditions_NNS here_RB were_VBD extreme_JJ ._SENT 
+Really_RB windy_JJ ,_, really_RB hot_JJ ,_, '_'' '_'' Brendel_NP said_VVD ._SENT 
+''Unfortunately_RB not_RB a_DT gold_NN ,_, but_CC we_PP 're_VBP happy_JJ with_IN this_DT bronze_NN ._SENT 
+"_'' Hungary_NP finished_VVD 1-2_CD in_IN the_DT men_NNS 's_POS kayak_NN 1,000_CD as_IN Balint_NP Kopasz_NP dominated_VVD the_DT final_JJ 250_CD meters_NNS to_TO pull_VV away_RP for_IN the_DT gold_JJ medal_NN ._SENT 
+Adam_NP Varga_NP finished_VVD second_JJ ._SENT 
+Kopasz_NP came_VVD in_IN as_IN the_DT reigning_VVG world_NN champion_NN and_CC was_VBD locked_VVN in_IN a_DT tough_JJ battle_NN with_IN Fernando_NP Pimenta_NP of_IN Portugal_NP over_IN the_DT first_JJ 750_CD meters_NNS before_IN his_PP$ final_JJ push_NN to_TO the_DT win_NN ._SENT 
+Varga_NP edged_VVD Pimenta_NP by_IN 0.047_CD seconds_NNS at_IN the_DT finish_NN for_IN the_DT silver_JJ medal_NN ._SENT 
+Australia_NP 's_POS Jessica_NP Fox_NP wins_VVZ first_JJ women_NNS 's_POS canoe_NN slalom_NN gold_NN at_IN Tokyo_NP Olympics_NPS TOKYO_NP --_: Australia_NP 's_POS Jessica_NP Fox_NP made_VVD Olympic_JJ history_NN on_IN Thursday_NP as_IN the_DT first_JJ gold_NN medalist_NN in_IN women_NNS 's_POS canoe_NN slalom_NN at_IN the_DT Tokyo_NP Games_NPS ._SENT 
+Fox_NP made_VVD the_DT last_JJ run_NN of_IN the_DT final_JJ and_CC crushed_VVN it_PP ,_, beating_VVG rival_JJ and_CC silver_JJ medalist_NN Mallory_NP Franklin_NP of_IN Britain_NP with_IN a_DT winning_JJ run_NN of_IN 105.04_CD seconds_NNS through_IN the_DT rapids_NN of_IN the_DT Kasai_NP Canoe_NN Slalom_NN Center_NP ._SENT 
+And_CC it_PP was_VBD a_DT clean_JJ run_NN without_IN the_DT mistakes_NNS and_CC penalty_NN seconds_NNS that_WDT prevented_VVD her_PP from_IN winning_VVG gold_NN in_IN the_DT kayak_NN slalom_NN two_CD days_NNS earlier_RBR when_WRB she_PP won_VVD bronze_NN ._SENT 
+Fox_NP and_CC Franklin_NP came_VVD to_TO the_DT Olympics_NPS ranked_VVD 1-2_CD in_IN the_DT world_NN ._SENT 
+Franklin_NP went_VVD fifth_JJ in_IN the_DT final_JJ ._SENT 
+She_PP hit_VVD one_CD gate_NN on_IN her_PP$ run_NN for_IN a_DT 2-second_JJ penalty_NN but_CC her_PP$ time_NN of_IN 108.68_CD held_JJ top_JJ position_NN until_IN Fox_NP took_VVD the_DT gold_NN ._SENT 
+The_DT women_NNS 's_POS canoe_NN slalom_NN is_VBZ one_CD of_IN 18_CD new_JJ events_NNS introduced_VVN to_TO the_DT Olympics_NPS this_DT year_NN in_IN a_DT push_NN for_IN gender_NN equity_NN ._SENT 
+It_PP replaced_VVD the_DT men_NNS 's_POS double_JJ canoe_NN slalom_NN ._SENT 
+Andrea_NP Herzog_NP of_IN Germany_NP won_VVD the_DT bronze_NN medal_NN ._SENT 
+Aussie_NP Fox_NP makes_VVZ history_NN winning_VVG C1_JJ gold_NN After_IN winning_VVG three_CD Olympic_JJ medals_NNS and_CC none_NN of_IN them_PP gold_NN ,_, so_RB much_RB was_VBD riding_VVG on_IN the_DT C1_NN for_IN Australia_NP 's_POS canoe_NN slalom_NN star_NN Jessica_NP Fox_NP ._SENT 
+A_DT four-time_JJ world_NN champion_NN in_IN the_DT C1_JJ ,_, her_PP favoured_VVD event_NN was_VBD included_VVN in_IN the_DT Olympic_JJ program_NN for_IN the_DT first_JJ time_NN ,_, giving_VVG Fox_NP the_DT chance_NN to_TO make_VV Games_NPS history_NN ._SENT 
+Having_VHG started_VVN the_DT K1_NN as_IN a_DT huge_JJ favourite_NN and_CC crossed_VVN for_IN bronze_NN due_JJ to_TO a_DT late_JJ error_NN on_IN course_NN ,_, it_PP was_VBD feared_VVN Fox_NP may_MD struggle_VV to_TO come_VV back_RB from_IN another_DT stumble_NN ._SENT 
+Her_PP$ father_NN Richard_NP Fox_NP ,_, in_IN television_NN commentary_NN ,_, spoke_VVD of_IN how_WRB "_`` shattered_JJ "_'' she_PP was_VBD by_IN the_DT K1_JJ result_NN ._SENT 
+But_CC this_DT time_NN three-time_JJ Olympian_NN Fox_NP would_MD n't_RB be_VB denied_VVN ,_, finishing_VVG 3.64_CD seconds_NNS clear_JJ of_IN Britain_NP 's_POS Mallory_NP Franklin_NP with_IN Germany_NP 's_POS reigning_VVG world_NN champion_NN Andrea_NP Herzog_NP taking_VVG bronze_NN ._SENT 
+A_DT beaming_JJ Fox_NP splashed_VVD the_DT water_NN in_IN delight_NN before_IN paddling_VVG to_TO embrace_VV her_PP$ mother_NN and_CC coach_NN Myriam_NP Fox-Jerusalmi_NP ,_, who_WP won_VVD bronze_NN in_IN the_DT K1_JJ event_NN in_IN Atlanta_NP ,_, and_CC her_PP$ sister_JJ Noemie_NP ._SENT 
+Fox_NP said_VVD she_PP was_VBD thrilled_VVN to_TO achieve_VV her_PP$ dream_NN after_IN the_DT crushing_VVG disappointment_NN in_IN the_DT K1_NN ._SENT 
+"_'' To_TO come_VV back_NN after_IN that_WDT was_VBD extremely_RB hard_JJ ,_, it_PP was_VBD emotionally_RB and_CC mentally_RB taxing_VVG ._SENT 
+I_PP 'm_VBP so_RB proud_JJ I_PP was_VBD able_JJ to_TO pull_VV that_IN run_VVN out_RP ,_, "_'' Fox_NP told_VVD AAP_NP ._SENT 
+"_`` I_PP was_VBD dreaming_VVG of_IN it_PP ._SENT 
+I_PP really_RB believed_VVD it_PP was_VBD all_RB within_IN me_PP ,_, that_IN I_PP could_MD do_VV it_PP ._SENT 
+"_`` You_PP never_RB know_VVP what_WP 's_VBZ going_VVG to_TO happen_VV in_IN the_DT Olympics_NPS and_CC it_PP 's_VBZ about_RB holding_VVG your_PP$ nerve_NN ._SENT 
+I_PP probably_RB did_VVD n't_RB do_VV that_IN in_IN the_DT kayak_NN ._SENT 
+"_'' She_PP revealed_VVD that_IN despite_IN her_PP$ calm_JJ demeanour_NN on_IN course_NN ,_, matching_VVG that_IN of_IN father_NN Richard_NP as_IN he_PP calmly_RB described_VVD her_PP$ charge_NN to_TO victory_NN ,_, she_PP vomited_VVD before_IN the_DT race_NN through_IN nerves_NNS ._SENT 
+"_`` I_PP 've_VHP probably_RB never_RB been_VBN as_RB nervous_JJ -_: 20_CD minutes_NNS before_IN my_PP$ race_NN ,_, even_RB though_IN I_PP felt_VVD really_RB good_JJ and_CC calm_VV I_PP had_VHD a_DT lolly_NN and_CC instantly_RB I_PP threw_VVD up_RP and_CC that_DT 's_VBZ never_RB happened_VVN to_TO me_PP before_IN ,_, "_'' she_PP said_VVD ._SENT 
+"_`` I_PP think_VVP it_PP showed_VVD how_WRB full_JJ on_IN it_PP was_VBD ,_, but_CC I_PP 'm_VBP so_RB proud_JJ that_IN I_PP was_VBD able_JJ to_TO do_VV the_DT run_NN I_PP wanted_VVD to_TO ._SENT 
+"_'' Fox_NP and_CC her_PP$ paddling_VVG family_NN had_VHD long_RB advocated_VVN for_IN the_DT race_NN 's_POS inclusion_NN on_IN the_DT Tokyo_NP program_NN ,_, giving_VVG the_DT sport_NN gender_NN parity_NN ._SENT 
+She_PP was_VBD one_CD of_IN just_RB eight_CD paddlers_NNS to_TO do_VV the_DT C1-K1_NN double_RB ,_, with_IN only_RB one_CD other_JJ qualifying_VVG for_IN the_DT final_JJ ._SENT 
+Fox_NP said_VVD making_VVG history_NN as_IN the_DT first_JJ Olympic_JJ gold_NN medallist_NN in_IN the_DT event_NN was_VBD very_RB special_JJ to_TO her_PP ._SENT 
+"_`` I_PP 'm_VBP so_RB proud_JJ to_TO be_VB in_IN women_NNS 's_POS C1_JJ category_NN and_CC of_IN all_PDT the_DT women_NNS who_WP have_VHP raced_VVN here_RB and_CC been_VBN part_NN of_IN this_DT moment_NN ,_, "_'' the_DT Sydneysider_NN said_VVD ._SENT 
+"_`` I_PP 'm_VBP grateful_JJ to_TO everyone_NN who_WP lobbied_VVD for_IN gender_NN equality_NN and_CC to_TO have_VH us_PP here_RB in_IN this_DT moment_NN ._SENT 
+"_`` I_PP was_VBD in_IN the_DT warm-up_NN pool_NN when_WRB I_PP heard_VVD the_DT times_NNS the_DT girls_NNS were_VBD putting_VVG down_RP and_CC I_PP thought_VVD this_DT is_VBZ what_WP I_PP wanted_VVD ._SENT 
+"_`` I_PP wanted_VVD a_DT great_JJ final_JJ ,_, hot_JJ racing_NN ,_, and_CC for_IN me_PP it_PP was_VBD rising_VVG to_TO that_DT challenge_NN ._SENT 
+It_PP has_VHZ made_VVN the_DT victory_NN even_RB sweeter_JJR ._SENT 
+"_'' Heartbreak_NN for_IN Fox_NP ,_, misses_VVZ K1_JJ canoe_NN Olympic_NP gold_NN Jessica_NP Fox_NP is_VBZ taking_VVG solace_NN in_IN being_VBG on_IN the_DT Olympic_JJ podium_NN for_IN a_DT third_JJ time_NN after_IN seeing_VVG her_PP$ K1_JJ canoe_NN slalom_NN gold_NN medal_NN swept_VVD away_RB by_IN a_DT time_NN penalty_NN ._SENT 
+The_DT dejected_JJ Australian_JJ star_NN sat_VVD with_IN her_PP$ head_NN in_IN her_PP$ hands_NNS after_IN crossing_VVG the_DT finish_NN line_NN at_IN Tokyo_NP 's_POS Kasai_NP Canoe_NN Slalom_NN course_NN ,_, realising_VVG that_IN gold_NN had_VHD yet_RB again_RB escaped_VVD her_PP ._SENT 
+The_DT bronze_NN is_VBZ her_PP$ second_NN after_IN the_DT same_JJ result_NN in_IN Rio_NP ,_, while_IN she_PP won_VVD silver_NN as_IN an_DT 18-year-old_JJ in_IN London_NP ._SENT 
+Without_IN the_DT penalty_NN ,_, she_PP would_MD have_VH won_VVN by_IN 0.77_CD seconds_NNS ._SENT 
+The_DT 27-year-old_JJ started_VVD Tuesday_NP 's_POS final_JJ as_IN a_DT raging_VVG favourite_NN ,_, with_IN no_DT paddler_NN getting_VVG close_JJ to_TO her_PP in_IN the_DT qualification_NN round_NN and_CC semi-final_NN ._SENT 
+But_CC she_PP came_VVD unstuck_VVN early_RB in_IN her_PP$ run_NN ,_, knocking_VVG the_DT fourth_JJ gate_NN and_CC then_RB crucially_RB had_VHD another_DT error_NN on_IN the_DT penultimate_JJ one_CD ,_, each_DT incurring_VVG two-second_JJ penalties_NNS ._SENT 
+Posting_VVG a_DT time_NN of_IN 102.73_CD seconds_NNS ,_, the_DT penalties_NNS pushed_VVD her_PP out_RP to_TO 106.73_CD ._SENT 
+German_NP Ricarda_NP Funk_NP ,_, meanwhile_RB posted_VVD a_DT penalty-free_JJ run_NN of_IN 105.50_CD to_TO take_VV gold_NN ,_, with_IN Rio_NP Olympic_NP champion_NN ,_, Spaniard_NN Maialen_NP Chourraut_NP crossing_VVG with_IN a_DT blemish-free_JJ 106.63_CD ._SENT 
+Fox_NP said_VVD she_PP was_VBD proud_JJ of_IN the_DT way_NN she_PP kept_VVD her_PP$ composure_NN after_IN her_PP$ early_JJ error_NN ._SENT 
+"_`` I_PP think_VVP I_PP hit_VVD gate_NN four_CD early_RB on_IN ..._: I_PP fought_VVD the_DT whole_JJ way_NN down_RB and_CC that_DT 's_VBZ something_NN I_PP 'm_VBP really_RB proud_JJ of_IN -_: the_DT fight_NN to_TO the_DT finish_NN ,_, "_'' Fox_NP told_VVD AAP_NP ._SENT 
+"_`` The_DT mistake_NN at_IN the_DT finish_NN was_VBD one_CD too_RB many_JJ unfortunately_RB and_CC took_VVD me_PP out_RP of_IN the_DT gold_JJ medal_NN spot_NN ._SENT 
+"_'' While_IN the_DT kayak_NN race_NN did_VVD n't_RB go_VV to_TO plan_NN ,_, Fox_NP was_VBD consoling_VVG herself_PP that_IN she_PP at_IN least_JJS did_VVD n't_RB finish_VV the_DT event_NN empty-handed_JJ ._SENT 
+"_`` There_EX 's_VBZ relief_NN to_TO be_VB on_IN the_DT podium_NN ,_, a_DT bit_NN of_IN disappointment_NN to_TO not_RB go_VV down_RP the_DT dream_NN run_NN ,_, "_'' the_DT Sydneysider_NN said_VVD ._SENT 
+"_`` At_IN the_DT same_JJ time_NN to_TO get_VV on_IN the_DT podium_NN with_IN a_DT mistake_NN near_IN the_DT finish_NN line_NN -_: I_PP 've_VHP been_VBN consistent_JJ at_IN the_DT last_JJ three_CD Olympics_NNS to_TO be_VB on_IN the_DT podium_NN ._SENT 
+"_'' Coached_VVN by_IN her_PP$ French_JJ mother_NN Myriam_NP Fox-Jerusalmi_NP ,_, who_WP won_VVD bronze_NN in_IN the_DT event_NN in_IN Atlanta_NP ,_, her_PP$ father_NN Richard_NP Fox_NP was_VBD a_DT top_JJ British_JJ paddler_NN and_CC finished_VVD fourth_JJ at_IN the_DT Barcelona_NP Games_NPS ._SENT 
+Working_VVG as_IN a_DT commentator_NN on_IN the_DT event_NN ,_, he_PP knew_VVD despite_IN the_DT fast_JJ time_NN the_DT damage_NN was_VBD done_VVN ._SENT 
+"_'' That_DT two-second_JJ time_NN ,_, that_WDT 's_VBZ the_DT gold_NN ,_, "_'' Fox_NP senior_JJ said_VVD of_IN the_DT last_JJ gate_NN ._SENT 
+"_`` I_PP 'm_VBP proud_JJ -_: she_PP was_VBD in_IN the_DT race_NN -_: she_PP made_VVD mistakes_NNS ,_, she_PP came_VVD back_RB and_CC was_VBD still_RB in_IN the_DT race_NN right_RB down_RB to_TO the_DT wire_NN and_CC comes_VVZ away_RB with_IN a_DT bronze_NN ,_, but_CC what_WP a_DT fight_NN ._SENT 
+"_'' At_IN the_DT past_JJ two_CD Games_NPS ,_, and_CC particularly_RB Rio_NP where_WRB she_PP was_VBD also_RB favourite_JJ ,_, Fox_NP had_VHD to_TO stew_NN on_IN her_PP$ result_NN until_IN the_DT next_JJ Olympics_NPS ._SENT 
+But_CC this_DT time_NN she_PP will_MD also_RB line_VV up_RP in_IN her_PP favoured_VVD C1_JJ with_IN the_DT women_NNS 's_POS event_NN introduced_VVD to_TO the_DT Olympic_JJ schedule_NN for_IN the_DT first_JJ time_NN ._SENT 
+A_DT four-time_JJ C1_JJ world_NN champion_NN ,_, Fox_NP fought_VVD to_TO get_VV the_DT canoe_NN race_NN included_VVD to_TO give_VV female_JJ paddler_NN 's_POS equality_NN at_IN the_DT Olympics_NPS ._SENT 
+"_`` It_PP is_VBZ exciting_JJ to_TO be_VB able_JJ to_TO race_NN in_IN C1_JJ -_: I_PP 'll_MD clean_VV my_PP$ mind_NN ,_, do_VVP my_PP$ race_NN analysis_NN for_IN C1_JJ and_CC come_VV back_RB fresh_JJ ._SENT 
+"_`` It_PP 's_VBZ not_RB so_RB much_JJ about_IN a_DT second_JJ chance_NN ,_, it_PP 's_VBZ stand-alone_JJ for_IN me_PP ._SENT 
+"_`` It_PP 's_VBZ a_DT historic_JJ moment_NN for_IN all_DT of_IN the_DT women_NNS and_CC it_PP 's_VBZ special_JJ to_TO be_VB a_DT part_NN of_IN it_PP ._SENT 
+"_'' Jessica_NP Fox_NP fires_NNS in_IN first_JJ Tokyo_NP race_NN Jessica_NP Fox_NP has_VHZ lived_VVN up_RP to_TO her_PP$ world_NN No.1_JJ ranking_NN ,_, dominating_VVG the_DT women_NNS 's_POS kayak_NN slalom_NN heats_VVZ to_TO lay_VV down_RP a_DT promising_JJ marker_NN at_IN the_DT Tokyo_NP Olympics_NPS ._SENT 
+There_EX was_VBD never_RB any_DT doubt_NN that_IN Fox_NP ,_, pursuing_VVG gold_NN after_IN winning_VVG silver_NN in_IN this_DT event_NN at_IN London_NP 2012_CD then_RB bronze_NN at_IN Rio_NP 2016_CD ,_, would_MD be_VB among_IN the_DT 24_CD paddlers_NNS progressing_VVG to_TO Tuesday_NP 's_POS K1_JJ semi-final_NN ._SENT 
+But_CC the_DT emphatic_JJ fashion_NN in_IN which_WDT the_DT Australian_NP topped_VVD Sunday_NP 's_POS qualification_NN ,_, with_IN a_DT time_NN of_IN 98.46_CD seconds_NNS ,_, will_MD only_RB enhance_VV her_PP$ status_NN as_IN gold-medal_NN favourite_NN ._SENT 
+Fox_NP trained_VVN in_IN her_PP$ backyard_NN pool_NN when_WRB COVID-19_NP first_RB halted_VVD normal_JJ life_NN then_RB was_VBD forced_VVN to_TO rejig_VV plans_NNS earlier_RBR this_DT year_NN ,_, when_WRB flooding_NN damaged_VVD the_DT Penrith_NP Whitewater_NP Stadium_NP ._SENT 
+Any_DT doubts_NNS about_IN the_DT impact_NN of_IN the_DT suboptimal_JJ preparation_NN for_IN these_DT Games_NPS were_VBD allayed_VVN in_IN Sunday_NP 's_POS opening_NN run_NN ,_, when_WRB she_PP banked_VVD a_DT time_NN of_IN 104.05_CD ._SENT 
+Fox_NP was_VBD third_JJ on_IN the_DT leaderboard_NN when_WRB she_PP returned_VVD to_TO the_DT course_NN for_IN her_PP$ second_JJ run_NN ,_, which_WDT marked_VVD Sunday_NP 's_POS final_JJ race_NN ._SENT 
+The_DT 27-year-old_JJ produced_VVN a_DT penalty-free_JJ run_NN that_WDT oozed_VVD composure_NN ,_, bettering_VVG closest_JJS rivals_NNS Ricarda_NP Funk_NP and_CC Luuka_NP Jones_NP by_IN 3.1_CD and_CC 3.26_CD respectively_RB on_IN the_DT final_JJ leaderboard_NN ._SENT 
+Meanwhile_RB ,_, Australian_JJ canoeist_NN Daniel_NP Watkins_NP recovered_VVD from_IN a_DT disastrous_JJ opening_NN run_VVN to_TO be_VB one_CD of_IN 15_CD competitors_NNS through_IN to_TO Monday_NP 's_POS semi-final_NN ._SENT 
+Watkins_NP '_POS second_JJ time_NN of_IN 103.07_CD was_VBD enough_RB for_IN him_PP to_TO finish_VV 10th_JJ overall_JJ ,_, 6.18_CD behind_IN Slovak_JJ pacesetter_NN Matej_NP Benus_NP ._SENT 
+The_DT Tasmanian_JJ incurred_VVN multiple_JJ penalties_NNS in_IN the_DT first_JJ C1_JJ heat_NN ,_, admitting_VVG his_PP$ resultant_JJ time_NN of_IN 158.43_CD was_VBD "_`` a_DT bit_NN of_IN a_DT shocker_NN "_'' ._SENT 
+"_`` I_PP was_VBD just_RB so_RB nervous_JJ ,_, "_'' Watkins_NP said_VVD ._SENT 
+"_`` First_JJ time_NN at_IN the_DT Games_NPS ._SENT 
+It_PP has_VHZ been_VBN so_RB long_JJ (_( since_IN competition_NN )_) ,_, you_PP know_VVP ?_SENT 
+Since_IN the_DT last_JJ two_CD world_NN champs_NNS we_PP have_VHP n't_RB really_RB been_VBN on_IN the_DT start_NN line_NN ._SENT 
+"_'' The_DT second_JJ round_NN I_PP felt_VVD so_RB settled_VVN ,_, it_PP was_VBD all_DT really_RB easy_JJ ._SENT 
+"_'' 

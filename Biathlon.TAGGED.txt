@@ -1,0 +1,187 @@
+Norway_NP 's_POS Johannes_NP Thingnes_NPS Boe_NP ,_, France_NP 's_POS Justine_NP Braisaz-Bouchet_NP win_VV Olympic_JJ gold_NN in_IN biathlon_NN mass_NN start_NN ZHANGJIAKOU_NP ,_, China_NP --_: The_DT penalty_NN loops_NNS piled_VVD up_RP as_IN the_DT wind_NN wreaked_VVD havoc_NN on_IN the_DT biathlon_NN course_NN ._SENT 
+The_DT two_CD that_WDT handled_VVD it_PP best_RBS --_: with_IN the_DT sharpest_JJS shooting_NN and_CC the_DT fastest_JJS skiing_NN --_: were_VBD rewarded_VVN with_IN Olympic_JJ gold_NN medals_NNS ._SENT 
+Johannes_NP Thingnes_NPS Boe_NP became_VVD only_RB the_DT second_JJ man_NN to_TO win_VV four_CD gold_JJ medals_NNS at_IN a_DT single_JJ Winter_NP Games_NPS ,_, joining_VVG Norwegian_JJ great_JJ Ole_NP Einar_NP Bjorndalen_NP ,_, by_IN finishing_VVG first_JJ in_IN the_DT mass_JJ start_NN race_NN on_IN Friday_NP ._SENT 
+Justine_NP Braisaz-Bouchet_NP of_IN France_NP won_VVD the_DT women_NNS 's_POS race_NN ,_, earning_VVG her_PP$ second_JJ Olympic_JJ medal_NN but_CC first_JJ of_IN the_DT Beijing_NP Games_NPS ._SENT 
+"_'' The_DT key_JJ moment_NN was_VBD my_PP$ second_RB prone_JJ when_WRB I_PP shot_VVD clean_JJ and_CC I_PP went_VVD out_RP in_IN front_NN ,_, "_'' said_VVD Boe_NP ,_, who_WP is_VBZ also_RB from_IN Norway_NP ._SENT 
+"_`` And_CC then_RB I_PP made_VVD the_DT gap_NN I_PP wanted_VVD and_CC from_IN there_EX I_PP never_RB looked_VVD back_RB ._SENT 
+"_'' Clean_JJ shooting_NN through_IN the_DT four_CD stops_NNS on_IN the_DT range_NN was_VBD the_DT key_NN in_IN both_DT races_NNS for_IN all_DT of_IN the_DT medalists_NNS ._SENT 
+Both_DT Boe_NP and_CC Braisaz-Bouchet_NP missed_VVD only_RB four_CD targets_NNS in_IN their_PP$ victories_NNS ,_, while_IN many_JJ others_NNS were_VBD forced_VVN to_TO take_VV five_CD ,_, seven_CD or_CC even_RB 10_CD penalty_NN loops_NNS in_IN the_DT cross-country_JJ skiing_NN part_NN of_IN the_DT event_NN ._SENT 
+"_`` It_PP was_VBD really_RB hard_JJ in_IN the_DT shooting_NN in_IN the_DT race_NN today_NN ,_, "_'' said_VVD Martin_NP Ponsiluoma_NP of_IN Sweden_NP ,_, who_WP only_RB missed_VVD two_CD targets_NNS and_CC ended_VVD up_RP with_IN silver_NN behind_IN Boe_NP ._SENT 
+"_`` My_PP$ shooting_NN was_VBD really_RB good_JJ today_NN and_CC my_PP$ skiing_NN was_VBD good_JJ ._SENT 
+I_PP just_RB had_VHD to_TO push_VV the_DT last_JJ loop_NN alone_RB and_CC I_PP was_VBD second_JJ ,_, so_RB I_PP 'm_VBP really_RB happy_JJ ._SENT 
+"_'' Boe_NP 's_POS gold_NN was_VBD his_PP$ fifth_JJ medal_NN of_IN the_DT Beijing_NP Games_NPS ._SENT 
+He_PP also_RB won_VVD gold_NN in_IN two_CD relays_NNS and_CC in_IN the_DT 10-kilometer_NN sprint_NN ._SENT 
+He_PP earned_VVD bronze_NN in_IN the_DT 20-kilometer_NN individual_NN ._SENT 
+Bjorndalen_NP won_VVD his_PP$ four_CD gold_JJ medals_NNS at_IN the_DT 2002_CD Salt_NP Lake_NP City_NP Games_NPS ._SENT 
+Boe_NP threw_VVD his_PP$ arms_NNS in_IN the_DT air_NN as_IN he_PP crossed_VVD the_DT line_NN in_IN 38_CD minutes_NNS ,_, 14.4_CD seconds_NNS ._SENT 
+Ponsiluoma_NP finished_VVD 40.3_CD seconds_NNS later_RBR and_CC Vetle_NP Sjaastad_NP Christiansen_NP of_IN Norway_NP took_VVD bronze_NN after_IN missing_VVG only_RB three_CD shots_NNS --_: none_NN in_IN the_DT last_JJ shooting_NN stop_NN ._SENT 
+French_JJ biathlete_NN Quentin_NP Fillon_NP Maillet_NP ,_, who_WP already_RB has_VHZ won_VVN five_CD medals_NNS at_IN the_DT Beijing_NP Games_NPS ,_, entered_VVD the_DT race_NN as_IN one_CD of_IN the_DT favorites_NNS but_CC his_PP$ five_CD missed_VVN shots_NNS -_: three_CD in_IN the_DT last_JJ standing_NN -_: set_VV him_PP back_RB ._SENT 
+He_PP finished_VVD fourth_JJ ._SENT 
+Braisaz-Bouchet_NP missed_VVD three_CD shots_NNS early_JJ in_IN the_DT women_NNS 's_POS race_NN but_CC only_RB one_CD more_JJR toward_IN the_DT end_NN ,_, allowing_VVG her_PP to_TO move_VV out_RP front_NN and_CC stay_VV out_RP front_NN ._SENT 
+She_PP ended_VVD up_RP winning_VVG gold_NN in_IN 40:18_CD ._SENT 
+"_`` I_PP was_VBD really_RB ,_, really_RB calm_JJ ,_, actually_RB ,_, on_IN the_DT second_JJ part_NN of_IN the_DT race_NN ,_, "_'' Braisaz-Bouchet_NP said_VVD ._SENT 
+"_`` I_PP said_VVD 'OK_NN ,_, I_PP have_VHP good_JJ feelings_NNS on_IN the_DT track_NN ,_, I_PP 'm_VBP leading_VVG the_DT race_NN ,_, the_DT mass_JJ start_NN ,_, and_CC just_RB focus_VV on_IN my_PP$ own_JJ race_NN ._SENT 
+'_'' I_PP just_RB took_VVD it_PP step_VV by_IN step_NN ,_, and_CC when_WRB I_PP arrived_VVD at_IN the_DT shooting_NN ,_, I_PP had_VHD my_PP$ mind_NN totally_RB free_JJ and_CC empty_JJ ._SENT 
+"_'' Tiril_NP Eckhoff_NP earned_VVD silver_NN and_CC Norwegian_JJ teammate_NN Marte_NP Olsbu_NP Roeiseland_NP took_VVD bronze_NN ._SENT 
+It_PP was_VBD Roeiseland_NP 's_POS fifth_JJ medal_NN in_IN Beijing_NP ,_, including_VVG three_CD golds_NNS ._SENT 
+Roeiseland_NP became_VVD the_DT second_JJ biathlete_NN ,_, male_JJ or_CC female_JJ ,_, to_TO win_VV a_DT medal_NN in_IN all_DT four_CD individual_JJ events_NNS at_IN an_DT Olympics_NPS ,_, joining_VVG Bjoerndalen_NP ._SENT 
+She_PP also_RB won_VVD gold_NN in_IN the_DT mixed_JJ relay_NN ._SENT 
+The_DT women_NNS 's_POS competition_NN was_VBD moved_VVN forward_RB from_IN Saturday_NP to_TO Friday_NP ,_, just_RB before_IN the_DT men_NNS 's_POS race_NN ,_, because_IN of_IN cold_JJ temperatures_NNS and_CC high_JJ winds_NNS in_IN the_DT forecast_NN ._SENT 
+It_PP was_VBD minus_IN 13_CD degrees_NNS C_NP (_( 8.6_CD degrees_NNS F_NN )_) at_IN the_DT range_NN Friday_NP for_IN both_DT races_NNS with_IN strong_JJ wind_NN sending_VVG the_DT flags_NNS flying_VVG sideways_RB ._SENT 
+The_DT brutal_JJ wind_NN and_CC cold_NN has_VHZ taken_VVN a_DT toll_NN on_IN the_DT athletes_NNS ._SENT 
+Most_RBS wore_VVD tape_NN on_IN their_PP$ faces_NNS to_TO protect_VV against_IN the_DT wind_NN and_CC many_RB had_VHD frost_NN crested_JJ around_IN their_PP$ mouths_NNS at_IN the_DT end_NN ._SENT 
+In_IN most_RBS longer_JJR races_NNS ,_, many_JJ elite_JJ athletes_NNS will_MD shoot_VV clean_VV while_IN others_NNS may_MD miss_VV one_CD or_CC two_CD ._SENT 
+But_CC in_IN Friday_NP 's_POS windy_JJ races_NNS ,_, no_RB one_CD cleaned_VVD all_DT four_CD bouts_NNS and_CC many_RB had_VHD six_CD to_TO eight_CD misses_VVZ ._SENT 
+Eckhoff_NP and_CC Roeiseland_NP missed_VVD two_CD targets_NNS each_DT in_IN their_PP$ last_JJ bout_NN and_CC left_VVD the_DT range_NN together_RB ,_, 48_CD seconds_NNS behind_IN Braisaz-Bouchet_NP ._SENT 
+Eckhoff_NP chased_VVD hard_RB and_CC crossed_VVD the_DT line_NN 15.3_CD seconds_NNS after_IN the_DT Frenchwoman_NN ._SENT 
+During_IN Eckhoff_NP 's_POS third_JJ shooting_NN ,_, wind_NN gusts_NNS hammered_VVN the_DT range_NN and_CC she_PP paused_VVD for_IN a_DT long_JJ time_NN before_IN taking_VVG her_PP$ first_JJ shot_NN ,_, fearing_VVG she_PP might_MD repeat_VV the_DT five_CD misses_VVZ she_PP had_VHD in_IN the_DT last_JJ race_NN ._SENT 
+"_`` I_PP was_VBD thinking_VVG ,_, 'It_NP 's_VBZ going_VVG to_TO happen_VV the_DT same_JJ as_IN the_DT relay_NN ._SENT 
+'_'' But_CC I_PP had_VHD a_DT good_JJ mindset_NN and_CC I_PP changed_VVD things_NNS up_RP ,_, "_'' she_PP said_VVD ._SENT 
+"_`` I_PP tried_VVD bending_VVG the_DT knees_NNS and_CC I_PP tried_VVD moving_VVG my_PP$ weight_NN onto_IN my_PP$ heels_NNS and_CC that_DT helped_VVD ._SENT 
+"_`` I_PP 'm_VBP so_RB happy_JJ to_TO just_RB have_VH two_CD mistakes_NNS on_IN that_DT shooting_NN ._SENT 
+It_PP could_MD easily_RB have_VH been_VBN five_CD as_IN well_RB ._SENT 
+"_'' Roeiseland_NP also_RB paused_VVD while_IN waiting_VVG to_TO adjust_VV to_TO the_DT conditions_NNS ._SENT 
+"_`` It_PP was_VBD so_RB much_JJ wind_NN ,_, "_'' Roeiseland_NP said_VVD ._SENT 
+"_`` Tiril_NP and_CC I_PP stand_VVP there_RB together_RB (_( waiting_VVG to_TO shoot_VV )_) ._SENT 
+I_PP heard_VVD she_PP was_VBD breathing_VVG and_CC I_PP was_VBD breathing_VVG and_CC we_PP were_VBD like_JJ ,_, 'OK_NP ,_, maybe_RB it_PP (_( the_DT wind_NN )_) will_MD be_VB a_DT bit_NN better_RBR soon_RB ._SENT 
+'_'' It_PP was_VBD still_RB blowing_VVG a_DT lot_NN and_CC I_PP did_VVD n't_RB know_VV what_WP to_TO do_VV so_IN I_PP tried_VVD to_TO shoot_VV and_CC I_PP had_VHD two_CD times_NNS the_DT loop_NN ,_, but_CC I_PP think_VVP that_WDT was_VBD OK_JJ today_NN ._SENT 
+"_'' Norway_NP wins_VVZ biathlon_NN gold_NN in_IN four-man_NP relay_NN at_IN Beijing_NP Olympics_NPS ;_: France_NP holds_VVZ on_IN for_IN silver_NN ,_, then_RB Russia_NP ZHANGJIAKOU_NP ,_, China_NP --_: Clean_NP shooting_NN cleared_VVD the_DT way_NN for_IN the_DT Boe_NP brothers_NNS to_TO win_VV another_DT Olympic_JJ gold_NN medal_NN for_IN Norway_NP in_IN biathlon_NN on_IN Tuesday_NP ._SENT 
+Vetle_NP Sjaastad_NP Christiansen_NP skied_VVD the_DT final_JJ leg_NN of_IN the_DT four-man_NP relay_NN and_CC hit_VVD all_DT five_CD targets_NNS at_IN the_DT last_JJ range_NN before_IN crossing_VVG first_JJ ._SENT 
+Russian_JJ biathlete_NN Eduard_NP Latypov_NP ,_, who_WP had_VHD been_VBN leading_VVG the_DT race_NN on_IN the_DT last_JJ leg_NN ,_, struggled_VVN at_IN that_DT final_JJ shooting_NN stop_NN ._SENT 
+He_PP used_VVD all_DT three_CD of_IN his_PP$ spare_JJ bullets_NNS and_CC still_RB needed_VVN to_TO complete_VV a_DT penalty_NN lap_NN ._SENT 
+The_DT Norwegians_NPS won_VVD the_DT race_NN won_VVD in_IN 1_CD hour_NN ,_, 19_CD minutes_NNS ,_, 50.2_CD seconds_NNS ,_, giving_VVG Johannes_NP Thingnes_NP Boe_NP his_PP$ third_JJ gold_NN medal_NN and_CC fourth_JJ overall_NN at_IN the_DT Beijing_NP Games_NPS ._SENT 
+Tarjei_NP Boe_NP won_VVD his_PP$ second_JJ gold_NN to_TO go_VV along_RP with_IN a_DT silver_NN and_CC a_DT bronze_NN ._SENT 
+Strula_NP Holm_NP Laegreid_NP skied_VVD the_DT first_JJ leg_NN for_IN Norway_NP ._SENT 
+The_DT Russian_JJ team_NN 's_POS collapse_NN allowed_VVD France_NP to_TO win_VV silver_NN ,_, 27.4_CD seconds_NNS behind_IN Norway_NP ._SENT 
+The_DT Russians_NPS took_VVD bronze_NN ,_, 45.3_CD seconds_NNS behind_RB ,_, after_IN leading_VVG for_IN almost_RB all_DT of_IN the_DT race_NN ._SENT 
+Quentin_NP Fillon_NP Maillet_NP skied_VVD the_DT last_JJ leg_NN for_IN France_NP and_CC also_RB missed_VVD a_DT target_NN in_IN the_DT final_JJ shooting_NN range_NN ,_, but_CC he_PP was_VBD able_JJ to_TO complete_VV his_PP$ set_NN with_IN a_DT spare_JJ bullet_NN ._SENT 
+The_DT silver_NN was_VBD Fillon_NP Maillet_NP 's_POS fifth_JJ medal_NN of_IN the_DT Beijing_NP Olympics_NPS ._SENT 
+He_PP had_VHD already_RB won_VVN two_CD gold_NN and_CC two_CD silver_NN ._SENT 
+The_DT relay_NN race_NN had_VHD been_VBN scheduled_VVN to_TO start_VV at_IN 5_CD p._NP m._NP but_CC was_VBD moved_VVN up_IN 2_CD ?_SENT 
+hours_NNS because_IN of_IN frigid_JJ temperatures_NNS at_IN the_DT stadium_NN ._SENT 
+The_DT cold_NN was_VBD expected_VVN to_TO drop_VV to_TO minus_CC 4_CD degrees_NNS Fahrenheit_NN by_IN 6_CD p._NP m._NP ,_, making_VVG it_PP dangerous_JJ for_IN the_DT athletes_NNS to_TO compete_VV ._SENT 
+Norwegian_JJ biathlete_NN Johannes_NP Thingnes_NP Boe_NP skis_NNS to_TO third_JJ Olympic_NP gold_NN medal_NN ZHANGJIAKOU_NP ,_, China_NP --_: The_DT Boe_NP brothers_NNS packed_VVD a_DT 1/3_CD punch_NN on_IN the_DT Olympic_NP biathlon_NN course_NN ._SENT 
+Johannes_NP Thingnes_NPS Boe_NP ,_, the_DT younger_JJR of_IN the_DT Norwegian_JJ siblings_NNS ,_, won_VVD gold_JJ Saturday_NP in_IN the_DT sprint_NN race_NN ._SENT 
+Older_JJR brother_NN Tarjei_NP Boe_NP took_VVD bronze_NN ._SENT 
+"_`` We_PP are_VBP very_RB proud_JJ being_NN here_RB ,_, in_IN first_JJ place_NN and_CC third_JJ place_NN ,_, as_IN brothers_NNS ,_, "_'' said_VVD Johanes_NNS Thingnes_NPS Boe_NP ,_, who_WP won_VVD his_PP$ third_JJ medal_NN of_IN the_DT Beijing_NP Games_NPS ._SENT 
+"_`` We_PP are_VBP both_DT biathletes_NNS but_CC we_PP are_VBP also_RB family_NN ._SENT 
+We_PP have_VHP something_NN between_IN us_PP that_WDT is_VBZ really_RB great_JJ ._SENT 
+He_PP 's_VBZ the_DT reason_NN I_PP started_VVD in_IN this_DT sport_NN ._SENT 
+"_'' Johannes_NP Thingnes_NP skied_VVD fast_RB enough_RB over_IN the_DT 10-kilometer_NN course_NN to_TO overcome_VV a_DT missed_VVN target_NN and_CC win_VV in_IN 24_CD minutes_NNS ,_, 0.4_CD seconds_NNS ._SENT 
+He_PP also_RB won_VVD gold_NN in_IN the_DT mixed_JJ team_NN relay_NN and_CC bronze_NN in_IN the_DT individual_JJ race_NN ._SENT 
+At_IN the_DT 2018_CD Pyeongchang_NP Games_NPS ,_, Johannes_NP Thingnes_NP also_RB won_VVD gold_NN in_IN the_DT individual_JJ race_NN ._SENT 
+Quentin_NP Fillon_NP Maillet_NP of_IN France_NP took_VVD the_DT silver_NN medal_NN ,_, splitting_NN the_DT brothers_NNS on_IN the_DT podium_NN ._SENT 
+He_PP finished_VVD 25.5_CD seconds_NNS behind_IN Johannes_NP Thingnes_NPS Boe_NP ._SENT 
+Tarjei_NP Boe_NP ,_, who_WP also_RB won_VVD gold_NN in_IN the_DT mixed_JJ relay_NN alongside_IN his_PP$ younger_JJR brother_NN ,_, ended_VVD up_RP 38.9_CD seconds_NNS behind_RB with_IN one_PP miss_VVP ._SENT 
+It_PP was_VBD his_PP$ first_JJ individual_JJ Olympic_JJ medal_NN ._SENT 
+"_`` I_PP 'm_VBP five_CD years_NNS older_JJR than_IN him_PP ,_, but_CC we_PP have_VHP fought_VVN together_RB now_RB for_IN the_DT last_JJ 10_CD years_NNS in_IN the_DT World_NP Cup_NP ,_, "_'' Tarjei_NP said_VVD ._SENT 
+"_`` We_PP have_VHP done_VVN it_PP in_IN the_DT world_NN champs_NNS ,_, now_RB we_PP are_VBP here_RB winning_VVG the_DT mixed_JJ relay_NN and_CC also_RB here_RB taking_VVG individual_JJ medals_NNS together_RB ._SENT 
+It_PP 's_VBZ an_DT incredible_JJ story_NN ._SENT 
+"_'' Fillon_NP Maillet_NP also_RB missed_VVD one_CD target_NN but_CC could_MD n't_RB match_VV Boe_NP 's_POS speed_NN ._SENT 
+He_PP won_VVD gold_NN in_IN the_DT individual_NN and_CC silver_NN in_IN the_DT mixed_JJ relay_NN --_: out-sprinted_VVN by_IN Boe_NP ._SENT 
+He_PP 's_VBZ also_RB the_DT overall_JJ World_NP Cup_NP leader_NN ._SENT 
+"_`` I_PP am_VBP quite_RB happy_JJ today_NN ,_, "_'' the_DT Frenchman_NN said_VVD ._SENT 
+"_`` One_PP miss_VVP today_NN ,_, but_CC I_PP 'm_VBP happy_JJ to_TO be_VB on_IN the_DT podium_NN ._SENT 
+The_DT track_NN is_VBZ very_RB slow_JJ ._SENT 
+It_PP 's_VBZ quite_RB hard_JJ on_IN the_DT skis_NNS because_IN you_PP must_MD push_VV every_DT time_NN ._SENT 
+"_'' Although_IN the_DT temperatures_NNS were_VBD relatively_RB warm_JJ and_CC the_DT wind_NN was_VBD calm_JJ ,_, snow_NN earlier_RBR in_IN the_DT day_NN made_VVD the_DT tracks_NNS slow_JJ ._SENT 
+Maxim_NP Tsvetkov_NP of_IN the_DT Russian_JJ team_NN shot_VVD clean_JJ but_CC finished_VVD 40.6_CD seconds_NNS behind_IN in_IN fourth_JJ ._SENT 
+"_`` I_PP already_RB survived_VVD fourth_JJ place_NN once_RB and_CC the_DT second_JJ time_NN around_IN fourth_JJ place_NN did_VVD not_RB sting_NN me_PP so_RB much_JJ ,_, "_'' Tsvetkov_NP said_VVD ._SENT 
+"_`` Besides_RB ,_, today_NN I_PP understood_VVD that_IN the_DT favorites_NNS will_MD be_VB the_DT guys_NNS who_WP ski_VV better_RBR on_IN this_DT distance_NN ._SENT 
+Even_RB though_IN I_PP skied_VVD well_RB in_IN the_DT individual_JJ race_NN ,_, today_NN the_DT race_NN was_VBD for_IN those_DT guys_NNS who_WP feel_VVP very_RB strong_JJ on_IN the_DT course_NN ._SENT 
+And_CC today_NN that_WDT 's_VBZ exactly_RB what_WP happened_VVD ._SENT 
+"_`` Sebastian_NP Samuelsson_NP of_IN Sweden_NP ,_, the_DT World_NP Cup_NP sprint_NN leader_NN ,_, missed_VVD one_CD target_NN and_CC finished_VVD fifth_JJ ._SENT 
+Boe_NP dominated_VVD the_DT sprint_NN races_NNS for_IN three_CD seasons_NNS but_CC has_VHZ struggled_VVN this_DT year_NN ._SENT 
+He_PP won_VVD one_CD sprint_NN race_NN in_IN France_NP and_CC was_VBD third_JJ in_IN another_DT ._SENT 
+His_PP$ success_NN at_IN this_DT year_NN 's_POS Olympics_NPS make_VVP him_PP a_DT favorite_NN for_IN the_DT upcoming_JJ pursuit_NN and_CC mass-start_NN races_NNS ._SENT 
+Saturday_NP 's_POS sprint_NN victory_NN means_VVZ Boe_NP will_MD start_VV first_JJ in_IN Sunday_NP 's_POS pursuit_NN race_NN ._SENT 
+Norway_NP 's_POS Marte_NP Olsbu_NP Roeiseland_NP shoots_VVZ her_PP$ way_NN to_TO Olympic_NP biathlon_NN sprint_NN gold_NN ZHANGJIAKOU_NP ,_, China_NP --_: Marte_NP Olsbu_NP Roeiseland_NP of_IN Norway_NP put_VVD in_IN the_DT best_JJS performance_NN of_IN her_PP$ career_NN when_WRB it_PP mattered_VVN the_DT most_JJS --_: on_IN an_DT Olympic_JJ stage_NN ,_, for_IN an_DT Olympic_NP gold_NN medal_NN ._SENT 
+Another_DT gold_NN medal_NN ,_, that_WDT is_VBZ ._SENT 
+Roeiseland_NP ,_, the_DT overall_JJ World_NP Cup_NP leader_NN and_CC sprint_NN leader_NN ,_, hit_VVD all_DT 10_CD targets_NNS and_CC finished_VVD the_DT 7.5-kilometer_NN women_NNS 's_POS sprint_NN race_NN in_IN 20_CD minutes_NNS ,_, 44.3_CD seconds_NNS for_IN her_PP$ third_JJ medal_NN --_: and_CC second_JJ gold_NN --_: at_IN the_DT Beijing_NP Games_NPS ._SENT 
+"_`` My_PP$ ski_NN time_NN has_VHZ never_RB been_VBN better_JJR and_CC I_PP was_VBD really_RB focused_VVN on_IN the_DT shooting_VVG range_NN today_NN ,_, "_'' she_PP said_VVD ._SENT 
+"_`` I_PP think_VVP I_PP did_VVD a_DT really_RB good_JJ job_NN in_IN my_PP$ head_NN before_IN today_NN 's_POS race_NN ,_, and_CC for_IN that_WDT I_PP 'm_VBP really_RB happy_JJ ._SENT 
+It_PP feels_VVZ great_JJ ._SENT 
+"_'' The_DT Norwegian_JJ was_VBD on_IN the_DT gold-medal_NN winning_VVG mixed_JJ relay_NN team_NN during_IN the_DT opening_NN biathlon_NN race_NN of_IN the_DT Winter_NP Games_NPS and_CC won_VVD bronze_NN in_IN the_DT 15-kilometer_NN individual_JJ race_NN earlier_RBR in_IN the_DT week_NN ._SENT 
+Sweden_NP 's_POS Elvira_NP Oeberg_NP ,_, in_IN her_PP$ first_JJ Olympics_NNS ,_, also_RB shot_VVD clean_JJ and_CC skied_VVN to_TO silver_NN ,_, 30.9_CD seconds_NNS back_RB ._SENT 
+Her_PP$ sister_NN ,_, Hanna_NP ,_, won_VVD a_DT gold_JJ medal_NN in_IN the_DT 2018_CD Olympics_NPS in_IN the_DT individual_JJ race_NN ._SENT 
+She_PP finished_VVD 19th_JJ ,_, 1:34.8_CD back_NN in_IN the_DT sprint_NN ._SENT 
+"_`` I_PP 'm_VBP super_JJ proud_JJ that_IN I_PP shot_VVD clean_VV when_WRB it_PP mattered_VVN the_DT most_RBS ,_, "_'' Oeberg_NP said_VVD ._SENT 
+"_`` It_PP feels_VVZ really_RB good_JJ ._SENT 
+Now_RB we_PP are_VBP two_CD Olympic_JJ medalists_NNS in_IN the_DT family_NN ._SENT 
+It_PP 's_VBZ crazy_JJ ._SENT 
+"_`` The_DT sisters_NNS embraced_VVN and_CC cried_VVN after_IN the_DT race_NN ._SENT 
+"_'' She_PP said_VVD that_IN she_PP was_VBD super_JJ proud_JJ of_IN me_PP and_CC that_IN I_PP really_RB deserved_VVD this_DT medal_NN ,_, "_'' Oeberg_NP said_VVD ._SENT 
+"_`` Those_DT are_VBP amazing_JJ words_NNS to_TO hear_VV ._SENT 
+"_'' Dorothea_NP Wierer_NP of_IN Italy_NP came_VVD in_IN 37.2_CD seconds_NNS behind_IN Roeiseland_NN for_IN bronze_NN ,_, her_PP$ first_JJ individual_JJ Olympic_JJ medal_NN ._SENT 
+She_PP won_VVD bronze_NN in_IN the_DT mixed_JJ relay_NN in_IN the_DT 2014_CD and_CC 2018_CD Winter_NP Games_NPS ._SENT 
+"_`` I_PP 'm_VBP really_RB happy_JJ today_NN ,_, "_'' Wierer_NP said_VVD ._SENT 
+"_`` Normally_RB ,_, I_PP 'm_VBP not_RB so_RB good_JJ in_IN the_DT sprint_NN ._SENT 
+I_PP 'm_VBP better_RBR normally_RB in_IN the_DT pursuit_NN or_CC mass_NN start_NN ,_, so_RB it_PP was_VBD really_RB cool_JJ that_IN it_PP worked_VVD out_RP like_IN this_DT ._SENT 
+"_`` Wierer_NN is_VBZ known_VVN for_IN her_PP$ fast_JJ and_CC accurate_JJ shooting_NN ,_, some_DT of_IN the_DT best_JJS on_IN the_DT World_NP Cup_NP circuit_NN ._SENT 
+"_`` I_PP was_VBD lucky_JJ on_IN the_DT prone_JJ shooting_NN ._SENT 
+The_DT last_JJ one_CD closed_VVD just_RB after_IN one_CD second_JJ ,_, "_'' she_PP said_VVD ._SENT 
+"_`` The_DT standing_NN shooting_NN was_VBD really_RB good_JJ ,_, and_CC the_DT last_JJ loop_NN on_IN the_DT track_NN ,_, it_PP was_VBD really_RB long_JJ ._SENT 
+I_PP was_VBD just_RB so_RB tired_JJ ._SENT 
+"_'' Temperatures_NNS for_IN the_DT sprint_NN race_NN hovered_VVD around_IN minus-6_NP C_NP (_( 21F_NP )_) --_: balmy_JJ compared_VVN with_IN the_DT minus-16_NP C_NP (_( 3.4F_NP )_) last_JJ weekend_NN ._SENT 
+More_RBR important_JJ for_IN the_DT shooting_NN ,_, there_EX was_VBD no_DT wind_NN ._SENT 
+The_DT first_JJ five_CD finishers_NNS ,_, and_CC 13_CD total_NN ,_, shot_VVD clean_JJ ._SENT 
+Roeiseland_NP uncharacteristically_RB missed_VVD two_CD shots_NNS in_IN the_DT 15-kilometer_NN event_NN --_: one_CD prone_JJ and_CC one_CD standing_NN ._SENT 
+That_DT added_VVD two_CD minutes_NNS to_TO her_PP$ time_NN ._SENT 
+"_'' After_IN the_DT 15k_NN ,_, I_PP was_VBD a_DT bit_NN disappointed_VVN because_IN I_PP missed_VVD the_DT last_JJ shots_NNS ,_, so_RB I_PP have_VHP worked_VVN a_DT lot_NN for_IN three_CD days_NNS now_RB to_TO try_VV to_TO focus_VV on_IN today_NN and_CC forget_VV about_IN the_DT last_JJ race_NN ,_, "_'' Roeiseland_NP said_VVD ._SENT 
+She_PP won_VVD silver_NN in_IN the_DT 2018_CD Winter_NPS Games_NPS sprint_VVP race_NN ._SENT 
+Laura_NP Dahlmeier_NP of_IN Germany_NP won_VVD gold_NN ,_, but_CC she_PP has_VHZ since_RB retired_VVN ._SENT 
+Roeiseland_NP finished_VVD second_JJ in_IN the_DT overall_JJ standings_NNS last_JJ season_NN ,_, just_RB behind_IN her_PP$ teammate_NN Tiril_NP Eckhoff_NP ._SENT 
+But_CC she_PP 's_VBZ stayed_VVN on_IN top_NN this_DT season_NN ._SENT 
+"_'' This_DT year_NN I_PP have_VHP been_VBN enjoying_VVG biathlon_NN even_RB more_RBR ,_, "_'' she_PP said_VVD ._SENT 
+"_`` I_PP just_RB feel_VVP so_RB lucky_JJ that_IN I_PP am_VBP here_RB and_CC I_PP can_MD race_NN good_JJ races_NNS ._SENT 
+"_'' Quentin_NP Fillon_NP Maillet_NP adds_VVZ gold_JJ medal_NN with_IN individual_JJ biathlon_NN win_VV at_IN Beijing_NP Olympics_NPS ZHANGJIAKOU_NP ,_, China_NP --_: Quentin_NP Fillon_NP Maillet_NP filled_VVD in_IN quite_RB nicely_RB for_IN Martin_NP Fourcade_NP at_IN the_DT Beijing_NP Olympics_NPS ._SENT 
+The_DT Frenchman_NN won_VVD the_DT 20-kilometer_NN individual_JJ biathlon_NN race_NN on_IN Tuesday_NP ,_, adding_VVG a_DT gold_JJ medal_NN to_TO the_DT silver_NN he_PP won_VVD in_IN the_DT mixed_JJ relay_NN over_IN the_DT weekend_NN ._SENT 
+Fourcade_NP ,_, a_DT five-time_JJ Olympic_JJ champion_NN from_IN France_NP ,_, retired_VVN from_IN the_DT sport_NN in_IN 2020._CD Norwegian_JJ biathlete_NN Johannes_NP Tingnes_NP Boe_NP took_VVD over_RP as_IN the_DT top_JJ competitor_NN on_IN the_DT World_NP Cup_NP circuit_NN after_IN Fourcade_NN ,_, but_CC Fillon_NP Maillet_NP has_VHZ been_VBN the_DT one_CD to_TO beat_VV this_DT season_NN ._SENT 
+"_`` Maybe_RB it_PP looked_VVD easy_RB but_CC it_PP was_VBD so_RB hard_JJ today_NN ,_, "_'' Fillon_NP Maillet_NP said_VVD ._SENT 
+"_`` With_IN two_CD misses_VVZ in_IN the_DT shooting_NN I_PP never_RB expected_VVD the_DT victory_NN ._SENT 
+Maybe_RB the_DT podium_NN ._SENT 
+It_PP was_VBD amazing_JJ ._SENT 
+"_'' Fillon_NP Maillet_NP has_VHZ 10_CD World_NP Cup_NP podium_NN finishes_VVZ this_DT season_NN ,_, half_NN of_IN them_PP on_IN the_DT top_JJ step_NN ,_, to_TO lead_VV the_DT World_NP Cup_NP standings_NNS ._SENT 
+On_IN Tuesday_NP ,_, he_PP missed_VVD two_CD of_IN 20_CD targets_NNS and_CC finished_VVD the_DT race_NN in_IN 48_CD minutes_NNS ,_, 47.4_CD seconds_NNS ._SENT 
+Anton_NP Smolski_NP of_IN Belarus_NP shot_VVD clean_JJ --_: hitting_VVG all_DT 20_CD targets_NNS --_: and_CC came_VVD in_IN 14.8_CD seconds_NNS behind_IN the_DT Frenchman_NN ._SENT 
+Boe_NP ,_, the_DT defending_VVG individual_JJ Olympic_JJ champion_NN ,_, also_RB missed_VVD two_CD targets_NNS and_CC earned_VVD the_DT bronze_NN medal_NN ,_, 31.1_CD seconds_NNS behind_IN Fillon_NP Maillet_NP ._SENT 
+He_PP had_VHD outsprinted_VVN the_DT Frenchman_NN in_IN the_DT mixed_JJ relay_NN Saturday_NP to_TO secure_VV gold_NN ._SENT 
+Boe_NP and_CC Russian_NP biathlete_NN Maxim_NP Tsvetkov_NP raced_VVD most_JJS of_IN the_DT course_NN together_RB ,_, heading_VVG out_RP with_IN bib_NN Nos._NP 1_CD and_CC 2_CD ,_, but_CC Tsvetkov_NP missed_VVD his_PP$ last_JJ shot_NN and_CC finished_VVD 34.9_CD seconds_NNS behind_IN Fillon_NP Maillet_NP in_IN fourth_JJ ._SENT 
+"_'' I_PP did_VVD quite_PDT a_DT good_JJ job_NN with_IN bib_NN No._NN 2_CD ,_, "_'' Boe_NP said_VVD ._SENT 
+"_`` I_PP was_VBD early_JJ on_IN the_DT course_NN ,_, fighting_VVG ,_, and_CC on_IN the_DT range_NN ._SENT 
+I_PP was_VBD well_RB prepared_VVN mentally_RB ,_, and_CC I_PP had_VHD a_DT good_JJ feeling_NN during_IN the_DT race_NN ._SENT 
+"_'' Competitors_NNS raced_VVD 20_CD kilometers_NNS in_IN five_CD ski_JJ loops_NNS ,_, shooting_VVG twice_RB in_IN the_DT prone_JJ position_NN and_CC twice_RB standing_VVG between_IN each_DT lap_NN ._SENT 
+In_IN all_DT other_JJ biathlon_NN events_NNS ,_, they_PP ski_VV a_DT 150-meter_NN loop_NN for_IN each_DT missed_VVN shot_NN ,_, which_WDT takes_VVZ about_RB 20_CD seconds_NNS ._SENT 
+But_CC in_IN the_DT individual_JJ race_NN ,_, one_CD minute_NN is_VBZ added_VVN for_IN each_DT miss_VVP ,_, making_VVG shooting_VVG accuracy_NN especially_RB important_JJ ._SENT 
+Boe_NP led_VVD the_DT World_NP Cup_NP standings_NNS three_CD years_NNS in_IN a_DT row_NN ._SENT 
+He_PP was_VBD unrivaled_JJ on_IN skis_NNS and_CC became_VVD tough_JJ to_TO catch_VV after_IN he_PP improved_VVD his_PP$ shooting_NN accuracy_NN ._SENT 
+But_CC his_PP$ results_NNS faltered_VVD this_DT season_NN ._SENT 
+He_PP went_VVD 17_CD races_NNS without_IN an_DT individual_JJ win_NN until_IN finally_RB a_DT victory_NN in_IN a_DT sprint_NN race_NN in_IN France_NP in_IN December_NP ._SENT 
+He_PP sprinted_VVD away_RB from_IN Fillon_NP Maillet_NP and_CC Russian_NP rival_JJ Alexander_NP Loginov_NP to_TO take_VV the_DT gold_NN in_IN Saturday_NP 's_POS mixed_JJ relay_NN -_: the_DT first_JJ biathlon_NN event_NN of_IN the_DT Beijing_NP Olympics_NPS ._SENT 
+Although_IN he_PP could_MD n't_RB catch_VV the_DT Frenchman_NN in_IN Tuesday_NP 's_POS race_NN ,_, he_PP still_RB has_VHZ a_DT gold_NN and_CC a_DT bronze_NN ._SENT 
+German_NP Denise_NP Herrmann_NP wins_VVZ Olympic_JJ gold_NN in_IN biathlon_NN 's_POS individual_JJ race_NN ZHANGJAIKOU_NP ,_, China_NP --_: Denise_NP Herrmann_NP 's_POS performance_NN on_IN the_DT range_NN ,_, missing_VVG only_RB one_CD of_IN 20_CD shots_NNS ,_, put_VVD her_PP at_IN the_DT front_NN of_IN the_DT pack_NN ._SENT 
+Her_PP$ fast_JJ skiing_NN did_VVD n't_RB hurt_VV ,_, either_RB ._SENT 
+Herrmann_NP won_VVD the_DT women_NNS 's_POS 15-kilometer_NN individual_JJ race_NN in_IN biathlon_NN on_IN Monday_NP at_IN the_DT Beijing_NP Olympics_NPS after_IN a_DT season_NN of_IN mixed_JJ results_NNS on_IN the_DT World_NP Cup_NP circuit_NN ._SENT 
+The_DT German_NP 's_POS only_JJ podium_NN finish_VV this_DT season_NN was_VBD a_DT bronze_NN medal_NN in_IN the_DT individual_JJ race_NN in_IN Oestersund_NP ,_, Sweden_NP ._SENT 
+Herrmann_NP ,_, a_DT former_JJ Olympic_JJ cross-country_JJ skier_NN ,_, won_VVD Monday_NP 's_POS race_NN in_IN 44_CD minutes_NNS ,_, 12.7_CD seconds_NNS ._SENT 
+Anais_NP Chevalier-Bouchet_NP of_IN France_NP missed_VVD her_PP$ last_JJ shot_NN ,_, a_DT costly_JJ mistake_NN ,_, and_CC took_VVD silver_NN ,_, 9.4_CD seconds_NNS behind_IN Herrmann_NP ._SENT 
+Marte_NP Olsbu_NP Roeiseland_NP of_IN Norway_NP ,_, the_DT overall_JJ World_NP Cup_NP leader_NN ,_, missed_VVD two_CD shots_NNS ,_, one_CD prone_JJ and_CC one_CD standing_NN ,_, and_CC settled_VVD for_IN bronze_NN ,_, 15.3_CD seconds_NNS behind_RB ._SENT 
+The_DT women_NNS raced_VVD over_IN 15_CD kilometers_NNS in_IN five_CD ski_JJ loops_NNS ,_, shooting_VVG twice_RB in_IN the_DT prone_JJ position_NN and_CC twice_RB standing_VVG between_IN each_DT lap_NN ._SENT 
+In_IN all_DT other_JJ biathlon_NN events_NNS ,_, they_PP ski_VV a_DT 150-meter_NN loop_NN for_IN each_DT missed_VVN shot_NN ,_, which_WDT takes_VVZ about_RB 20_CD seconds_NNS ._SENT 
+But_CC in_IN the_DT individual_JJ race_NN ,_, one_CD minute_NN is_VBZ added_VVN for_IN each_DT miss_VVP ,_, making_VVG shooting_VVG accuracy_NN especially_RB important_JJ ._SENT 
+Defending_VVG Olympic_JJ champion_NN Hanna_NP Oeberg_NP of_IN Sweden_NP had_VHD three_CD misses_VVZ in_IN her_PP$ standing_NN shooting_NN and_CC finished_VVD 23rd_JJ ,_, 2:23.1_CD behind_RB ._SENT 
+Marketa_NP Davidova_NP of_IN the_DT Czech_NP Republic_NP ,_, the_DT leader_NN in_IN the_DT World_NP Cup_NP individual_JJ standings_NNS ,_, also_RB missed_VVD her_PP$ last_JJ shot_NN and_CC finished_VVD sixth_JJ ,_, 31.9_CD seconds_NNS behind_IN Herrmann_NP ._SENT 
+"_`` I_PP think_VVP it_PP was_VBD just_RB my_PP$ mistake_NN ._SENT 
+It_PP was_VBD nothing_NN special_JJ ,_, "_'' Davidova_NP said_VVD of_IN missing_VVG the_DT last_JJ shot_NN ._SENT 
+"_`` I_PP was_VBD trying_VVG to_TO do_VV what_WP I_PP did_VVD in_IN the_DT 19_CD shots_NNS before_RB ,_, but_CC one_PP goes_VVZ up_RP so_IN one_PP miss_VVP ,_, and_CC it_PP 's_VBZ quite_RB a_DT lot_NN in_IN this_DT race_NN today_NN ._SENT 
+"_'' Some_DT of_IN the_DT biggest_JJS obstacles_NNS on_IN the_DT biathlon_NN range_NN --_: strong_JJ wind_NN and_CC frigid_JJ temperatures_NNS --_: were_VBD less_JJR of_IN a_DT factor_NN on_IN Monday_NP ._SENT 
+Temperatures_NNS hovered_VVD around_IN minus-10_JJ degrees_NNS C_NP (_( 14_CD degrees_NNS F_NN )_) ,_, compared_VVN to_TO minus-15_NP C_NP (_( 5_CD F_NN )_) for_IN Saturday_NP 's_POS mixed_JJ relay_NN race_NN ._SENT 
+The_DT winds_NNS calmed_VVN from_IN around_RB 15_CD kph_NN (_( 9.3_CD mph_NN )_) to_TO around_RB 5_CD kph_NN (_( 3_CD mph_NN )_) ._SENT 
+Norway_NP takes_VVZ Olympic_JJ gold_NN in_IN 3-way_JJ sprint_NN in_IN biathlon_NN relay_NN ZHANGJAIKOU_NP ,_, China_NP --_: Johannes_NP Thingnes_NPS Boe_NP of_IN Norway_NP moved_VVD ahead_RB of_IN his_PP$ French_JJ and_CC Russian_JJ rivals_NNS in_IN the_DT final_JJ meters_NNS of_IN the_DT mixed_JJ relay_NN to_TO take_VV gold_JJ Saturday_NP in_IN the_DT first_JJ biathlon_NN race_NN of_IN the_DT Beijing_NP Olympics_NPS ._SENT 
+Boe_NP ,_, Quentin_NP Fillon_NP Maillet_NP of_IN France_NP and_CC Eduard_NP Latypov_NP of_IN the_DT Russian_JJ team_NN left_VVD the_DT range_NN close_RB together_RB after_IN the_DT last_JJ round_NN of_IN shooting_NN and_CC raced_VVD for_IN position_NN until_IN the_DT final_JJ stretch_NN ,_, when_WRB Boe_NP sprinted_VVD for_IN the_DT win_NN ._SENT 
+Norway_NP ,_, which_WDT came_VVD into_IN the_DT relay_NN as_IN the_DT World_NP Cup_NP leader_NN ,_, also_RB got_VVD strong_JJ performances_NNS from_IN Marte_NP Olsbu_NP Roeiseland_NP and_CC Tarjei_NP Boe_NP ._SENT 
+But_CC they_PP trailed_VVD early_RB in_IN the_DT race_NN when_WRB Tiril_NP Eckhoff_NP struggled_VVD on_IN the_DT range_NN ._SENT 
+Fillon_NP Maillet_NP was_VBD joined_VVN on_IN the_DT French_JJ team_NN by_IN Emilien_NP Jacquelin_NP ,_, Julia_NP Simon_NP and_CC Anais_NP Chevalier-Bouchet_NP ._SENT 
+The_DT Russian_JJ team_NN of_IN Latypov_NP ,_, Uliana_NP Nigmatullina_NP ,_, Kristina_NP Reztsova_NP and_CC Alexander_NP Loginov_NP was_VBD leading_VVG after_IN the_DT last_JJ hand-off_NN but_CC failed_VVD hold_VV on_RP ._SENT 
+Temperatures_NNS hovered_VVD around_IN minus-16_JJ degrees_NNS C_NP (_( 3.2_CD degrees_NNS F_NN )_) and_CC a_DT steady_JJ wind_NN blasted_VVD the_DT skiers_NNS as_IN they_PP worked_VVD their_PP$ way_NN around_IN the_DT 2-kilometer_NN (_( 1.2-mile_NN )_) course_NN ._SENT 
+Sweden_NP ,_, Germany_NP and_CC Belarus_NP followed_VVD the_DT front_JJ three_CD to_TO the_DT line_NN while_IN the_DT United_NP States_NPS came_VVD in_IN seventh_JJ ._SENT 

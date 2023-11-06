@@ -1,0 +1,221 @@
+U._NP S._NP women_NNS 's_POS volleyball_NN into_IN Tokyo_NP Olympics_NPS semifinals_NNS with_IN straight-sets_NNS win_VVP over_IN Dominican_NP Republic_NP TOKYO_NP --_: Five_CD years_NNS after_IN their_PP$ quest_NN for_IN a_DT first_JJ Olympic_JJ gold_NN medal_NN was_VBD denied_VVN in_IN the_DT semifinals_NNS ,_, the_DT United_NP States_NPS women_NNS 's_POS volleyball_NN team_NN has_VHZ returned_VVN to_TO that_DT stage_NN after_IN a_DT relatively_RB easy_JJ quarterfinal_NN win_VV ._SENT 
+The_DT short-handed_JJ Americans_NPS overcame_VVD the_DT absence_NN of_IN two_CD starters_NNS to_TO beat_VV the_DT Dominican_JJ Republic_NP 25-11_CD ,_, 25-20_CD ,_, 25-19_CD on_IN Wednesday_NP and_CC advance_NN to_TO the_DT semifinals_NNS ._SENT 
+The_DT U._NP S._NP will_MD play_VV Serbia_NN on_IN Friday_NP for_IN a_DT spot_NN in_IN the_DT gold-medal_NN game_NN in_IN a_DT rematch_NN of_IN a_DT semifinal_NN the_DT Americans_NPS lost_VVD five_CD years_NNS ago_RB in_IN Rio_NP de_NP Janeiro_NP ._SENT 
+This_DT marks_VVZ the_DT sixth_JJ time_NN in_IN the_DT past_JJ eight_CD Olympics_NNS that_IN the_DT U._NP S._NP has_VHZ made_VVN it_PP this_DT far_RB in_IN the_DT tournament_NN but_CC the_DT country_NN is_VBZ still_RB seeking_VVG their_PP$ first_JJ gold_NN in_IN the_DT sport_NN ._SENT 
+The_DT U._NP S._NP won_VVD a_DT medal_NN at_IN the_DT past_JJ three_CD Olympics_NNS ,_, getting_VVG silver_NN in_IN 2008_CD and_CC '12_NN and_CC bronze_NN in_IN 2016._CD "_`` This_DT program_NN has_VHZ had_VHN great_JJ success_NN over_IN the_DT years_NNS ,_, "_'' U._NP S._NP coach_NN Karch_NP Kiraly_NP said_VVD ._SENT 
+"_`` But_CC we_PP have_VHP n't_RB stood_VVN at_IN the_DT top_NN of_IN the_DT podium_NN yet_RB ._SENT 
+So_IN our_PP$ goal_NN ,_, our_PP$ objective_NN is_VBZ always_RB to_TO try_VV to_TO do_VV something_NN that_WDT 's_VHZ never_RB been_VBN done_VVN before_RB ._SENT 
+But_CC the_DT opponent_NN has_VHZ a_DT lot_NN of_IN say_VV over_RP how_WRB that_DT works_NNS out_RP ._SENT 
+..._: There_EX are_VBP great_JJ teams_NNS here_RB who_WP have_VHP the_DT same_JJ objective_NN ._SENT 
+But_CC we_PP 're_VBP going_VVG to_TO keep_VV hurling_VVG ourselves_PP at_IN that_DT door_NN and_CC try_VV to_TO break_VV it_PP down_RP ._SENT 
+"_'' That_DT five-set_JJ loss_NN to_TO Serbia_NN in_IN 2016_CD after_IN star_JJ middle_JJ blocker_NN Foluke_NP Akinradewo_NP Gunderson_NP left_VVD following_VVG the_DT first_JJ set_NN with_IN a_DT knee_NN injury_NN has_VHZ served_VVN as_IN fuel_NN ever_RB since_IN and_CC Kiraly_NP 's_POS crew_NN is_VBZ ready_JJ to_TO try_VV to_TO avenge_VV it_PP ._SENT 
+The_DT U._NP S._NP came_VVD into_IN the_DT quarterfinals_NNS short-handed_JJ with_IN starters_NNS Jordyn_NP Poulter_NP and_CC Jordan_NP Thompson_NP both_CC sidelined_VVN by_IN right_JJ ankle_NN injuries_NNS ._SENT 
+But_CC both_DT players_NNS have_VHP surprised_VVN Kiraly_NP with_IN how_WRB quickly_RB they_PP are_VBP recovering_VVG and_CC could_MD have_VH played_VVN in_IN an_DT emergency_NN ._SENT 
+"_'' We_PP knew_VVD that_IN we_PP had_VHD them_PP available_JJ to_TO play_VV ,_, "_'' Kiraly_NP said_VVD ._SENT 
+"_`` But_CC we_PP also_RB knew_VVD if_IN we_PP could_MD play_VV without_IN them_PP ,_, it_PP 's_VBZ nice_JJ to_TO give_VV them_PP a_DT couple_NN of_IN extra_JJ days_NNS to_TO be_VB confident_JJ in_IN their_PP$ ankle_NN ,_, to_TO jump_VV more_JJR at_IN the_DT net_JJ tomorrow_NN in_IN training_NN and_CC things_NNS like_IN that_DT ._SENT 
+"_`` They_PP were_VBD n't_RB missed_VVN against_IN the_DT Dominicans_NNS with_IN fill-ins_NNS Micha_NP Hancock_NP and_CC Annie_NP Drews_NP setting_VVG the_DT tone_NN early_RB ._SENT 
+Hancock_NP 's_POS set_NN led_VVD to_TO a_DT spike_NN by_IN Drews_NP on_IN the_DT first_JJ point_NN of_IN the_DT match_NN and_CC Hancock_NP ended_VVD a_DT lopsided_JJ first_JJ set_NN with_IN an_DT ace_NN ._SENT 
+The_DT second_JJ set_NN was_VBD a_DT bit_NN tougher_JJR with_IN the_DT Dominican_NP Republic_NP fighting_VVG off_RP four_CD set_NN points_NNS before_IN Drews_NP ended_VVD it_PP again_RB with_IN an_DT attack_NN point_NN ._SENT 
+Drew_NP finished_VVD with_IN a_DT game-high_JJ 21_CD points_NNS ._SENT 
+"_'' I_PP told_VVD them_PP when_WRB Jordan_NP Poulter_NP got_VVD hurt_VV that_IN out_RB of_IN the_DT match_NN against_IN Italy_NP ,_, the_DT great_JJ teams_NNS adapt_VV and_CC compensate_VV and_CC adjust_VV ,_, "_'' Kiraly_NP said_VVD ._SENT 
+"_`` We_PP 've_VHP been_VBN doing_VVG a_DT really_RB nice_JJ job_NN of_IN that_DT ._SENT 
+"_'' Hancock_NP and_CC Drews_NP are_VBP part_NN of_IN a_DT group_NN of_IN several_JJ first-time_JJ Olympians_NNS like_IN Thompson_NP ,_, Poulter_NP ,_, outside_JJ hitter_NN Michelle_NP Bartsch-Hackley_NP and_CC libero_NP Justine_NP Wong-Orantes_NNS that_WDT have_VHP had_VHN stellar_JJ tournaments_NNS so_RB far_RB ._SENT 
+The_DT mix_NN of_IN youth_NN with_IN experience_NN in_IN three-time_JJ Olympians_NNS like_IN Akinradewo_NP Gunderson_NP and_CC captain_VVP Jordan_NP Larson_NP has_VHZ been_VBN a_DT good_JJ formula_NN for_IN the_DT U._NP S._NP "_`` They_PP 're_VBP playing_VVG like_IN it_PP 's_VBZ any_DT other_JJ tournament_NN ,_, "_'' Akinradewo_NP Gunderson_NP said_VVD about_IN her_PP$ inexperienced_JJ teammates_NNS ._SENT 
+"_`` They_PP 're_VBP playing_VVG with_IN a_DT lot_NN of_IN confidence_NN and_CC fearlessness_NN ._SENT 
+That_DT is_VBZ truly_RB inspiring_JJ for_IN me_PP to_TO see_VV them_PP just_RB get_VVP after_IN it_PP ._SENT 
+It_PP 's_VBZ easy_RB maybe_RB in_IN big_JJ moments_NNS to_TO shrink_VV ._SENT 
+I_PP think_VVP everyone_NN is_VBZ being_VBG even_RB bigger_JJR in_IN the_DT moment_NN ._SENT 
+"_`` The_DT Dominicans_NNS made_VVD it_PP to_TO the_DT quarterfinals_NNS in_IN their_PP$ third_JJ Olympic_JJ trip_NN ever_RB ._SENT 
+They_PP also_RB lost_VVD to_TO the_DT U._NP S._NP in_IN the_DT quarters_NNS in_IN London_NP in_IN 2012_CD and_CC failed_VVD to_TO make_VV it_PP out_RP of_IN pool_NN play_NN at_IN the_DT 2004_CD Athens_NP Games_NPS ._SENT 
+Serbia_NP swept_VVD Italy_NP and_CC is_VBZ seeking_VVG to_TO get_VV back_RB into_IN the_DT gold_JJ medal_NN game_NN after_IN losing_VVG it_PP to_TO China_NP five_CD years_NNS ago_RB ._SENT 
+Tijana_NP Boskovic_NP ,_, the_DT leading_VVG scorer_NN in_IN the_DT tournament_NN ,_, ended_VVD Italy_NP 's_POS run_NN with_IN a_DT spike_NN that_WDT gave_VVD her_PP a_DT game-high_JJ 24_CD points_NNS in_IN the_DT match_NN ._SENT 
+South_NP Korea_NP outlasted_VVD Turkey_NP in_IN five_CD sets_NNS earlier_RBR Wednesday_NP to_TO make_VV it_PP into_IN the_DT other_JJ semifinal_NN against_IN the_DT winner_NN of_IN the_DT quarterfinal_NN between_IN the_DT Russian_JJ team_NN and_CC Brazil_NP ._SENT 
+The_DT South_NP Koreans_NPS are_VBP seeking_VVG their_PP$ second_JJ medal_NN ever_RB in_IN the_DT sport_NN ,_, having_VHG won_VVN bronze_NN at_IN the_DT 1976_CD Montreal_NP Games_NPS ._SENT 
+The_DT only_JJ other_JJ times_NNS they_PP made_VVD it_PP to_TO the_DT semifinals_NNS came_VVD in_IN 2012_CD and_CC 1972._CD U._NP S._NP women_NNS 's_POS volleyball_NN likely_RB down_RB two_CD starters_NNS for_IN quarterfinals_NNS at_IN Tokyo_NP Olympics_NPS TOKYO_NP --_: The_DT U._NP S._NP women_NNS 's_POS volleyball_NN team_NN will_MD likely_RB be_VB without_IN two_CD starters_NNS when_WRB the_DT Americans_NPS face_VVP the_DT Dominican_NP Republic_NP in_IN the_DT Olympic_JJ quarterfinals_NNS ._SENT 
+Setter_NP Jordyn_NP Poulter_NP and_CC opposite_JJ Jordan_NP Thompson_NP were_VBD limited_VVN at_IN practice_NN on_IN Tuesday_NP after_IN rolling_VVG their_PP$ right_JJ ankles_NNS during_IN pool_NN play_NN and_CC are_VBP n't_RB expected_VVN to_TO be_VB available_JJ in_IN the_DT quarterfinals_NNS ._SENT 
+The_DT Americans_NPS are_VBP still_RB holding_VVG out_RP hope_NN that_IN both_DT could_MD return_VV later_RBR in_IN the_DT tournament_NN if_IN the_DT U._NP S._NP wins_VVZ on_IN Wednesday_NP ._SENT 
+Poulter_NP got_VVD hurt_VV when_WRB she_PP landed_VVD on_IN a_DT teammate_NN 's_POS foot_NN during_IN a_DT win_NN over_IN Italy_NP on_IN Monday_NP that_WDT helped_VVD the_DT U._NP S._NP clinch_VVP the_DT top_JJ spot_NN in_IN Pool_NP B._NP Thompson_NP got_VVD hurt_VVN in_IN similar_JJ fashion_NN on_IN Saturday_NP in_IN a_DT loss_NN to_TO the_DT Russians_NPS ,_, sidelining_VVG one_CD of_IN the_DT top_JJ scorers_NNS in_IN the_DT tournament_NN ._SENT 
+The_DT Americans_NPS have_VHP been_VBN able_JJ to_TO overcome_VV those_DT injuries_NNS so_RB far_RB thanks_NNS to_TO the_DT play_NN of_IN backup_JJ setter_NN Micah_NP Hancock_NP and_CC opposite_JJ Annie_NP Drews_NP ._SENT 
+Drews_NP led_VVD the_DT team_NN with_IN 22_CD points_NNS in_IN the_DT five-set_JJ win_NN over_IN Italy_NP in_IN her_PP$ first_JJ Olympics_NPS ._SENT 
+Coach_NP Karch_NP Kiraly_NP said_VVD it_PP was_VBD a_DT difficult_JJ choice_NN whether_IN to_TO start_VV Drews_NP or_CC Thompson_NP to_TO begin_VV the_DT tournament_NN ,_, so_RB he_PP was_VBD not_RB surprised_VVN about_RB how_WRB little_JJ drop-off_NN there_EX has_VHZ been_VBN ._SENT 
+"_`` It_PP was_VBD n't_RB an_DT obvious_JJ decision_NN by_IN any_DT means_NNS ,_, but_CC one_CD person_NN we_PP needed_VVD to_TO be_VB the_DT starter_NN and_CC the_DT other_JJ to_TO be_VB the_DT backup_NN ,_, '_'' '_'' Kiraly_NP said_VVD ._SENT 
+"_`` They_PP 've_VHP both_DT taken_VVN turns_NNS in_IN that_DT role_NN over_IN the_DT years_NNS ._SENT 
+Every_DT time_NN (_( Annie_NP 's_POS )_) come_VVN on_IN the_DT court_NN in_IN these_DT recent_JJ matches_NNS ,_, she_PP 's_VHZ given_VVN us_PP an_DT upgrade_NN ._SENT 
+We_PP have_VHP massive_JJ trust_NN in_IN her_PP as_IN a_DT starter_NN or_CC as_IN a_DT backup_NN ,_, and_CC she_PP 's_VBZ crushed_VVN both_CC rolls_NNS ._SENT 
+'_'' '_'' The_DT men_NNS played_VVD their_PP$ quarterfinal_NN match_NN on_IN Tuesday_NP without_IN the_DT United_NP States_NPS ,_, which_WDT was_VBD knocked_VVN out_IN following_VVG pool_NN play_NN for_IN the_DT first_JJ time_NN since_IN the_DT 2000_CD Sydney_NP Games_NPS ._SENT 
+The_DT ROC_NN built_VVN on_IN its_PP$ strong_JJ performance_NN in_IN winning_VVG Pool_NP B_NP in_IN preliminary_JJ play_NN by_IN sweeping_JJ Canada_NP 25-21_CD ,_, 30-28_CD ,_, 25-22_CD ._SENT 
+The_DT Canadians_NNS put_VVD up_RP a_DT spirited_JJ effort_NN in_IN the_DT second_JJ set_NN ,_, when_WRB they_PP staved_VVD off_RP five_CD set_NN points_NNS before_IN finally_RB succumbing_VVG on_IN a_DT spike_NN by_IN Maxim_NP Mikhaylov_NP ._SENT 
+"_`` We_PP were_VBD patient_JJ enough_RB in_IN the_DT end_NN of_IN the_DT second_JJ set_NN when_WRB our_PP$ game_NN struggled_VVD a_DT little_JJ bit_NN because_IN these_DT games_NNS are_VBP made_VVN of_IN moments_NNS ,_, '_'' '_'' Russian_JJ team_NN coach_NN Tuomas_NP Sammelvuo_NP said_VVD ._SENT 
+"_`` In_IN difficult_JJ moments_NNS ,_, just_RB leave_VVP that_IN moment_NN and_CC not_RB to_TO think_VV far_RB ._SENT 
+We_PP waited_VVD for_IN our_PP$ chance_NN to_TO close_VV the_DT set_NN in_IN a_DT second_JJ set_NN ._SENT 
+That_DT was_VBD very_RB ,_, very_RB important_JJ ._SENT 
+'_'' '_'' Now_RB the_DT Russians_NPS are_VBP back_RB in_IN the_DT semifinals_NNS for_IN the_DT seventh_JJ straight_JJ Olympics_NNS ._SENT 
+They_PP won_VVD gold_NN in_IN London_NP in_IN 2012_CD but_CC came_VVD up_RP empty_JJ five_CD years_NNS ago_RB in_IN Rio_NP de_NP Janeiro_NP when_WRB they_PP lost_VVD to_TO eventual_JJ champion_NN Brazil_NP in_IN the_DT semifinals_NNS and_CC to_TO the_DT U._NP S._NP in_IN the_DT bronze_NN medal_NN game_NN ._SENT 
+The_DT Russians_NPS will_MD again_RB meet_VV Brazil_NP ,_, which_WDT swept_VVD host_NN Japan_NP in_IN the_DT second_JJ quarterfinal_NN ._SENT 
+Brazil_NP reached_VVD the_DT gold_JJ medal_NN game_NN in_IN the_DT past_JJ four_CD Olympics_NNS ,_, winning_VVG as_IN hosts_NNS in_IN Rio_NP in_IN 2016_CD and_CC at_IN the_DT 2004_CD Athens_NP Games_NPS ._SENT 
+The_DT Brazilians_NNS lost_VVD the_DT final_JJ to_TO Russia_NP in_IN 2012_CD and_CC the_DT United_NP States_NPS in_IN 2008._CD "_`` We_PP won_VVD sometimes_RB ._SENT 
+We_PP lost_VVD a_DT lot_NN of_IN times_NNS ,_, '_'' '_'' Brazilian_JJ captain_NN Bruno_NP said_VVD about_IN the_DT rivalry_NN with_IN the_DT Russians_NPS ._SENT 
+"_`` We_PP are_VBP two_CD really_RB traditional_JJ schools_NNS in_IN volleyball_NN ._SENT 
+It_PP will_MD be_VB for_IN sure_RB a_DT great_JJ battle_NN ._SENT 
+It_PP 's_VBZ our_PP$ first_JJ goal_NN to_TO be_VB in_IN the_DT semifinal_NN to_TO keep_VV our_PP$ dream_NN alive_JJ ._SENT 
+"_'' Canada_NP has_VHZ failed_VVN to_TO medal_NN in_IN five_CD Olympic_JJ trips_NNS in_IN men_NNS 's_POS volleyball_NN ._SENT 
+The_DT other_JJ semifinal_NN matchup_NN will_MD be_VB determined_VVN later_RBR Tuesday_NP following_VVG quarterfinal_NN matches_VVZ between_IN Pool_NP A_NP winner_NN Poland_NP and_CC France_NP and_CC another_DT matchup_NN between_IN Italy_NP and_CC Argentina_NP ._SENT 
+April_NP Ross_NP ,_, Alix_NP Klineman_NP score_NN quarterfinal_NN win_VV in_IN beach_NN volleyball_NN at_IN Summer_NP Olympics_NPS TOKYO_NP --_: Three-time_JJ gold_NN medalist_NN Kerri_NP Walsh_NP Jennings_NP missed_VVD out_RP on_IN her_PP$ bid_NN to_TO qualify_VV for_IN a_DT sixth_JJ trip_NN to_TO the_DT Summer_NPS Games_NPS ._SENT 
+Fortysomething_VVG four-time_JJ Olympians_NNS Phil_NP Dalhausser_NP and_CC Jake_NP Gibb_NP both_CC retired_VVN after_IN getting_VVG knocked_VVN out_RP in_IN Tokyo_NP ._SENT 
+Defending_VVG Olympic_JJ champion_NN Laura_NP Ludwig_NP is_VBZ heading_VVG back_RB to_TO Germany_NP after_IN losing_VVG to_TO the_DT U._NP S._NP in_IN the_DT quarterfinals_NNS on_IN Tuesday_NP ._SENT 
+April_NP Ross_NP just_RB keeps_VVZ on_IN playing_NN ._SENT 
+The_DT 2012_CD silver_NN and_CC 2016_CD bronze_NN medalist_NN joined_VVD with_IN Alix_NP Klineman_NP to_TO beat_VV Ludwig_NP and_CC Maggie_NP Kozuch_NP 21-19_CD ,_, 21-19_CD on_IN Tuesday_NP ,_, leaving_VVG Ross_NP as_IN the_DT last_JJ woman_NN with_IN an_DT Olympic_NP medal_NN still_RB standing_VVG at_IN the_DT Shiokaze_JJ Park_NP beach_NN volleyball_NN venue_NN ._SENT 
+"_`` It_PP 's_VBZ not_RB like_JJ :_: 'Oh_NN ,_, I_PP have_VHP a_DT medal_NN ._SENT 
+So_RB ,_, you_PP know_VVP ,_, I_PP know_VVP how_WRB to_TO do_VV it_PP ,_, '_'' "_'' Ross_NP said_VVD ._SENT 
+"_`` We_PP just_RB have_VH to_TO fight_VV really_RB ,_, really_RB hard_JJ ._SENT 
+..._: So_RB we_PP 're_VBP stoked_VVN to_TO still_RB be_VB in_IN ,_, and_CC to_TO be_VB in_IN the_DT semis_NNS is_VBZ amazing_JJ ._SENT 
+"_'' The_DT victory_NN put_VVD the_DT Americans_NPS one_PP more_RBR win_VV away_RB from_IN a_DT medal_NN ._SENT 
+A_DT victory_NN in_IN the_DT semifinals_NNS against_IN Switzerland_NP would_MD clinch_VV at_IN worst_JJS a_DT silver_NN ;_: a_DT loss_NN would_MD put_VV them_PP in_IN the_DT third-place_NN match_NN ._SENT 
+"_'' Staying_VVG motivated_JJ is_VBZ really_RB easy_JJ at_IN this_DT point_NN ,_, at_IN this_DT stage_NN of_IN the_DT game_NN ,_, "_'' Klineman_NP said_VVD ._SENT 
+"_`` I_PP mean_VVP ,_, we_PP can_MD pretty_RB much_RB taste_VV a_DT medal_NN ._SENT 
+"_'' A_DT 41-year-old_JJ Californian_NP who_WP already_RB has_VHZ said_VVN she_PP is_VBZ eyeing_VVG the_DT 2024_CD Paris_NP Games_NPS ,_, Ross_NP inherited_VVD senior_JJ status_NN on_IN the_DT U._NP S._NP beach_NN volleyball_NN team_NN this_DT week_NN when_WRB first_JJ Dalhausser_NN ,_, then_RB Gibb_NP said_VVD after_IN they_PP were_VBD eliminated_VVN that_IN they_PP are_VBP going_VVG to_TO retire_VV ._SENT 
+But_CC there_EX 's_VBZ no_DT reason_NN for_IN Ross_NP to_TO think_VV about_IN the_DT future_NN --_: at_IN least_JJS not_RB beyond_IN Thursday_NP 's_POS semifinal_NN against_IN Switzerland_NP 's_POS Joana_NP Heidrich_NP and_CC Anouk_NP Verge-Depre_NP ,_, who_WP beat_VVD Brazil_NP 's_POS Rebecca_NP and_CC Ana_NP Patricia_NP 21-19_CD ,_, 18-21_CD ,_, 15-12_CD on_IN Tuesday_NP ._SENT 
+"_`` I_PP just_RB have_VHP no_DT answer_NN to_TO those_DT questions_NNS ,_, "_'' Ross_NP said_VVD ._SENT 
+"_`` I_PP 'm_VBP here_RB ._SENT 
+I_PP 'm_VBP feeling_VVG good_JJ and_CC ready_JJ to_TO keep_VV fighting_VVG ._SENT 
+"_'' And_CC this_DT time_NN she_PP has_VHZ the_DT 31-year-old_JJ Klineman_NN to_TO keep_VV her_PP$ young_JJ ._SENT 
+She_PP is_VBZ Ross_NP '_POS third_JJ partner_NN in_IN as_IN many_JJ Olympics_NNS ,_, and_CC the_DT first_JJ that_WDT is_VBZ younger_JJR ._SENT 
+"_`` I_PP 'm_VBP not_RB surprised_VVN at_IN her_PP$ success_NN ,_, "_'' Klineman_NP said_VVD ._SENT 
+"_`` I_PP train_VVP with_IN her_PP every_DT day_NN ,_, and_CC I_PP 'm_VBP around_RB her_PP all_PDT the_DT time_NN ._SENT 
+And_CC I_PP just_RB see_VVP how_WRB motivated_VVN and_CC driven_VVN she_PP is_VBZ in_IN all_DT aspects_NNS of_IN her_PP$ life_NN ._SENT 
+"_'' Klineman_NP said_VVD spending_VVG time_NN with_IN Ross_NP has_VHZ taught_VVN her_PP what_WP it_PP takes_VVZ to_TO have_VH sustained_VVN success_NN -_: not_RB just_RB not_RB during_IN practice_NN but_CC also_RB on_IN the_DT road_NN ,_, when_WRB Ross_NP might_MD be_VB reading_VVG a_DT book_NN about_IN improving_VVG one_PP 's_POS mindset_NN or_CC a_DT listening_NN to_TO a_DT podcast_NN about_IN recovery_NN after_IN working_VVG out_RP ._SENT 
+"_`` She_PP 's_VHZ taught_VVN me_PP a_DT lot_NN in_IN this_DT journey_NN ._SENT 
+And_CC so_RB I_PP 'm_VBP really_RB grateful_JJ to_TO be_VB by_IN her_PP$ side_NN ,_, "_'' Klineman_NP said_VVD ._SENT 
+"_`` She_PP was_VBD just_RB always_RB trying_VVG to_TO be_VB at_IN her_PP$ best_JJS ._SENT 
+And_CC so_RB I_PP do_VVP n't_RB think_VV it_PP 's_VBZ a_DT coincidence_NN that_IN she_PP 's_VHZ been_VBN here_RB three_CD times_NNS ._SENT 
+"_'' Ludwig_NP ,_, 35_CD ,_, opened_VVD her_PP$ fourth_JJ Olympics_NNS with_IN a_DT loss_NN to_TO Switzerland_NP ,_, but_CC then_RB beat_VV Japan_NP in_IN the_DT next_JJ match_NN of_IN the_DT round-robin_NN and_CC took_VVD the_DT third_JJ by_IN default_NN because_IN of_IN a_DT positive_JJ COVID-19_NN test_NN that_WDT sent_VVD the_DT Czechs_NNS home_NN from_IN Tokyo_NP ._SENT 
+She_PP and_CC Kozuch_NP beat_VVD Brazil_NP to_TO reach_VV the_DT quarterfinals_NNS ._SENT 
+They_PP led_VVD the_DT Americans_NPS by_IN three_CD points_NNS early_JJ on_IN and_CC still_RB had_VHD an_DT 18-17_CD lead_NN before_IN the_DT Americans_NPS took_VVD the_DT first_JJ set_NN ._SENT 
+In_IN the_DT second_NN ,_, Ross_NP and_CC Klineman_NP pulled_VVD away_RB after_IN a_DT 16-all_NN tie_NN ._SENT 
+For_IN Ludwig_NP ,_, who_WP took_VVD time_NN off_RP to_TO have_VH a_DT baby_NN after_IN the_DT Rio_NP de_NP Janeiro_NP Games_NPS ,_, the_DT struggle_NN was_VBD to_TO focus_VV on_IN these_DT Olympics_NPS and_CC not_RB what_WP she_PP had_VHD done_VVN in_IN the_DT past_NN ._SENT 
+"_`` It_PP 's_VBZ more_JJR about_IN the_DT pressure_NN from_IN yourself_PP ,_, because_IN you_PP achieved_VVD something_NN and_CC you_PP want_VVP to_TO achieve_VV the_DT same_JJ or_CC more_RBR ,_, "_'' she_PP said_VVD ._SENT 
+"_`` And_CC you_PP feel_VVP the_DT potential_NN and_CC want_VVP to_TO have_VH everything_NN ._SENT 
+But_CC it_PP 's_VBZ good_JJ to_TO stay_VV focused_VVN on_IN what_WP you_PP have_VHP now_RB and_CC reflect_VV what_WP is_VBZ possible_JJ now_RB ..._: and_CC not_RB think_VVP already_RB about_IN the_DT future_NN --_: what_WP could_MD have_VH been_VBN ,_, medal_NN or_CC not_RB ._SENT 
+I_PP think_VVP that_WDT makes_VVZ it_PP more_RBR difficult_JJ and_CC frustrating_JJ if_IN you_PP do_VVP n't_RB make_VV it_PP ._SENT 
+Foluke_NP Akinradewo_NP Gunderson_NP ,_, Jordan_NP Larson_NP headline_NN United_NP States_NP '_POS Olympic_NP volleyball_NN roster_NN COLORADO_NP SPRING_NN ,_, Colo._NP --_: Two-time_VVP medalists_NNS Foluke_NP Akinradewo_NP Gunderson_NP and_CC Jordan_NP Larson_NP headline_NN the_DT 12-player_NP U._NP S._NP women_NNS 's_POS volleyball_NN team_NN picked_VVD to_TO compete_VV at_IN the_DT Olympics_NPS in_IN Tokyo_NP ._SENT 
+Akinradewo_NP Gunderson_NP and_CC Larson_NP were_VBD part_NN of_IN the_DT U._NP S._NP team_NN that_WDT won_VVD a_DT silver_JJ medal_NN in_IN 2012_CD in_IN London_NP and_CC a_DT bronze_NN in_IN 2016_CD in_IN Rio_NP de_NP Janeiro_NP ._SENT 
+Coach_NP Karch_NP Kiraly_NP also_RB announced_VVD Monday_NP that_IN he_PP will_MD be_VB bringing_VVG back_RB outside_IN hitters_NNS Kim_NP Hill_NP and_CC Kelsey_NP Robinson_NP for_IN a_DT second_JJ straight_JJ Olympics_NNS ._SENT 
+The_DT other_JJ eight_CD members_NNS of_IN the_DT team_NN will_MD be_VB making_VVG their_PP$ first_JJ Olympic_JJ appearance_NN :_: outside_JJ hitter_NN Michelle_NP Bartsch-Hackley_NP ;_: opposites_NNS Annie_NP Drews_NP and_CC Jordan_NP Thompson_NP ;_: setters_NNS Micha_NP Hancock_NP and_CC Jordyn_NP Poulter_NP ;_: middles_VVZ Chiaka_NP Ogbogu_NP and_CC Haleigh_NP Washington_NP ;_: and_CC libero_NP Justine_NP Wong_NP Orantes_NP ._SENT 
+"_`` Each_DT one_CD of_IN the_DT 12_CD contributes_VVZ unique_JJ skills_NNS and_CC qualities_NNS that_WDT make_VVP her_PP the_DT right_JJ person_NN for_IN the_DT job_NN ,_, "_'' Kiraly_NP said_VVD ._SENT 
+"_`` This_DT collection_NN of_IN special_JJ people_NNS who_WP are_VBP elite_JJ volleyball_NN players_NNS is_VBZ poised_VVN to_TO make_VV a_DT fierce_JJ Olympic_JJ run_NN ._SENT 
+We_PP ca_MD n't_RB wait_VV to_TO watch_VV them_PP 'Let_VV It_PP Rip_NP '_POS in_IN Tokyo_NP ._SENT 
+"_`` The_DT U._NP S._NP women_NNS 's_POS team_NN is_VBZ currently_RB ranked_VVN No._NN 1_CD in_IN the_DT world_NN and_CC is_VBZ hoping_VVG to_TO win_VV its_PP$ first_JJ Olympic_JJ gold_NN ever_RB ._SENT 
+The_DT women_NNS 's_POS volleyball_NN competition_NN will_MD begin_VV July_NP 24._CD The_DT average_NN age_NN of_IN the_DT roster_NN is_VBZ 25_CD with_IN more_JJR than_IN a_DT decade_NN span_NN between_IN the_DT 34-year-old_JJ Larson_NP and_CC 23-year-old_NP Poulter_NP ._SENT 
+Kiraly_RB ,_, a_DT three-time_JJ Olympic_JJ gold_NN medalist_NN ,_, will_MD be_VB coaching_NN his_PP$ second_JJ Olympics_NNS after_IN helping_VVG the_DT U._NP S._NP women_NNS win_VVP bronze_NN in_IN 2016._CD His_PP$ assistant_JJ coaches_NNS ,_, Erin_NP Virtue_NP ,_, Tama_NP Miyashiro_NP and_CC Luka_NP Slabe_NP ,_, will_MD all_RB be_VB coaching_NN at_IN the_DT Olympics_NPS for_IN the_DT first_JJ time_NN ._SENT 
+Miyashiro_NP won_VVD a_DT silver_JJ medal_NN with_IN the_DT U._NP S._NP as_IN a_DT player_NN in_IN 2012_CD in_IN London_NP ._SENT 
+The_DT six_CD Olympic_JJ alternates_NNS are_VBP setter_NN Lauren_NP Carlini_NP ;_: outside_JJ hitters_NNS Kathryn_NP Plummer_NP and_CC Sarah_NP Wilhite_NP Parsons_NP ;_: middle_JJ blockers_NNS Tori_NP Dixon_NP and_CC Hannah_NP Tapp_NP ;_: and_CC libero_NP Megan_NP Courtney_NP ._SENT 
+U._NP S._NP women_NNS top_JJ Brazil_NP to_TO capture_VV first_JJ Olympic_JJ volleyball_NN gold_NN TOKYO_NP --_: Jordan_NP Larson_NP fell_VVD to_TO the_DT floor_NN ,_, put_VVD her_PP$ head_NN in_IN her_PP$ hands_NNS and_CC cried_VVN after_IN Brazil_NP could_MD n't_RB return_VV her_PP$ spike_NN on_IN match_NN point_NN ._SENT 
+The_DT frustration_NN of_IN being_VBG so_RB close_JJ but_CC not_RB quite_RB good_JJ enough_RB was_VBD replaced_VVN by_IN a_DT feeling_NN of_IN relief_NN after_IN the_DT U._NP S._NP women_NNS 's_POS volleyball_NN team_NN finally_RB claimed_VVD Olympic_JJ gold_NN with_IN a_DT 25-21_CD ,_, 25-20_CD ,_, 25-14_CD victory_NN over_IN Brazil_NP on_IN Sunday_NP ._SENT 
+"_`` I_PP 'm_VBP just_RB still_RB in_IN a_DT state_NN of_IN shock_NN ,_, "_'' Larson_NP said_VVD ._SENT 
+"_`` I_PP cried_VVD more_JJR in_IN the_DT last_JJ 24_CD hours_NNS than_IN I_PP think_VVP I_PP have_VHP in_IN my_PP$ career_NN ._SENT 
+I_PP 'm_VBP not_RB an_DT emotional_JJ player_NN ,_, an_DT emotional_JJ person_NN ._SENT 
+But_CC I_PP think_VVP just_RB the_DT emotions_NNS got_VVD the_DT best_JJS of_IN me_PP ._SENT 
+I_PP 'm_VBP now_RB in_IN kind_NN of_IN this_DT euphoria_NN ,_, a_DT state_NN of_IN shock_NN ._SENT 
+"_`` The_DT United_NP States_NPS ,_, which_WDT had_VHD won_VVN three_CD silver_NN medals_NNS and_CC two_CD bronze_NN since_IN first_RB getting_VVG on_IN the_DT medal_NN stand_NN in_IN 1984_CD ,_, got_VVD to_TO the_DT top_JJ step_NN by_IN beating_VVG the_DT team_NN that_WDT denied_VVD it_PP a_DT chance_NN at_IN gold_NN in_IN the_DT final_JJ match_NN of_IN the_DT 2008_CD and_CC 2012_CD Olympics_NNS ._SENT 
+Larson_NP ,_, who_WP was_VBD part_NN of_IN that_DT silver-winning_VVG team_NN in_IN 2012_CD and_CC the_DT bronze_NN medal_NN team_NN five_CD years_NNS ago_RB ,_, paved_VVD the_DT way_NN with_IN her_PP$ leadership_NN on_IN the_DT court_NN and_CC her_PP$ strong_JJ play_NN on_IN the_DT attack_NN and_CC on_IN defense_NN ._SENT 
+Larson_NP and_CC middle_JJ blocker_NN Foluke_NP Akinradewo_NP Gunderson_NP ,_, who_WP both_CC came_VVD back_RB for_IN a_DT third_JJ Olympics_NNS after_IN falling_VVG short_JJ in_IN Rio_NP de_NP Janeiro_NP ,_, now_RB have_VHP a_DT complete_JJ medal_NN collection_NN following_VVG what_WP is_VBZ expected_VVN to_TO be_VB the_DT final_JJ Olympic_JJ match_NN of_IN their_PP$ careers_NNS ._SENT 
+"_`` I_PP could_MD n't_RB write_VV a_DT better_JJR story_NN for_IN her_PP ,_, "_`` setter_NN Jordy_NP Poulter_NP said_VVD about_IN Larson_NP delivering_VVG the_DT winning_JJ point_NN ._SENT 
+"_`` Her_PP and_CC Foluke_NP have_VHP put_VVN so_RB much_JJ time_NN into_IN this_DT program_NN and_CC been_VBN through_IN thick_JJ and_CC thin_JJ ._SENT 
+To_TO be_VB on_IN this_DT journey_NN with_IN them_PP has_VHZ been_VBN incredible_JJ ._SENT 
+"_'' The_DT victory_NN also_RB allowed_VVD U._NP S._NP coach_NN Karch_NP Kiraly_NP to_TO join_VV Lang_NP Ping_NP of_IN China_NP as_IN the_DT second_JJ person_NN to_TO win_VV gold_NN as_IN a_DT volleyball_NN player_NN and_CC then_RB lead_VV a_DT country_NN to_TO gold_NN as_IN coach_NN ._SENT 
+Kiraly_NP won_VVD gold_NN indoor_JJ as_IN a_DT player_NN in_IN 1984_CD and_CC 1988._CD He_PP also_RB won_VVD gold_NN in_IN beach_NN volleyball_NN in_IN 1996._CD But_CC he_PP said_VVD this_DT was_VBD more_RBR gratifying_JJ because_IN of_IN how_WRB tough_JJ a_DT process_NN it_PP has_VHZ been_VBN since_IN he_PP joined_VVD the_DT staff_NN as_IN an_DT assistant_NN before_IN the_DT 2012_CD Olympics_NPS and_CC took_VVD over_RP as_IN head_NN coach_NN before_IN 2016._CD "_`` The_DT goal_NN here_RB was_VBD not_RB to_TO help_VV Karch_NP win_VV a_DT fourth_JJ gold_NN medal_NN ._SENT 
+The_DT goal_NN was_VBD to_TO help_VV the_DT USA_NP women_NNS become_VVP Olympic_JJ champions_NNS ,_, "_'' he_PP said_VVD ._SENT 
+"_`` It_PP was_VBD more_RBR powerful_JJ in_IN some_DT ways_NNS for_IN me_PP today_NN than_IN when_WRB I_PP was_VBD a_DT player_NN ,_, because_IN the_DT first_JJ Olympics_NNS I_PP played_VVD in_IN ,_, we_PP won_VVD ._SENT 
+We_PP did_VVD n't_RB come_VV close_NN and_CC lose_VV ,_, come_VV close_VV and_CC lose_VV ,_, come_VV close_VV and_CC fall_VV short_JJ ._SENT 
+It_PP makes_VVZ it_PP taste_VVP and_CC feel_VVP much_RB more_RBR special_JJ when_WRB you_PP go_VVP through_IN the_DT hard_JJ times_NNS ._SENT 
+"_`` The_DT U._NP S._NP got_VVD off_RP to_TO a_DT fast_JJ start_NN by_IN scoring_VVG the_DT first_JJ four_CD points_NNS behind_IN strong_JJ attacking_NN by_IN Michelle_NP Bartsch-Hackley_NP ._SENT 
+It_PP never_RB trailed_VVD in_IN the_DT opener_NN ,_, winning_VVG it_PP 25-21_CD on_IN a_DT soft_JJ shot_NN by_IN Bartsch-Hackley_NP that_WDT gave_VVD her_PP$ eight_CD points_NNS in_IN the_DT set_NN ._SENT 
+That_DT pattern_NN continued_VVD the_DT next_JJ two_CD sets_NNS as_IN the_DT U._NP S._NP ended_VVD up_RP winning_VVG all_DT nine_CD sets_NNS in_IN the_DT knockout_NN round_NN ._SENT 
+The_DT match_NN then_RB ended_VVN in_IN fitting_JJ style_NN with_IN a_DT kill_NN by_IN Larson_NP ,_, leading_VVG to_TO the_DT tearful_JJ hug_NN among_IN the_DT players_NNS on_IN the_DT court_NN ._SENT 
+"_'' A_DT lot_NN of_IN people_NNS had_VHD to_TO sacrifice_VV a_DT lot_NN for_IN us_PP to_TO be_VB here_RB and_CC had_VHD to_TO learn_VV along_IN the_DT way_NN ,_, "_'' Larson_NP said_VVD ._SENT 
+"_`` We_PP had_VHD to_TO learn_VV that_IN in_IN London_NP and_CC in_IN Rio_NP that_IN we_PP just_RB were_VBD n't_RB enough_RB at_IN that_DT point_NN ._SENT 
+Did_VVD we_PP believe_VVP it_PP in_IN that_DT moment_NN ?_SENT 
+Absolutely_RB ._SENT 
+We_PP had_VHD to_TO go_VV one_CD extra_JJ step_NN to_TO figure_VV it_PP out_RP ._SENT 
+"_'' The_DT journey_NN to_TO this_DT stage_NN has_VHZ been_VBN a_DT long_JJ one_CD for_IN a_DT U._NP S._NP women_NNS 's_POS team_NN that_WDT started_VVD more_JJR than_IN 40_CD years_NNS ago_RB when_WRB the_DT 1980_CD Olympic_NP squad_NN made_VVD the_DT decision_NN to_TO begin_VV year-round_JJ training_NN ,_, only_RB to_TO get_VV denied_VVN the_DT opportunity_NN to_TO compete_VV because_IN of_IN a_DT U._NP S._NP -led_JJ boycott_NN of_IN the_DT Moscow_NP Games_NPS ._SENT 
+But_CC the_DT foundation_NN had_VHD been_VBN put_VVN in_IN place_NN ,_, and_CC the_DT Americans_NPS have_VHP won_VVN six_CD medals_NNS in_IN the_DT past_JJ 10_CD Olympics_NNS and_CC now_RB finally_RB have_VH their_PP$ gold_NN ._SENT 
+Brazil_NP had_VHD won_VVN gold_NN in_IN either_DT men_NNS 's_POS or_CC women_NNS 's_POS indoor_JJ volleyball_NN in_IN four_CD straight_JJ Olympics_NNS ,_, with_IN the_DT men_NNS claiming_VVG the_DT title_NN in_IN 2004_CD and_CC 2016_CD and_CC the_DT women_NNS in_IN 2008_CD and_CC 2012._CD But_CC it_PP will_MD leave_VV only_RB with_IN a_DT silver_NN this_DT year_NN ,_, after_IN the_DT women_NNS lost_VVN for_IN the_DT first_JJ time_NN in_IN Tokyo_NP following_VVG seven_CD straight_JJ wins_NNS ._SENT 
+The_DT men_NNS lost_VVD a_DT semifinal_NN match_NN to_TO the_DT Russians_NPS and_CC then_RB the_DT bronze_NN medal_NN game_NN against_IN Argentina_NP ._SENT 
+"_`` The_DT first_JJ feeling_NN that_WDT comes_VVZ to_TO mind_VV is_VBZ a_DT feeling_NN of_IN sadness_NN ,_, "_'' Brazilian_JJ outside_JJ hitter_NN Gabi_NP Guimar_NP ?_SENT 
+es_NP said_VVD ._SENT 
+"_`` We_PP could_MD not_RB implement_VV the_DT tactics_NNS that_IN we_PP had_VHD been_VBN implementing_VVG in_IN previous_JJ games_NNS ._SENT 
+"_'' Brazil_NP played_VVD the_DT match_NN short-handed_JJ after_IN outside_JJ hitter_NN Tandara_NP Caixeta_NP was_VBD sent_VVN home_NN before_IN the_DT semifinals_NNS following_VVG her_PP$ suspension_NN for_IN a_DT potential_JJ violation_NN of_IN anti-doping_VVG rules_NNS ._SENT 
+Tandara_NP 's_POS lawyer_NN said_VVD a_DT banned_VVN substance_NN found_VVN in_IN a_DT July_NP test_NN was_VBD introduced_VVN accidentally_RB into_IN her_PP$ system_NN ._SENT 
+In_IN the_DT bronze_NN medal_NN game_NN ,_, Serbia_NP beat_VVD South_NP Korea_NP 25-18_CD ,_, 25-15_CD ,_, 25-15_CD to_TO go_VV home_NN with_IN a_DT women_NNS 's_POS volleyball_NN medal_NN for_IN the_DT second_JJ straight_JJ Olympics_NNS ._SENT 
+The_DT Serbians_NP won_VVD silver_NN in_IN 2016_CD for_IN their_PP$ first_JJ medal_NN in_IN the_DT sport_NN ._SENT 
+Frustration_NN mounts_VVZ for_IN U._NP S._NP men_NNS 's_POS volleyball_NN after_IN Tokyo_NP Olympics_NPS loss_NN to_TO Brazil_NP TOKYO_NP --_: A_DT serve_VVP at_IN a_DT key_JJ moment_NN going_VVG into_IN the_DT net_NN ._SENT 
+Blocking_VVG strategy_NN that_WDT was_VBD poorly_RB executed_VVN ._SENT 
+Attacks_NNS that_WDT could_MD n't_RB get_VV through_IN Brazil_NP 's_POS defense_NN at_IN the_DT net_NN ._SENT 
+Those_DT kinds_NNS of_IN mistakes_NNS left_VVD the_DT usually_RB calm_JJ U._NP S._NP men_NNS 's_POS volleyball_NN coach_NN John_NP Speraw_NN bewildered_VVN on_IN the_DT sideline_NN and_CC knowing_VVG the_DT Americans_NPS can_MD ill_RB afford_VV any_DT more_JJR setbacks_NNS following_VVG a_DT four-set_JJ loss_NN to_TO Brazil_NP in_IN pool_NN play_NN on_IN Friday_NP ._SENT 
+"_`` I_PP was_VBD pretty_RB frustrated_VVN today_NN ,_, "_'' Speraw_NNS said_VVD ._SENT 
+"_`` We_PP really_RB were_VBD n't_RB executing_VVG ,_, and_CC that_WDT can_MD get_VV frustrating_JJ when_WRB we_PP 're_VBP not_RB executing_VVG ._SENT 
+That_DT 's_VBZ something_NN that_IN I_PP expect_VVP ._SENT 
+If_IN we_PP say_VVP we_PP 're_VBP going_VVG to_TO do_VV this_DT ,_, we_PP need_VVP to_TO go_VV do_VV that_DT ._SENT 
+"_'' After_IN pulling_VVG out_RP a_DT grueling_JJ opening_NN set_VVD 32-30_CD ,_, the_DT Americans_NPS dropped_VVD the_DT next_JJ three_CD to_TO Brazil_NP 25-23_CD ,_, 25-21_CD ,_, 25-20_CD ._SENT 
+The_DT loss_NN leaves_VVZ the_DT U._NP S._NP with_IN a_DT 2-2_CD record_NN with_IN one_CD match_NN remaining_VVG in_IN pool_NN play_NN on_IN Sunday_NP against_IN Argentina_NP ._SENT 
+Defending_VVG gold_NN medalist_NN Brazil_NP is_VBZ 3-1_CD ._SENT 
+"_`` I_PP do_VVP n't_RB think_VV the_DT match_NN was_VBD really_RB one-sided_JJ ,_, "_'' American_NP Matt_NP Anderson_NP said_VVD ._SENT 
+"_`` They_PP got_VVD a_DT couple_NN of_IN runs_NNS here_RB and_CC there_RB ._SENT 
+But_CC I_PP think_VVP we_PP were_VBD able_JJ to_TO shut_VV down_RP their_PP$ runs_NNS early_RB on_IN the_DT first_JJ set_NN ,_, and_CC that_WDT gave_VVD us_PP a_DT chance_NN ._SENT 
+But_CC in_IN the_DT second_JJ ,_, third_JJ and_CC fourth_JJ ,_, they_PP put_VVD aside_RP a_DT few_JJ strings_NNS of_IN points_NNS together_RB that_WDT were_VBD hard_JJ to_TO come_VV back_RB from_IN ._SENT 
+"_`` The_DT U._NP S._NP can_MD clinch_VV a_DT spot_NN in_IN the_DT quarterfinals_NNS with_IN a_DT win_NN against_IN Argentina_NP ,_, giving_VVG it_PP a_DT chance_NN to_TO win_VV another_DT medal_NN after_IN getting_VVG bronze_NN five_CD years_NNS ago_RB in_IN Rio_NP de_NP Janeiro_NP ._SENT 
+A_DT loss_NN would_MD likely_RB send_VV the_DT Americans_NPS home_NN after_IN pool_NN play_NN for_IN the_DT first_JJ time_NN since_IN 2000_CD ,_, when_WRB they_PP lost_VVD all_DT five_CD matches_NNS in_IN Sydney_NP ._SENT 
+A_DT key_JJ aspect_NN in_IN the_DT loss_NN to_TO Brazil_NP again_RB was_VBD the_DT serves_VVZ ._SENT 
+While_IN Brazil_NP managed_VVD seven_CD aces_NNS and_CC just_RB eight_CD service_NN errors_NNS ,_, the_DT Americans_NPS struggled_VVD to_TO keep_VV their_PP$ serves_VVZ in_IN ._SENT 
+The_DT U._NP S._NP ,_, which_WDT came_VVD into_IN the_DT day_NN with_IN the_DT most_JJS faults_NNS in_IN the_DT tournament_NN (_( 62_CD )_) ,_, committed_VVD 21_CD more_JJR against_IN Brazil_NP ,_, with_IN several_JJ coming_VVG at_IN key_JJ times_NNS ._SENT 
+Two_CD came_VVD on_IN set_VVN points_NNS in_IN the_DT first_JJ set_NN that_IN the_DT Americans_NPS were_VBD able_JJ to_TO overcome_VV ,_, but_CC others_NNS ended_VVD up_RP killing_VVG rallies_NNS in_IN the_DT later_JJR sets_NNS as_IN the_DT U._NP S._NP tried_VVD to_TO put_VV together_RB some_DT scoring_VVG runs_VVZ to_TO erase_VV deficits_NNS ._SENT 
+"_`` I_PP think_VVP our_PP$ servers_NNS have_VHP the_DT ability_NN to_TO be_VB the_DT best_JJS serving_VVG team_NN in_IN the_DT world_NN ,_, "_'' Anderson_NP said_VVD ._SENT 
+"_`` Honestly_RB ,_, I_PP do_VVP ._SENT 
+We_PP have_VHP guys_NNS who_WP can_MD absolutely_RB rip_VV the_DT ball_NN and_CC guys_NNS with_IN great_JJ variety_NN who_WP can_MD move_VV the_DT ball_NN around_RB ._SENT 
+Hats_NNS off_RB to_TO Brazil_NP today_NN ._SENT 
+I_PP think_VVP when_WRB we_PP served_VVD really_RB hard_JJ today_NN ,_, they_PP defended_VVD those_DT balls_NNS and_CC passed_VVD it_PP really_RB well_RB ._SENT 
+"_'' Speraw_NNS said_VVD it_PP is_VBZ always_RB a_DT delicate_JJ balance_NN whether_IN to_TO be_VB aggressive_JJ on_RB serves_VVZ ,_, knowing_VVG that_IN not_RB going_VVG for_IN it_PP can_MD create_VV easy_JJ chances_NNS for_IN the_DT opponent_NN ._SENT 
+Anderson_NP said_VVD there_EX 's_VBZ no_DT reason_NN to_TO let_VV up_RP just_RB to_TO avoid_VV errors_NNS ._SENT 
+"_`` We_PP have_VHP to_TO be_VB aggressive_JJ ,_, "_'' he_PP said_VVD ._SENT 
+"_`` Giving_VVG teams_NNS free_JJ balls_NNS is_VBZ not_RB a_DT way_NN to_TO win_VV at_IN the_DT Olympics_NPS ._SENT 
+"_'' In_IN other_JJ results_NNS ,_, Canada_NP swept_VVD winless_JJ Venezuela_NP for_IN its_PP$ second_JJ victory_NN in_IN four_CD matches_NNS in_IN Pool_NP A._NP Poland_NP improved_VVD to_TO 3-1_CD with_IN a_DT win_NN over_IN host_NN Japan_NP ,_, which_WDT fell_VVD to_TO 2-2_CD ._SENT 
+Italy_NP is_VBZ also_RB 3-1_CD after_IN beating_VVG Iran_NP in_IN four_CD sets_NNS ,_, handing_VVG the_DT Iranians_NNS their_PP$ second_JJ loss_NN ._SENT 
+Argentina_NP (_( 2-2_CD )_) rallied_VVD from_IN two_CD sets_NNS down_RB to_TO beat_VV Tunisia_NP (_( 0-4_CD )_) in_IN another_DT Pool_NP B_NP match_NN ,_, and_CC France_NP (_( 2-2_CD )_) beat_VVP ROC_NN (_( 3-1_CD )_) in_IN four_CD sets_NNS ._SENT 
+United_NP States_NPS men_NNS 's_POS volleyball_NN team_NN handed_VVD early_JJ Olympic_NP elimination_NN TOKYO_NP --_: Micah_NP Christenson_NP gave_VVD coach_NN John_NP Speraw_VVD a_DT long_JJ ,_, tearful_JJ embrace_VV as_IN his_PP$ U._NP S._NP men_NNS 's_POS volleyball_NN teammates_NNS slumped_VVN on_IN the_DT floor_NN and_CC the_DT victorious_JJ Argentinians_NNS celebrated_VVD ._SENT 
+Instead_RB of_IN building_NN on_IN the_DT bronze_NN medal_NN won_VVN in_IN Rio_NP de_NP Janeiro_NP five_CD years_NNS ago_RB ,_, the_DT Americans_NPS are_VBP going_VVG home_RB early_RB from_IN the_DT Olympics_NPS for_IN the_DT first_JJ time_NN in_IN more_JJR than_IN 20_CD years_NNS ._SENT 
+"_`` It_PP 's_VBZ heartbreaking_JJ ,_, "_'' Christenson_NP said_VVD after_IN the_DT straight-set_JJ loss_NN to_TO Argentina_NP on_IN Sunday_NP night_NN denied_VVD the_DT U._NP S._NP a_DT spot_NN in_IN the_DT quarterfinals_NNS ._SENT 
+"_'' We_PP worked_VVD really_RB hard_JJ for_IN this_DT ._SENT 
+We_PP delayed_VVD another_DT year_NN to_TO work_VV as_RB hard_JJ as_IN we_PP could_MD for_IN this_DT ._SENT 
+This_DT is_VBZ n't_RB the_DT way_NN we_PP wanted_VVD to_TO finish_VV plain_JJ and_CC simple_JJ ._SENT 
+It_PP 's_VBZ heartbreaking_JJ ._SENT 
+"_'' The_DT Americans_NPS won_VVD two_CD of_IN their_PP$ first_JJ three_CD matches_NNS in_IN Tokyo_NP before_IN losing_VVG to_TO Brazil_NP and_CC Argentina_NP to_TO fall_VV to_TO fifth_JJ place_NN in_IN Pool_NP B_NP and_CC miss_VV out_RP on_IN the_DT quarterfinals_NNS for_IN the_DT first_JJ time_NN since_IN losing_VVG all_DT five_CD matches_NNS in_IN Sydney_NP 21_CD years_NNS ago_RB ._SENT 
+The_DT U._NP S._NP brought_VVD eight_CD players_NNS back_RB from_IN the_DT team_NN that_WDT won_VVD bronze_NN in_IN 2016_CD ,_, but_CC never_RB got_VVD back_RB into_IN top_JJ form_NN following_VVG the_DT long_JJ break_NN because_IN of_IN the_DT COVID-19_JJ pandemic_NN ._SENT 
+The_DT Americans_NPS struggled_VVD in_IN a_DT tune-up_NNS tournament_NN in_IN Italy_NP ,_, and_CC that_WDT did_VVD n't_RB change_VV in_IN Tokyo_NP ._SENT 
+They_PP started_VVD off_RP well_RB by_IN sweeping_VVG France_NP in_IN the_DT opener_NN but_CC lost_VVD three_CD of_IN their_PP$ last_JJ four_CD matches_NNS ._SENT 
+"_`` It_PP 's_VBZ next_JJ to_TO impossible_JJ to_TO process_VV it_PP right_RB now_RB ,_, "_'' said_VVD Matt_NP Anderson_NP after_IN his_PP$ third_JJ Olympics_NPS ._SENT 
+"_`` It_PP will_MD be_VB a_DT hard_JJ couple_NN of_IN weeks_NNS after_IN this_DT tournament_NN thinking_VVG about_IN it_PP ._SENT 
+I_PP think_VVP that_WDT 's_VBZ part_NN of_IN our_PP$ process_NN as_IN athletes_NNS and_CC what_WP we_PP 're_VBP forced_VVN to_TO do_VV when_WRB something_NN means_VVZ this_DT much_JJ to_TO you_PP ._SENT 
+It_PP 's_VBZ going_VVG to_TO hurt_VV ._SENT 
+It_PP takes_VVZ time_NN to_TO process_VV that_IN and_CC move_VV on_RP ._SENT 
+"_'' Argentina_NP battled_VVD back_RB after_IN losing_VVG the_DT first_JJ two_CD matches_NNS of_IN the_DT Olympics_NPS to_TO advance_VV as_IN the_DT third-place_NN team_NN in_IN Pool_NP B_NP with_IN three_CD straight_JJ wins_NNS ._SENT 
+Argentina_NP will_MD play_VV Italy_NP in_IN the_DT quarterfinals_NNS on_IN Tuesday_NP ._SENT 
+Argentina_NP took_VVD advantage_NN of_IN the_DT Americans_NPS faulting_VVG on_IN five_CD of_IN their_PP$ final_JJ six_CD serves_VVZ late_RB in_IN the_DT third_JJ set_NN to_TO close_VV out_RP the_DT match_NN ._SENT 
+Christenson_NP 's_POS serve_VVP into_IN the_DT net_NN at_IN 23-all_NP gave_VVD Argentina_NP match_NN point_NN ._SENT 
+The_DT match_NN ended_VVD when_WRB Taylor_NP Sander_NP 's_POS block_NN went_VVD wide_JJ ._SENT 
+The_DT errant_JJ serves_VVZ were_VBD a_DT recurring_VVG problem_NN all_DT Olympics_NPS as_IN the_DT U._NP S._NP had_VHD the_DT most_JJS serve_VVP errors_NNS with_IN 97_CD ,_, including_VVG several_JJ at_IN key_JJ moments_NNS late_JJ in_IN sets_NNS ._SENT 
+"_'' It_PP makes_VVZ me_PP wonder_VVP if_IN they_PP were_VBD just_RB trying_VVG to_TO do_VV too_RB much_RB in_IN that_DT moment_NN ,_, "_'' Speraw_NNS said_VVD ._SENT 
+The_DT U._NP S._NP was_VBD fighting_VVG uphill_RB nearly_RB all_DT game_NN ._SENT 
+Argentina_NP was_VBD the_DT better_JJR serving_VVG team_NN early_RB ,_, getting_VVG three_CD aces_NNS from_IN Facundo_NP Conte_NP in_IN the_DT opening_NN set_VVD to_TO pull_VV it_PP out_IN 25-21_CD ._SENT 
+The_DT U._NP S._NP scored_VVD five_CD straight_JJ points_NNS to_TO go_VV up_RP 21-19_CD in_IN the_DT second_JJ set_NN but_CC could_MD n't_RB close_VV it_PP out_RP ._SENT 
+Bruno_NP Lima_NP 's_POS spike_NN after_IN a_DT long_JJ rally_NN gave_VVD the_DT Argentina_NN a_DT set_VVN point_NN and_CC it_PP closed_VVD it_PP out_RP on_IN a_DT block_NN by_IN Martin_NP Ramos_NP against_IN TJ_NP DeFalco_NP ._SENT 
+The_DT U._NP S._NP then_RB could_MD n't_RB close_VV out_RP the_DT third_JJ set_NN and_CC now_RB heads_VVZ home_RB early_JJ ._SENT 
+"_'' This_DT team_NN is_VBZ a_DT great_JJ team_NN ,_, "_'' Speraw_NNS said_VVD ._SENT 
+"_`` I_PP honestly_RB just_RB feel_VV like_IN we_PP could_MD go_VV win_VV the_DT world_NN championships_NNS next_JJ year_NN ._SENT 
+It_PP 's_VBZ obviously_RB not_RB worth_JJ thinking_NN about_RB right_RB now_RB ,_, but_CC we_PP 're_VBP just_RB going_VVG to_TO have_VH to_TO learn_VV and_CC gain_VV from_IN this_DT experience_NN ._SENT 
+It_PP 's_VBZ all_DT you_PP can_MD do_VV right_RB now_RB ._SENT 
+"_'' Earlier_RBR in_IN the_DT day_NN ,_, France_NP forced_VVD Brazil_NP into_IN five_CD sets_NNS before_IN losing_VVG 20-18_CD in_IN the_DT fifth_JJ ._SENT 
+But_CC by_IN gaining_VVG one_CD point_NN in_IN the_DT match_NN thanks_NNS in_IN part_NN to_TO an_DT epic_NN 39-37_CD win_NN in_IN the_DT second_JJ set_NN ,_, the_DT French_NP clinched_VVD a_DT spot_NN in_IN the_DT quarterfinals_NNS as_IN the_DT fourth-place_NN team_NN in_IN Pool_NP B._NP The_DT Russian_NP Olympic_NP Committee_NP team_NN took_VVD first_JJ place_NN in_IN the_DT pool_NN ahead_RB of_IN Brazil_NP after_IN sweeping_VVG Tunisia_NP ._SENT 
+The_DT other_JJ quarterfinal_NN spot_NN was_VBD decided_VVN when_WRB host_NN Japan_NP beat_VVD Iran_NP in_IN five_CD sets_NNS to_TO claim_VV third_JJ place_NN in_IN Pool_NP A._NP Japan_NP will_MD play_VV Brazil_NP in_IN the_DT quarterfinals_NNS ._SENT 
+Poland_NP swept_VVD Canada_NP to_TO improve_VV to_TO 4-1_CD in_IN the_DT tournament_NN and_CC win_VV the_DT pool_NN ,_, earning_VVG a_DT matchup_NN against_IN France_NP on_IN Tuesday_NP ._SENT 
+The_DT Canadians_NNS still_RB advanced_VVD as_IN the_DT fourth-place_NN team_NN in_IN the_DT pool_NN and_CC will_MD play_VV the_DT Russians_NPS in_IN the_DT quarters_NNS ._SENT 
+Italy_NP swept_VVD Tunisia_NP to_TO finish_VV second_JJ in_IN Pool_NP A._NP 

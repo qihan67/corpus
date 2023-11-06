@@ -1,0 +1,86 @@
+Canada_NP wins_VVZ gold_NN in_IN rowing_NN women_NNS 's_VBZ eight_CD at_IN Tokyo_NP Olympics_NPS ;_: U._NP S._NP finishes_VVZ fourth_JJ Canada_NP won_VVD the_DT rowing_NN women_NNS 's_POS eight_CD gold_NN medal_NN at_IN the_DT Tokyo_NP Olympics_NPS ,_, storming_VVG to_TO an_DT early_JJ lead_NN and_CC holding_NN off_IN New_NP Zealand_NP over_IN the_DT final_JJ 200_CD meters_NNS on_IN Thursday_NP ._SENT 
+The_DT victory_NN ended_VVD American_JJ dominance_NN in_IN the_DT event_NN ._SENT 
+The_DT U._NP S._NP had_VHD won_VVN three_CD consecutive_JJ Olympic_JJ gold_NN medals_NNS but_CC fell_VVD to_TO fourth_JJ at_IN the_DT Sea_NP Forest_NP Waterway_NN ._SENT 
+The_DT Americans_NPS were_VBD dropped_VVN by_IN the_DT leaders_NNS early_RB and_CC were_VBD never_RB in_IN medal_NN position_NN for_IN the_DT entire_JJ race_NN ._SENT 
+China_NP finished_VVD third_JJ for_IN the_DT bronze_NN medal_NN ._SENT 
+Canada_NP won_VVD its_PP$ first_JJ gold_NN medal_NN in_IN women_NNS 's_POS rowing_NN since_IN 1996._CD "_`` I_PP just_RB really_RB believed_VVN in_IN our_PP$ boat_NN ._SENT 
+The_DT women_NNS really_RB believed_VVN in_IN me_PP ,_, "_`` Canadian_JJ coxswain_NN Kristin_NP Kit_NP said_VVD ._SENT 
+"_`` The_DT strength_NN of_IN this_DT crew_NN showed_VVD through_RP ,_, because_IN every_DT time_NN I_PP made_VVD a_DT move_NN call_NN it_PP responded_VVD ._SENT 
+"_`` Teammate_NN Kasia_NP Gruchalla-Wesierski_NP marveled_VVD at_IN just_RB being_VBG on_IN the_DT medal_NN podium_NN ._SENT 
+She_PP had_VHD been_VBN injured_VVN in_IN a_DT serious_JJ bicycle_NN crash_NN shortly_RB before_IN the_DT Olympic_NP team_NN was_VBD selected_VVN ._SENT 
+"_'' Six_CD weeks_NNS ago_RB I_PP was_VBD told_VVD I_PP was_VBD lucky_JJ to_TO be_VB alive_JJ ,_, and_CC when_WRB they_PP made_VVD the_DT team_NN announcements_NNS I_PP was_VBD literally_RB limping_VVG out_RP of_IN the_DT hospital_NN with_IN a_DT broken_VVN collarbone_NN ,_, "_'' she_PP said_VVD ._SENT 
+"_`` I_PP just_RB ca_MD n't_RB believe_VV I_PP 'm_VBP here_RB ._SENT 
+"_'' New_NP Zealand_NP held_VVD off_RP a_DT late_JJ charge_NN from_IN Germany_NP over_IN the_DT final_JJ 250_CD meters_NNS to_TO win_VV ._SENT 
+The_DT Kiwi_NN boat_NN beat_VVD the_DT Germans_NPS by_IN 0.96_CD seconds_NNS ._SENT 
+Great_NP Britain_NP rallied_VVD late_RB to_TO take_VV bronze_NN in_IN the_DT men_NNS 's_POS eight_CD ._SENT 
+"_`` The_DT way_NN that_IN we_PP were_VBD rowing_NN it_PP was_VBD long_JJ and_CC strong_JJ ._SENT 
+It_PP did_VVD n't_RB feel_VV hectic_JJ in_IN my_PP$ seat_NN ._SENT 
+It_PP was_VBD a_DT comfortable_JJ ride_NN ,_, "_'' said_VVD Hamish_NP Bond_NP of_IN New_NP Zealand_NP ._SENT 
+The_DT U._NP S._NP finished_VVD fourth_JJ ,_, leaving_VVG American_JJ rowers_NNS without_IN a_DT medal_NN in_IN Tokyo_NP ._SENT 
+New_NP Zealand_NP 's_POS Emma_NP Twigg_NP won_VVD gold_NN ,_, bolting_VVG to_TO an_DT early_JJ lead_NN ,_, then_RB finished_VVD with_IN a_DT surge_NN over_IN the_DT final_JJ 500_CD meters_NNS to_TO dominate_VV ._SENT 
+Twigg_NP had_VHD finished_VVN fourth_JJ in_IN the_DT previous_JJ two_CD Olympics_NNS but_CC easily_RB shrugged_VVD off_RP Russia_NP 's_POS Hanna_NP Prakatsen_NP ,_, who_WP won_VVD silver_NN ._SENT 
+"_'' I_PP did_VVD n't_RB hear_VV the_DT buzzer_NN ,_, so_RB I_PP crossed_VVD the_DT line_NN and_CC thought_VVD that_IN I_PP had_VHD stopped_VVN too_RB early_JJ ,_, "_'' Twigg_NP said_VVD ._SENT 
+Magdalena_NP Lobnig_NP of_IN Austria_NP won_VVD bronze_NN ._SENT 
+Greece_NP 's_POS Stefanos_NP Ntouskos_NP made_VVD a_DT strong_JJ closing_NN burst_NN over_IN the_DT the_DT final_JJ 250_CD meters_NNS to_TO win_VV ._SENT 
+Ntouskas_NNS led_VVD early_RB only_RB to_TO see_VV Norway_NP 's_POS Kjetil_NN Borch_NNS begin_VVP to_TO close_VV the_DT gap_NN with_IN 500_CD meters_NNS to_TO go_VV ._SENT 
+Ntouskas_NP then_RB found_VVD the_DT late_JJ power_NN to_TO pull_VV away_RP and_CC build_VV a_DT lead_NN as_IN large_JJ as_IN a_DT boat_NN length_NN down_IN the_DT stretch_NN ._SENT 
+Borch_NNS won_VVD silver_NN ._SENT 
+Croatia_NP 's_POS Damir_NP Martin_NP rallied_VVD late_RB to_TO take_VV the_DT bronze_NN ._SENT 
+Ntouskos_NP switched_VVD from_IN a_DT lightweight_JJ quadruple_NN sculls_VVZ boat_NN to_TO the_DT single_JJ in_IN 2019_CD ,_, and_CC he_PP said_VVD the_DT extra_JJ year_NN of_IN training_NN due_JJ to_TO the_DT delay_NN caused_VVN by_IN the_DT pandemic_NN helped_VVD him_PP prepare_VVP ._SENT 
+"_`` I_PP was_VBD in_RB better_RBR shape_VV this_DT year_NN ,_, "_'' Ntouskos_NP said_VVD ._SENT 
+Croatia_NP 's_POS Martin_NP ,_, Valent_NP Sinkovic_NP take_VV home_NN rowing_NN gold_NN in_IN men_NNS 's_POS pairs_NNS at_IN Summer_NPS Olympics_NPS Croatian_JJ brothers_NNS Martin_NP and_CC Valent_NP Sinkovic_NP have_VHP dominated_VVN the_DT men_NNS 's_POS pair_NN in_IN Olympic_JJ rowing_NN ,_, cruising_VVG to_TO victory_NN in_IN a_DT race_NN they_PP led_VVD from_IN the_DT start_NN Thursday_NP at_IN the_DT Tokyo_NP Games_NPS ._SENT 
+The_DT Croatians_NNS were_VBD the_DT heavy_JJ favorites_NNS ._SENT 
+They_PP won_VVD double_JJ sculls_NNS in_IN 2016_CD ,_, then_RB switched_VVN boat_NN disciplines_NNS and_CC won_VVD two_CD world_NN championships_NNS before_IN claiming_VVG another_DT Olympic_JJ gold_NN medal_NN ._SENT 
+They_PP are_VBP the_DT first_JJ men_NNS to_TO win_VV Olympic_JJ gold_NN in_IN both_DT double_JJ sculls_NNS and_CC then_RB sweep_NN pairs_NNS ._SENT 
+Romania_NP 's_POS duo_NN of_IN Marius_NP Cozmiuc_NP and_CC Ciprian_NP Tudosas_NP won_VVD silver_NN ._SENT 
+Denmark_NP 's_POS Frederic_NP Vystavel_NP and_CC Joachim_NP Sutton_NP won_VVD bronze_NN ._SENT 
+New_NP Zealand_NP 's_POS Grace_NP Pendergrast_NP and_CC Kerri_NP Gowler_NP won_VVD gold_NN in_IN the_DT rowing_NN women_NNS 's_POS pair_NN ._SENT 
+The_DT Kiwi_NN duo_NN won_VVD the_DT world_NN championship_NN in_IN 2019_CD and_CC were_VBD favored_VVN to_TO grab_VV victory_NN in_IN Tokyo_NP ._SENT 
+They_PP are_VBP just_RB the_DT third_JJ non-European_JJ team_NN to_TO win_VV the_DT Olympic_JJ event_NN and_CC the_DT first_JJ since_IN 1996._CD Russia_NP 's_POS Vasilisia_NP Stepanova_NP and_CC Elena_NP Oriabinskaia_NP surged_VVD past_JJ Canada_NP 's_POS Caileigh_NP Filmer_NP and_CC Hillary_NP Janssens_NP over_IN the_DT final_JJ 300_CD meters_NNS to_TO take_VV the_DT silver_JJ medal_NN ._SENT 
+Canada_NP won_VVD bronze_NN ._SENT 
+Ireland_NP 's_POS duo_NN of_IN Fintan_NP McCarthy_NP and_CC Paul_NP O'Donovan_NP held_VVD off_RP a_DT late_JJ charge_NN from_IN Germany_NP 's_POS Jonathan_NP Rommelmann_NP and_CC Jason_NP Osborne_NP to_TO win_VV the_DT gold_JJ medal_NN in_IN men_NNS 's_POS lightweight_JJ double_JJ sculls_NNS ._SENT 
+The_DT Irish_JJ boat_NN looked_VVD secure_JJ through_IN the_DT first_JJ 1,000_CD meters_NNS before_IN the_DT Germans_NPS closed_VVD the_DT gap_NN with_IN 500_CD to_TO go_VV and_CC threatened_VVD to_TO pull_VV even_RB ._SENT 
+A_DT late_JJ surge_NN over_IN the_DT final_JJ 200_CD meters_NNS sent_VVD the_DT Irish_JJ to_TO the_DT win_NN by_IN 0.86_CD seconds_NNS ._SENT 
+Italy_NP 's_POS Stefano_NP Oppo_NP and_CC Pietro_NP Ruta_NP won_VVD bronze_NN ._SENT 
+Italy_NP 's_POS Valentina_NP Rodini_NP and_CC Federica_NP Cesarini_NP have_VHP surged_VVN over_IN the_DT final_JJ 50_CD meters_NNS to_TO snatch_VV the_DT gold_JJ medal_NN in_IN the_DT women_NNS 's_POS lightweight_JJ double_JJ sculls_NNS ._SENT 
+The_DT Dutch_JJ team_NN of_IN Marieke_NP Keiser_NP and_CC Ilse_NP Paulis_NP had_VHD led_VVN nearly_RB the_DT entire_JJ race_NN but_CC collapsed_VVD to_TO the_DT bronze_NN medal_NN in_IN the_DT final_JJ 20_CD meters_NNS as_IN the_DT French_JJ team_NN of_IN Laura_NP Tarantola_NP and_CC Claire_NP Bove_NP won_VVD silver_NN ._SENT 
+The_DT Dutch_JJ team_NN nearly_RB slipped_VVD out_RP of_IN the_DT medals_NNS entirely_RB ,_, and_CC only_RB took_VVD the_DT podium_NN by_IN 0.01_CD seconds_NNS ahead_RB of_IN Great_NP Britain_NP ._SENT 
+Fintan_NP McCarthy_NP ,_, Paul_NP O'Donovan_NP win_VVP Ireland_NP 's_VBZ first_RB ever_RB Olympic_JJ rowing_NN gold_NN medal_NN Ireland_NP has_VHZ won_VVN its_PP$ first_JJ ever_RB Olympic_JJ rowing_NN gold_NN medal_NN ,_, with_IN Fintan_NP McCarthy_NP and_CC Paul_NP O'Donovan_NP taking_VVG out_RP the_DT men_NNS 's_POS lightweight_JJ double_JJ sculls_NNS ._SENT 
+McCarthy_NP and_CC O'Donovan_NP won_VVD the_DT gold_JJ medal_NN in_IN a_DT time_NN of_IN 6_CD min_NP 06.43sec_NP ._SENT 
+Germany_NP finished_VVD second_JJ with_IN Italy_NP third_JJ ._SENT 
+O'Donovan_NP won_VVD the_DT silver_JJ medal_NN in_IN the_DT same_JJ event_NN ,_, with_IN his_PP$ brother_NN Gary_NP ,_, at_IN Rio_NP de_NP Janeiro_NP in_IN 2016._CD The_DT victory_NN provide_VV Ireland_NP with_IN its_PP$ second_JJ medal_NN at_IN Tokyo_NP 2020_CD ,_, after_IN Aifric_NP Keogh_NP ,_, Eimear_NP Lambe_NP ,_, Fiona_NP Murtagh_NP and_CC Emily_NP Hegarty_NP took_VVD bronze_NN in_IN the_DT women_NNS 's_POS four_CD ._SENT 
+Netherlands_NP men_NNS ,_, China_NP women_NNS set_VVD world_NN rowing_NN records_NNS at_IN Summer_NP Olympics_NPS The_DT Netherlands_NPS have_VHP set_VVN a_DT world_NN record_NN in_IN men_NNS 's_POS quadruple_JJ sculls_NNS with_IN a_DT sprint_NN over_IN the_DT final_JJ 500_CD meters_NNS to_TO win_VV the_DT gold_JJ medal_NN in_IN windy_JJ conditions_NNS Wednesday_NP at_IN the_DT Summer_NPS Olympics_NPS in_IN Japan_NP ._SENT 
+Their_PP$ time_NN of_IN 5_CD minutes_NNS ,_, 32.03_CD seconds_NNS beat_VVD the_DT previous_JJ mark_NN of_IN 5:32.26_CD set_NN by_IN Ukraine_NP at_IN the_DT 2014_CD world_NN championships_NNS ._SENT 
+The_DT Dutch_JJ boat_NN was_VBD fourth_JJ after_IN the_DT first_JJ 500_CD meters_NNS but_CC had_VHD closed_VVN to_TO second_JJ by_IN the_DT next_JJ marker_NN ._SENT 
+A_DT late_JJ push_NN overtook_VVD Great_NP Britain_NP for_IN the_DT lead_NN ._SENT 
+Great_NP Britain_NP then_RB held_VVD off_RP a_DT late_JJ charge_NN by_IN Australia_NP to_TO win_VV silver_NN ._SENT 
+Windy_NP conditions_NNS produced_VVD a_DT strong_JJ tailwind_NN for_IN the_DT rowers_NNS at_IN Tokyo_NP 's_POS Sea_NP Forest_NP Waterway_NN ,_, and_CC both_DT world_NN and_CC Olympic_JJ records_NNS were_VBD set_VVN in_IN each_DT of_IN Wednesday_NP 's_POS six_CD medal_NN races_NNS ._SENT 
+China_NP smashed_VVD the_DT world_NN record_NN in_IN women_NNS 's_POS quadruple_JJ sculls_NNS and_CC won_VVN gold_NN ._SENT 
+The_DT Chinese_JJ boat_NN finished_VVD in_IN 6_CD minutes_NNS ,_, 0.13_CD seconds_NNS and_CC shaved_VVD nearly_RB two_CD seconds_NNS off_IN the_DT previous_JJ mark_NN set_VVN by_IN the_DT Netherlands_NP in_IN 2014._CD The_DT race_NN was_VBD never_RB close_JJ ._SENT 
+Poland_NP won_VVD silver_JJ more_JJR than_IN 6_CD seconds_NNS behind_IN the_DT Chinese_JJ ._SENT 
+Australia_NP won_VVD bronze_NN ._SENT 
+The_DT French_JJ team_NN of_IN Hugo_NP Boucheron_NP and_CC Matthieu_NP Androdias_NPS has_VHZ held_VVN off_RP a_DT late_JJ charge_NN from_IN the_DT Netherlands_NPS over_IN the_DT final_JJ 50_CD meters_NNS to_TO win_VV the_DT men_NNS 's_POS double_JJ sculls_NNS by_IN 0.2_CD seconds_NNS in_IN Olympic_JJ record_NN time_NN of_IN 6:33_CD ._SENT 
+China_NP made_VVD a_DT strong_JJ move_NN out_IN of_IN the_DT start_NN before_IN falling_VVG back_RB even_RB with_IN the_DT French_JJ and_CC the_DT Netherlands_NPS ._SENT 
+The_DT Dutch_JJ boat_NN of_IN Melvin_NP Twellaar_NP and_CC Stef_NP Broenink_NP briefly_RB held_VVD the_DT lead_NN at_IN 1,500_CD meters_NNS ._SENT 
+Boucheron_NP and_CC Androdias_NP quickly_RB reeled_VVD in_IN the_DT Dutch_JJ with_IN a_DT powerful_JJ push_NN that_WDT was_VBD good_JJ enough_RB to_TO hold_VV off_RP a_DT late_JJ charge_NN at_IN the_DT finish_NN line_NN ._SENT 
+China_NP 's_POS Zhiyu_NP Liu_NP and_CC Liang_NP Zhang_NP finished_VVD third_JJ for_IN bronze_NN ._SENT 
+Australia_NP 's_POS women_NNS 's_POS four_CD set_NN an_DT Olympic-best_JJ time_NN to_TO win_VV the_DT gold_JJ medal_NN ._SENT 
+The_DT Australian_JJ boat_NN led_VVN at_IN each_DT marker_NN but_CC had_VHD to_TO fight_VV off_RP the_DT Netherlands_NPS over_IN the_DT last_JJ 50_CD meters_NNS to_TO win_VV in_IN 6:15.37_CD seconds_NNS ,_, just_RB .34_CD seconds_NNS ahead_RB of_IN the_DT Dutch_JJ boat_NN ._SENT 
+Ireland_NP took_VVD bronze_NN more_RBR than_IN 5_CD seconds_NNS back_RB ._SENT 
+Australia_NP 's_POS men_NNS 's_VBZ four_CD charged_VVN to_TO victory_NN moments_NNS after_IN the_DT Aussie_NN women_NNS claimed_VVD their_PP$ gold_NN ._SENT 
+Australia_NP had_VHD bolted_VVN to_TO the_DT front_NN by_IN the_DT 500-meter_NN mark_NN and_CC never_RB were_VBD challenged_VVN for_IN the_DT lead_NN to_TO reach_VV in_IN the_DT finish_NN line_NN as_IN Romania_NP fought_VVD a_DT late_JJ surge_NN by_IN Italy_NP to_TO claim_VV the_DT silver_JJ medal_NN ._SENT 
+Australia_NP 's_POS time_NN of_IN 5:42.76_CD set_VVD an_DT Olympic_JJ record_NN ._SENT 
+Italy_NP won_VVD bronze_NN ._SENT 
+Romania_NP 's_POS Ancuta_NP Bodnar_NP and_CC Simona_NP Radis_NP bolted_VVN from_IN the_DT start_NN and_CC never_RB let_VV up_RP in_IN a_DT dominating_JJ performance_NN in_IN the_DT women_NNS 's_POS sculls_NNS ._SENT 
+The_DT Romanians_NNS were_VBD never_RB challenged_VVN and_CC led_VVN by_IN two_CD boat_NN lengths_NNS with_IN just_RB 500_CD meters_NNS to_TO go_VV ._SENT 
+Bodnar_NP and_CC Radis_NP are_VBP both_CC just_RB 22._CD Their_PP$ sprint_NN to_TO victory_NN left_VVD the_DT only_JJ fight_NN for_IN the_DT silver_JJ medal_NN ,_, where_WRB New_NP Zealand_NP 's_POS Brooke_NP Donohue_NP and_CC Hannah_NP Osborne_NP edge_NN the_DT Dutch_JJ boat_NN of_IN Roos_NP de_NP Jong_NP and_CC Lisa_NP Scheenaard_NP ._SENT 
+Tokyo_NP 2021_CD :_: Indian_JJ rowers_NNS Arjun_NP Lal_NP Jat_NP and_CC Arvind_NP Singh_NP qualify_VVP for_IN Olympics_NNS in_IN double_JJ sculls_NNS event_NN Indian_JJ rowers_NNS Arjun_NP Lal_NP Jat_NP and_CC Arvind_NP Singh_NP qualified_VVD for_IN the_DT 2021_CD Tokyo_NP Olympics_NPS in_IN men_NNS 's_POS lightweight_JJ double_JJ sculls_NNS event_NN after_IN finishing_VVG second_JJ in_IN the_DT final_JJ race_NN of_IN the_DT Asia/Oceania_NP Continental_NP Qualifying_VVG Regatta_NP in_IN Tokyo_NP on_IN Friday_NP ._SENT 
+Another_DT Indian_NP ,_, Jakar_NP Khan_NP finished_VVD fourth_JJ in_IN the_DT men_NNS 's_POS singles_NNS sculls_NNS final_JJ which_WDT offers_VVZ five_CD Olympic_JJ quotas_NNS but_CC he_PP missed_VVD out_RP as_IN a_DT country_NN gets_VVZ only_RB one_CD qualifying_VVG spot_NN from_IN this_DT regatta_NN ._SENT 
+The_DT top_JJ three_CD qualify_VVP for_IN Olympics_NNS in_IN men_NNS 's_POS lightweight_JJ double_JJ sculls_NNS event_NN ._SENT 
+"_'' A_DT country_NN can_MD qualify_VV in_IN only_RB one_CD boat_NN from_IN this_DT regatta_NN and_CC since_IN Arjun_NP Lal_NP Jat_NP and_CC Arvind_NP Singh_NP had_VHD finished_VVN second_JJ in_IN men_NNS 's_POS lightweight_JJ double_JJ sculls_NNS ,_, they_PP will_MD qualify_VV ,_, "_`` Rowing_NN Federation_NP of_IN India_NP president_NN Rajlaxmi_NP Singh_NP Deo_NP told_VVD PTI_NP ._SENT 
+"_'' Jakar_NP Khan_NP finished_VVD fourth_JJ in_IN men_NNS 's_POS singles_NNS sculls_NNS and_CC unfortunately_RB ,_, he_PP will_MD not_RB qualify_VV for_IN Olympics_NPS ._SENT 
+Arjun_NP Lal_NP and_CC Arvind_NP Singh_NP were_VBD better_RBR placed_VVN as_IN they_PP were_VBD second_JJ ,_, "_'' she_PP added_VVD ._SENT 
+Arjun_NP Lal_NP and_CC Arvind_NP will_MD be_VB the_DT only_JJ Indian_JJ rowers_NNS in_IN Tokyo_NP Games_NP which_WDT open_VVP on_IN July_NP 23_CD as_IN the_DT country_NN will_MD not_RB participate_VV in_IN other_JJ Olympic_JJ qualifiers_NNS due_JJ to_TO the_DT COVID-19_JJ pandemic_NN ._SENT 
+"_`` There_EX is_VBZ another_DT Olympic_JJ qualifier_NN in_IN Italy_NP but_CC we_PP are_VBP not_RB sending_VVG anybody_NN due_JJ to_TO the_DT COVID-19_JJ situation_NN ._SENT 
+So_RB ,_, this_DT will_MD be_VB our_PP$ only_JJ participation_NN in_IN the_DT Olympics_NPS ,_, "_'' Deo_NP said_VVD referring_VVG to_TO the_DT deadly_JJ second_JJ wave_NN in_IN the_DT country_NN which_WDT has_VHZ led_VVN to_TO several_JJ countries_NNS imposing_VVG bans_NNS on_IN flights_NNS from_IN India_NP ._SENT 
+A_DT 14-member_NP Indian_NP team_NN participated_VVD in_IN the_DT event_NN held_VVN at_IN the_DT Sea_NP Forest_NP Waterway_NN on_IN Tokyo_NP Bay_NP ._SENT 
